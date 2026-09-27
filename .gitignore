@@ -1,0 +1,7 @@
+# Ignore all files in Demand
+data/raw/cea/Demand/*
+
+# Keep the folder itself
+!data/raw/cea/Demand/.gitkeep
+
+!data/raw/cea/cea_csv.gitkeep
