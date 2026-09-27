@@ -1,0 +1,130 @@
+START
+  │
+  ├── Create downloads/ folder
+  │
+  ├── Start Chrome
+  │
+  ├── For each year:
+  │      │
+  │      └── For each month:
+  │             │
+  │             ├── Open CEA website
+  │             │
+  │             ├── Find Year dropdown
+  │             ├── Find Month dropdown
+  │             ├── Find Report Type dropdown
+  │             │
+  │             ├── Select year
+  │             ├── Select month
+  │             ├── Select Power Supply Reports
+  │             │
+  │             ├── Click "Show Archive Reports"
+  │             │
+  │             ├── Wait 3 seconds
+  │             │
+  │             ├── Find "Power Supply Position - Peak"
+  │             │
+  │             ├── Find PDF link in that row
+  │             │
+  │             ├── Download PDF using requests
+  │             │
+  │             └── Save PDF
+  │
+  ├── Close Chrome
+  │
+  └── Print "Done."
+
+
+os -> for working with os, making directories
+time -> time functionality
+requests -> communicating with websites over http, downloading pdf
+selenium webdriver -> control a web browser
+selenium.webdriver.common.by import By -> tells selenium how we want to locate something.
+    By.TAG_NAME : find something based on its html tag
+    By.XPATH : Find something using an XPATH expression
+selenium.webriver.support.ui import Select -> interaction w/ dropdowns
+    select_by_visible_text('2015'), instead of manually clicking around.
+
+
+os.makedirs('downloads', exist_ok=True) -> make directory even if folder already exists.
+
+options = webdriver.ChromeOptions() -> configuration object for chrome
+options.add_argument('--headless=new')
+
+driver = webdriver.Chrome(options=options)
+
+driver.get(URL)  -> driver is the browser itself from python's perspective
+
+for year in YEARS: -> first loop
+    for i, month in enumerate(MONTHS, start=1): -> because we also need the month humber
+    print(f'Checking{month}{year}...')
+
+    selects = driver.find_elements(By.TAG_NAME, 'select')
+
+    year_dd, month_dd, type_dd = None, None, None -> initializing dropdowns
+
+    for s in selects: -> loop thru each dropdowns
+    options_text = [o.text.strip() for o in Select(s).options] -> Select(s) turns the html elemennt into a selenium object, Select(s).options gets all options inside this dropdown, o.text gets the text of the options and strip removes unnecessary spaces around the text, all inside a list comprehension.
+
+    if str(year) in options_text and '2015' in options_text:
+        year_dd = Select(s)   -> does this dropdown contain the current year and also the year 2015; str type casting because dropdown text is a string, checks for 2015 b/c the code assumes the year dropdown definitely contains 2015
+    elif month in options_text and 'January' in options_text:
+        month_dd = Select(s)
+    elif "Power Supply Reports" in options_text:
+        type_dd = Select(s)
+
+    if not(year_dd and month_dd and type_dd):
+        "Could not find one of the dropdowns"
+        continue
+
+    year_dd.select_by_visible_text(str(year)) -> Select the option whose visible text says (2015)
+    month_dd.select_by_visible_text(month)
+    type_dd.select_by_visible_text("Power Supply Reports")
+
+    try:
+        driver.find_element(
+        By.XPATH, -> find this element in the html tree
+        "//*[contains(translate(text(), 'A-Z', 'a-z'),'show archive reports)]" -> //* search broadly, text() look at the text inside the element, contains(A, B) is does A contain B, translates convert upper case to lower case
+        ).click() -> clicks the element selenium found
+    except Exception:
+    print('Could not find report button, skipping')
+    continue
+
+    time.sleep(3) -> for the server to load reports
+
+
+    pdf_url = None
+    rows = driver.find_elements(
+    By.XPATH,
+    "//*[contains(text(), "Power Supply Position - Peak")]"
+    )
+
+    for row in rows:
+        parent = row.find_element(By.XPATH, "./ancestor::tr[1]" if row.tag_name != "tr" else row)
+        links = parent.find_elements(By.XPATH, ".//a[@href]")
+        fir link in links:
+            href = link.get_attribute("href") or ""
+            if ".pdf" in href.lower():
+            pdf_url = href
+            break
+
+        if pdf_url:
+            break -> break if already found url
+        if not pdf_url:
+            print('no repots found fot this month)
+            continue
+
+        filename = f'downloads/PSP_Peak_{year}-{i:02d}.pdf -> PSP_Peak_2015-01.pdf
+
+        reponse = requests.get(pdf_url, timeout=60)
+
+        with open(filename, "wb") as f: -> write binary
+            f.write(reponse.content)
+            print(f'Saved {filename}')
+        driver.quit()
+        print("Done")
+
+
+
+
+
