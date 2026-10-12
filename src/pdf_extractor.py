@@ -8,6 +8,7 @@ PDF_DIR = "../data/raw/cea/Demand"
 OUTPUT_FILE = "data/raw/cea_monthly_peak_demand.csv"
 os.makedirs("data/raw", exist_ok=True)
 
+
 # 2. Canonical state mapping to clean Hindi/English text and aliases
 STATE_LOOKUP = {
     "chandigarh": "Chandigarh",
