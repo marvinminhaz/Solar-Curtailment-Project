@@ -1,0 +1,4885 @@
+state,fyear,month_num,month_name,peak_demand_mw
+Andhra Pradesh,2014-15,1,January,6397.0
+Andhra Pradesh,2014-15,2,February,6530.0
+Andhra Pradesh,2014-15,3,March,6790.0
+Andhra Pradesh,2015-16,4,April,6794.0
+Andhra Pradesh,2015-16,5,May,6737.0
+Andhra Pradesh,2015-16,6,June,6628.0
+Andhra Pradesh,2015-16,7,July,6900.0
+Andhra Pradesh,2015-16,8,August,6500.0
+Andhra Pradesh,2015-16,9,September,6336.0
+Andhra Pradesh,2015-16,10,October,6944.0
+Andhra Pradesh,2015-16,11,November,6792.0
+Andhra Pradesh,2015-16,12,December,6544.0
+Andhra Pradesh,2015-16,1,January,6868.0
+Andhra Pradesh,2015-16,2,February,7123.0
+Andhra Pradesh,2015-16,3,March,7400.0
+Andhra Pradesh,2016-17,4,April,7576.0
+Andhra Pradesh,2016-17,5,May,7373.0
+Andhra Pradesh,2016-17,6,June,7038.0
+Andhra Pradesh,2016-17,7,July,7175.0
+Andhra Pradesh,2016-17,8,August,7969.0
+Andhra Pradesh,2016-17,9,September,7726.0
+Andhra Pradesh,2016-17,10,October,7405.0
+Andhra Pradesh,2016-17,11,November,7300.0
+Andhra Pradesh,2016-17,12,December,7141.0
+Andhra Pradesh,2016-17,1,January,7372.0
+Andhra Pradesh,2016-17,2,February,7541.0
+Andhra Pradesh,2016-17,3,March,7660.0
+Andhra Pradesh,2017-18,4,April,7860.0
+Andhra Pradesh,2017-18,5,May,7914.0
+Andhra Pradesh,2017-18,6,June,8020.0
+Andhra Pradesh,2017-18,7,July,7968.0
+Andhra Pradesh,2017-18,8,August,7461.0
+Andhra Pradesh,2017-18,9,September,8063.0
+Andhra Pradesh,2017-18,10,October,7768.0
+Andhra Pradesh,2017-18,11,November,8178.0
+Andhra Pradesh,2017-18,12,December,8409.0
+Andhra Pradesh,2017-18,1,January,8578.0
+Andhra Pradesh,2017-18,2,February,8927.0
+Andhra Pradesh,2017-18,3,March,8993.0
+Andhra Pradesh,2018-19,4,April,8967.0
+Andhra Pradesh,2018-19,5,May,9253.0
+Andhra Pradesh,2018-19,6,June,9215.0
+Andhra Pradesh,2018-19,7,July,8558.0
+Andhra Pradesh,2018-19,8,August,8713.0
+Andhra Pradesh,2018-19,9,September,9435.0
+Andhra Pradesh,2018-19,10,October,9459.0
+Andhra Pradesh,2018-19,11,November,9077.0
+Andhra Pradesh,2018-19,12,December,8222.0
+Andhra Pradesh,2018-19,1,January,8487.0
+Andhra Pradesh,2018-19,2,February,8963.0
+Andhra Pradesh,2018-19,3,March,8988.0
+Andhra Pradesh,2019-20,4,April,9179.0
+Andhra Pradesh,2019-20,5,May,9880.0
+Andhra Pradesh,2019-20,6,June,10183.0
+Andhra Pradesh,2019-20,7,July,9246.0
+Andhra Pradesh,2019-20,8,August,9110.0
+Andhra Pradesh,2019-20,9,September,8698.0
+Andhra Pradesh,2019-20,10,October,7988.0
+Andhra Pradesh,2019-20,11,November,8426.0
+Andhra Pradesh,2019-20,12,December,9124.0
+Andhra Pradesh,2019-20,1,January,9608.0
+Andhra Pradesh,2019-20,2,February,9966.0
+Andhra Pradesh,2019-20,3,March,10225.0
+Andhra Pradesh,2020-21,4,April,8598.0
+Andhra Pradesh,2020-21,5,May,10102.0
+Andhra Pradesh,2020-21,6,June,9442.0
+Andhra Pradesh,2020-21,7,July,8500.0
+Andhra Pradesh,2020-21,8,August,8892.0
+Andhra Pradesh,2020-21,9,September,9523.0
+Andhra Pradesh,2020-21,10,October,8820.0
+Andhra Pradesh,2020-21,11,November,9490.0
+Andhra Pradesh,2020-21,12,December,8967.0
+Andhra Pradesh,2020-21,1,January,9977.0
+Andhra Pradesh,2020-21,2,February,10457.0
+Andhra Pradesh,2020-21,3,March,11193.0
+Andhra Pradesh,2021-22,4,April,11570.0
+Andhra Pradesh,2021-22,5,May,10252.0
+Andhra Pradesh,2021-22,6,June,10215.0
+Andhra Pradesh,2021-22,7,July,9654.0
+Andhra Pradesh,2021-22,8,August,11018.0
+Andhra Pradesh,2021-22,9,September,10452.0
+Andhra Pradesh,2021-22,10,October,9865.0
+Andhra Pradesh,2021-22,11,November,7876.0
+Andhra Pradesh,2021-22,12,December,9462.0
+Andhra Pradesh,2021-22,1,January,10143.0
+Andhra Pradesh,2021-22,2,February,11342.0
+Andhra Pradesh,2021-22,3,March,12551.0
+Andhra Pradesh,2022-23,4,April,13167.0
+Andhra Pradesh,2022-23,5,May,11218.0
+Andhra Pradesh,2022-23,6,June,11309.0
+Andhra Pradesh,2022-23,7,July,9790.0
+Andhra Pradesh,2022-23,8,August,11372.0
+Andhra Pradesh,2022-23,9,September,10920.0
+Andhra Pradesh,2022-23,10,October,9878.0
+Andhra Pradesh,2022-23,11,November,9588.0
+Andhra Pradesh,2022-23,12,December,10268.0
+Andhra Pradesh,2022-23,1,January,11472.0
+Andhra Pradesh,2022-23,2,February,11981.0
+Andhra Pradesh,2022-23,3,March,12227.0
+Andhra Pradesh,2023-24,4,April,12566.0
+Andhra Pradesh,2023-24,5,May,12653.0
+Andhra Pradesh,2023-24,6,June,12909.0
+Andhra Pradesh,2023-24,7,July,11584.0
+Andhra Pradesh,2023-24,8,August,12508.0
+Andhra Pradesh,2023-24,9,September,12372.0
+Andhra Pradesh,2023-24,10,October,13028.0
+Andhra Pradesh,2023-24,11,November,12084.0
+Andhra Pradesh,2023-24,12,December,11052.0
+Andhra Pradesh,2023-24,1,January,12216.0
+Andhra Pradesh,2023-24,2,February,13061.0
+Andhra Pradesh,2023-24,3,March,13237.0
+Andhra Pradesh,2024-25,4,April,13418.0
+Andhra Pradesh,2024-25,5,May,13712.0
+Andhra Pradesh,2024-25,6,June,12578.0
+Andhra Pradesh,2024-25,7,July,10901.0
+Andhra Pradesh,2024-25,8,August,11830.0
+Andhra Pradesh,2024-25,9,September,12436.0
+Andhra Pradesh,2024-25,10,October,11545.0
+Andhra Pradesh,2024-25,11,November,11024.0
+Andhra Pradesh,2024-25,12,December,10526.0
+Andhra Pradesh,2024-25,1,January,12087.0
+Andhra Pradesh,2024-25,2,February,12737.0
+Andhra Pradesh,2024-25,3,March,13108.0
+Andhra Pradesh,2025-26,4,April,13121.0
+Andhra Pradesh,2025-26,5,May,12599.0
+Andhra Pradesh,2025-26,6,June,12255.0
+Andhra Pradesh,2025-26,7,July,12956.0
+Andhra Pradesh,2025-26,8,August,12875.0
+Andhra Pradesh,2025-26,9,September,12469.0
+Andhra Pradesh,2025-26,10,October,10512.0
+Andhra Pradesh,2025-26,11,November,10091.0
+Andhra Pradesh,2025-26,12,December,11643.0
+Andhra Pradesh,2025-26,1,January,12622.0
+Andhra Pradesh,2025-26,2,February,13511.0
+Andhra Pradesh,2025-26,3,March,14005.0
+Andhra Pradesh,2026-27,4,April,14145.0
+Andhra Pradesh,2026-27,5,May,15019.0
+Andhra Pradesh,2026-27,6,June,13935.0
+Andhra Pradesh,2026-27,7,July,14425.0
+Andhra Pradesh,2026-27,8,August,13987.0
+Arunachal Pradesh,2014-15,1,January,120.0
+Arunachal Pradesh,2014-15,2,February,130.0
+Arunachal Pradesh,2014-15,3,March,120.0
+Arunachal Pradesh,2015-16,4,April,138.0
+Arunachal Pradesh,2015-16,5,May,138.0
+Arunachal Pradesh,2015-16,6,June,110.0
+Arunachal Pradesh,2015-16,7,July,110.0
+Arunachal Pradesh,2015-16,8,August,116.0
+Arunachal Pradesh,2015-16,9,September,122.0
+Arunachal Pradesh,2015-16,10,October,129.0
+Arunachal Pradesh,2015-16,11,November,120.0
+Arunachal Pradesh,2015-16,12,December,133.0
+Arunachal Pradesh,2015-16,1,January,118.0
+Arunachal Pradesh,2015-16,2,February,139.0
+Arunachal Pradesh,2015-16,3,March,115.0
+Arunachal Pradesh,2016-17,4,April,141.0
+Arunachal Pradesh,2016-17,5,May,119.0
+Arunachal Pradesh,2016-17,6,June,131.0
+Arunachal Pradesh,2016-17,7,July,136.0
+Arunachal Pradesh,2016-17,8,August,148.0
+Arunachal Pradesh,2016-17,9,September,143.0
+Arunachal Pradesh,2016-17,10,October,128.0
+Arunachal Pradesh,2016-17,11,November,127.0
+Arunachal Pradesh,2016-17,12,December,131.0
+Arunachal Pradesh,2016-17,1,January,122.0
+Arunachal Pradesh,2016-17,2,February,139.0
+Arunachal Pradesh,2016-17,3,March,139.0
+Arunachal Pradesh,2017-18,4,April,133.0
+Arunachal Pradesh,2017-18,5,May,145.0
+Arunachal Pradesh,2017-18,6,June,124.0
+Arunachal Pradesh,2017-18,7,July,132.0
+Arunachal Pradesh,2017-18,8,August,132.0
+Arunachal Pradesh,2017-18,9,September,135.0
+Arunachal Pradesh,2017-18,10,October,145.0
+Arunachal Pradesh,2017-18,11,November,144.0
+Arunachal Pradesh,2017-18,12,December,141.0
+Arunachal Pradesh,2017-18,1,January,139.0
+Arunachal Pradesh,2017-18,2,February,133.0
+Arunachal Pradesh,2017-18,3,March,129.0
+Arunachal Pradesh,2018-19,4,April,130.0
+Arunachal Pradesh,2018-19,5,May,128.0
+Arunachal Pradesh,2018-19,6,June,138.0
+Arunachal Pradesh,2018-19,7,July,130.0
+Arunachal Pradesh,2018-19,8,August,136.0
+Arunachal Pradesh,2018-19,9,September,132.0
+Arunachal Pradesh,2018-19,10,October,129.0
+Arunachal Pradesh,2018-19,11,November,128.0
+Arunachal Pradesh,2018-19,12,December,133.0
+Arunachal Pradesh,2018-19,1,January,126.0
+Arunachal Pradesh,2018-19,2,February,150.0
+Arunachal Pradesh,2018-19,3,March,133.0
+Arunachal Pradesh,2019-20,4,April,139.0
+Arunachal Pradesh,2019-20,5,May,140.0
+Arunachal Pradesh,2019-20,6,June,146.0
+Arunachal Pradesh,2019-20,7,July,137.0
+Arunachal Pradesh,2019-20,8,August,156.0
+Arunachal Pradesh,2019-20,9,September,156.0
+Arunachal Pradesh,2019-20,10,October,137.0
+Arunachal Pradesh,2019-20,11,November,151.0
+Arunachal Pradesh,2019-20,12,December,139.0
+Arunachal Pradesh,2019-20,1,January,125.0
+Arunachal Pradesh,2019-20,2,February,158.0
+Arunachal Pradesh,2019-20,3,March,154.0
+Arunachal Pradesh,2020-21,4,April,77.0
+Arunachal Pradesh,2020-21,5,May,108.0
+Arunachal Pradesh,2020-21,6,June,145.0
+Arunachal Pradesh,2020-21,7,July,155.0
+Arunachal Pradesh,2020-21,8,August,157.0
+Arunachal Pradesh,2020-21,9,September,158.0
+Arunachal Pradesh,2020-21,10,October,130.0
+Arunachal Pradesh,2020-21,11,November,149.0
+Arunachal Pradesh,2020-21,12,December,141.0
+Arunachal Pradesh,2020-21,1,January,149.0
+Arunachal Pradesh,2020-21,2,February,156.0
+Arunachal Pradesh,2020-21,3,March,142.0
+Arunachal Pradesh,2021-22,4,April,174.0
+Arunachal Pradesh,2021-22,5,May,155.0
+Arunachal Pradesh,2021-22,6,June,141.0
+Arunachal Pradesh,2021-22,7,July,197.0
+Arunachal Pradesh,2021-22,8,August,182.0
+Arunachal Pradesh,2021-22,9,September,186.0
+Arunachal Pradesh,2021-22,10,October,162.0
+Arunachal Pradesh,2021-22,11,November,169.0
+Arunachal Pradesh,2021-22,12,December,146.0
+Arunachal Pradesh,2021-22,1,January,164.0
+Arunachal Pradesh,2021-22,2,February,196.0
+Arunachal Pradesh,2021-22,3,March,143.0
+Arunachal Pradesh,2022-23,4,April,133.0
+Arunachal Pradesh,2022-23,5,May,142.0
+Arunachal Pradesh,2022-23,6,June,158.0
+Arunachal Pradesh,2022-23,7,July,143.0
+Arunachal Pradesh,2022-23,8,August,155.0
+Arunachal Pradesh,2022-23,9,September,144.0
+Arunachal Pradesh,2022-23,10,October,121.0
+Arunachal Pradesh,2022-23,11,November,125.0
+Arunachal Pradesh,2022-23,12,December,145.0
+Arunachal Pradesh,2022-23,1,January,166.0
+Arunachal Pradesh,2022-23,2,February,159.0
+Arunachal Pradesh,2022-23,3,March,167.0
+Arunachal Pradesh,2023-24,4,April,155.0
+Arunachal Pradesh,2023-24,5,May,165.0
+Arunachal Pradesh,2023-24,6,June,155.0
+Arunachal Pradesh,2023-24,7,July,151.0
+Arunachal Pradesh,2023-24,8,August,155.0
+Arunachal Pradesh,2023-24,9,September,163.0
+Arunachal Pradesh,2023-24,10,October,167.0
+Arunachal Pradesh,2023-24,11,November,160.0
+Arunachal Pradesh,2023-24,12,December,163.0
+Arunachal Pradesh,2023-24,1,January,181.0
+Arunachal Pradesh,2023-24,2,February,186.0
+Arunachal Pradesh,2023-24,3,March,177.0
+Arunachal Pradesh,2024-25,4,April,186.0
+Arunachal Pradesh,2024-25,5,May,198.0
+Arunachal Pradesh,2024-25,6,June,170.0
+Arunachal Pradesh,2024-25,7,July,186.0
+Arunachal Pradesh,2024-25,8,August,195.0
+Arunachal Pradesh,2024-25,9,September,194.0
+Arunachal Pradesh,2024-25,10,October,170.0
+Arunachal Pradesh,2024-25,11,November,167.0
+Arunachal Pradesh,2024-25,12,December,167.0
+Arunachal Pradesh,2024-25,1,January,196.0
+Arunachal Pradesh,2024-25,2,February,218.0
+Arunachal Pradesh,2024-25,3,March,180.0
+Arunachal Pradesh,2025-26,4,April,172.0
+Arunachal Pradesh,2025-26,5,May,184.0
+Arunachal Pradesh,2025-26,6,June,192.0
+Arunachal Pradesh,2025-26,7,July,223.0
+Arunachal Pradesh,2025-26,8,August,221.0
+Arunachal Pradesh,2025-26,9,September,196.0
+Arunachal Pradesh,2025-26,10,October,200.0
+Arunachal Pradesh,2025-26,11,November,171.0
+Arunachal Pradesh,2025-26,12,December,186.0
+Arunachal Pradesh,2025-26,1,January,190.0
+Arunachal Pradesh,2025-26,2,February,194.0
+Arunachal Pradesh,2025-26,3,March,186.0
+Arunachal Pradesh,2026-27,4,April,195.0
+Arunachal Pradesh,2026-27,5,May,184.0
+Arunachal Pradesh,2026-27,6,June,202.0
+Arunachal Pradesh,2026-27,7,July,202.0
+Arunachal Pradesh,2026-27,8,August,207.0
+Assam,2014-15,1,January,1380.0
+Assam,2014-15,2,February,1380.0
+Assam,2014-15,3,March,1320.0
+Assam,2015-16,4,April,1395.0
+Assam,2015-16,5,May,1382.0
+Assam,2015-16,6,June,1395.0
+Assam,2015-16,7,July,1487.0
+Assam,2015-16,8,August,1412.0
+Assam,2015-16,9,September,1435.0
+Assam,2015-16,10,October,1491.0
+Assam,2015-16,11,November,1379.0
+Assam,2015-16,12,December,1312.0
+Assam,2015-16,1,January,1339.0
+Assam,2015-16,2,February,1333.0
+Assam,2015-16,3,March,1343.0
+Assam,2016-17,4,April,1446.0
+Assam,2016-17,5,May,1497.0
+Assam,2016-17,6,June,1511.0
+Assam,2016-17,7,July,1591.0
+Assam,2016-17,8,August,1661.0
+Assam,2016-17,9,September,1616.0
+Assam,2016-17,10,October,1673.0
+Assam,2016-17,11,November,1531.0
+Assam,2016-17,12,December,1388.0
+Assam,2016-17,1,January,1466.0
+Assam,2016-17,2,February,1398.0
+Assam,2016-17,3,March,1392.0
+Assam,2017-18,4,April,1414.0
+Assam,2017-18,5,May,1649.0
+Assam,2017-18,6,June,1744.0
+Assam,2017-18,7,July,1675.0
+Assam,2017-18,8,August,1735.0
+Assam,2017-18,9,September,1770.0
+Assam,2017-18,10,October,1822.0
+Assam,2017-18,11,November,1515.0
+Assam,2017-18,12,December,1479.0
+Assam,2017-18,1,January,1539.0
+Assam,2017-18,2,February,1501.0
+Assam,2017-18,3,March,1472.0
+Assam,2018-19,4,April,1533.0
+Assam,2018-19,5,May,1626.0
+Assam,2018-19,6,June,1782.0
+Assam,2018-19,7,July,1863.0
+Assam,2018-19,8,August,1834.0
+Assam,2018-19,9,September,1865.0
+Assam,2018-19,10,October,1785.0
+Assam,2018-19,11,November,1547.0
+Assam,2018-19,12,December,1440.0
+Assam,2018-19,1,January,1491.0
+Assam,2018-19,2,February,1417.0
+Assam,2018-19,3,March,1743.0
+Assam,2019-20,4,April,1910.0
+Assam,2019-20,5,May,1935.0
+Assam,2019-20,6,June,2032.0
+Assam,2019-20,7,July,2021.0
+Assam,2019-20,8,August,2193.0
+Assam,2019-20,9,September,2134.0
+Assam,2019-20,10,October,1964.0
+Assam,2019-20,11,November,1727.0
+Assam,2019-20,12,December,1592.0
+Assam,2019-20,1,January,1582.0
+Assam,2019-20,2,February,1603.0
+Assam,2019-20,3,March,1677.0
+Assam,2020-21,4,April,1634.0
+Assam,2020-21,5,May,1926.0
+Assam,2020-21,6,June,1798.0
+Assam,2020-21,7,July,1837.0
+Assam,2020-21,8,August,1943.0
+Assam,2020-21,9,September,2072.0
+Assam,2020-21,10,October,1989.0
+Assam,2020-21,11,November,1724.0
+Assam,2020-21,12,December,1437.0
+Assam,2020-21,1,January,1461.0
+Assam,2020-21,2,February,1485.0
+Assam,2020-21,3,March,1751.0
+Assam,2021-22,4,April,1908.0
+Assam,2021-22,5,May,1951.0
+Assam,2021-22,6,June,2061.0
+Assam,2021-22,7,July,2104.0
+Assam,2021-22,8,August,2109.0
+Assam,2021-22,9,September,2104.0
+Assam,2021-22,10,October,2126.0
+Assam,2021-22,11,November,1636.0
+Assam,2021-22,12,December,1475.0
+Assam,2021-22,1,January,1505.0
+Assam,2021-22,2,February,1499.0
+Assam,2021-22,3,March,1911.0
+Assam,2022-23,4,April,1797.0
+Assam,2022-23,5,May,2144.0
+Assam,2022-23,6,June,2141.0
+Assam,2022-23,7,July,2231.0
+Assam,2022-23,8,August,2379.0
+Assam,2022-23,9,September,2338.0
+Assam,2022-23,10,October,2310.0
+Assam,2022-23,11,November,1714.0
+Assam,2022-23,12,December,1590.0
+Assam,2022-23,1,January,1651.0
+Assam,2022-23,2,February,1572.0
+Assam,2022-23,3,March,1670.0
+Assam,2023-24,4,April,2013.0
+Assam,2023-24,5,May,2219.0
+Assam,2023-24,6,June,2307.0
+Assam,2023-24,7,July,2390.0
+Assam,2023-24,8,August,2353.0
+Assam,2023-24,9,September,2413.0
+Assam,2023-24,10,October,2237.0
+Assam,2023-24,11,November,1932.0
+Assam,2023-24,12,December,1553.0
+Assam,2023-24,1,January,1538.0
+Assam,2023-24,2,February,1636.0
+Assam,2023-24,3,March,1810.0
+Assam,2024-25,4,April,2012.0
+Assam,2024-25,5,May,2405.0
+Assam,2024-25,6,June,2392.0
+Assam,2024-25,7,July,2524.0
+Assam,2024-25,8,August,2617.0
+Assam,2024-25,9,September,2812.0
+Assam,2024-25,10,October,2266.0
+Assam,2024-25,11,November,1850.0
+Assam,2024-25,12,December,1537.0
+Assam,2024-25,1,January,1577.0
+Assam,2024-25,2,February,1644.0
+Assam,2024-25,3,March,1911.0
+Assam,2025-26,4,April,2084.0
+Assam,2025-26,5,May,2336.0
+Assam,2025-26,6,June,2717.0
+Assam,2025-26,7,July,2805.0
+Assam,2025-26,8,August,2582.0
+Assam,2025-26,9,September,2812.0
+Assam,2025-26,10,October,2413.0
+Assam,2025-26,11,November,1917.0
+Assam,2025-26,12,December,1684.0
+Assam,2025-26,1,January,1635.0
+Assam,2025-26,2,February,1775.0
+Assam,2025-26,3,March,1888.0
+Assam,2026-27,4,April,2315.0
+Assam,2026-27,5,May,2495.0
+Assam,2026-27,6,June,2680.0
+Assam,2026-27,7,July,2743.0
+Assam,2026-27,8,August,2948.0
+Bihar,2014-15,1,January,2742.0
+Bihar,2014-15,2,February,2930.0
+Bihar,2014-15,3,March,2994.0
+Bihar,2015-16,4,April,3025.0
+Bihar,2015-16,5,May,2710.0
+Bihar,2015-16,6,June,2967.0
+Bihar,2015-16,7,July,3159.0
+Bihar,2015-16,8,August,3221.0
+Bihar,2015-16,9,September,3609.0
+Bihar,2015-16,10,October,3735.0
+Bihar,2015-16,11,November,3463.0
+Bihar,2015-16,12,December,3427.0
+Bihar,2015-16,1,January,3634.0
+Bihar,2015-16,2,February,3313.0
+Bihar,2015-16,3,March,3488.0
+Bihar,2016-17,4,April,3542.0
+Bihar,2016-17,5,May,3662.0
+Bihar,2016-17,6,June,3591.0
+Bihar,2016-17,7,July,3717.0
+Bihar,2016-17,8,August,3403.0
+Bihar,2016-17,9,September,3843.0
+Bihar,2016-17,10,October,3883.0
+Bihar,2016-17,11,November,3855.0
+Bihar,2016-17,12,December,3729.0
+Bihar,2016-17,1,January,3810.0
+Bihar,2016-17,2,February,3810.0
+Bihar,2016-17,3,March,3815.0
+Bihar,2017-18,4,April,3926.0
+Bihar,2017-18,5,May,4122.0
+Bihar,2017-18,6,June,4394.0
+Bihar,2017-18,7,July,4182.0
+Bihar,2017-18,8,August,4167.0
+Bihar,2017-18,9,September,4437.0
+Bihar,2017-18,10,October,4521.0
+Bihar,2017-18,11,November,3917.0
+Bihar,2017-18,12,December,4038.0
+Bihar,2017-18,1,January,4359.0
+Bihar,2017-18,2,February,4356.0
+Bihar,2017-18,3,March,4482.0
+Bihar,2018-19,4,April,4595.0
+Bihar,2018-19,5,May,4815.0
+Bihar,2018-19,6,June,4900.0
+Bihar,2018-19,7,July,4956.0
+Bihar,2018-19,8,August,4999.0
+Bihar,2018-19,9,September,5050.0
+Bihar,2018-19,10,October,5115.0
+Bihar,2018-19,11,November,4425.0
+Bihar,2018-19,12,December,4155.0
+Bihar,2018-19,1,January,4251.0
+Bihar,2018-19,2,February,4130.0
+Bihar,2018-19,3,March,4496.0
+Bihar,2019-20,4,April,5157.0
+Bihar,2019-20,5,May,5326.0
+Bihar,2019-20,6,June,5579.0
+Bihar,2019-20,7,July,5435.0
+Bihar,2019-20,8,August,5778.0
+Bihar,2019-20,9,September,5835.0
+Bihar,2019-20,10,October,5027.0
+Bihar,2019-20,11,November,4341.0
+Bihar,2019-20,12,December,4617.0
+Bihar,2019-20,1,January,4571.0
+Bihar,2019-20,2,February,4280.0
+Bihar,2019-20,3,March,4146.0
+Bihar,2020-21,4,April,4725.0
+Bihar,2020-21,5,May,5335.0
+Bihar,2020-21,6,June,5721.0
+Bihar,2020-21,7,July,5913.0
+Bihar,2020-21,8,August,5995.0
+Bihar,2020-21,9,September,5975.0
+Bihar,2020-21,10,October,5783.0
+Bihar,2020-21,11,November,4590.0
+Bihar,2020-21,12,December,5060.0
+Bihar,2020-21,1,January,5231.0
+Bihar,2020-21,2,February,5009.0
+Bihar,2020-21,3,March,5679.0
+Bihar,2021-22,4,April,6011.0
+Bihar,2021-22,5,May,5927.0
+Bihar,2021-22,6,June,6102.0
+Bihar,2021-22,7,July,7154.0
+Bihar,2021-22,8,August,6679.0
+Bihar,2021-22,9,September,6613.0
+Bihar,2021-22,10,October,6544.0
+Bihar,2021-22,11,November,4626.0
+Bihar,2021-22,12,December,4967.0
+Bihar,2021-22,1,January,5773.0
+Bihar,2021-22,2,February,5080.0
+Bihar,2021-22,3,March,6002.0
+Bihar,2022-23,4,April,6802.0
+Bihar,2022-23,5,May,6740.0
+Bihar,2022-23,6,June,6831.0
+Bihar,2022-23,7,July,7852.0
+Bihar,2022-23,8,August,7608.0
+Bihar,2022-23,9,September,6821.0
+Bihar,2022-23,10,October,6491.0
+Bihar,2022-23,11,November,5002.0
+Bihar,2022-23,12,December,5118.0
+Bihar,2022-23,1,January,5794.0
+Bihar,2022-23,2,February,5027.0
+Bihar,2022-23,3,March,5289.0
+Bihar,2023-24,4,April,6373.0
+Bihar,2023-24,5,May,6578.0
+Bihar,2023-24,6,June,6974.0
+Bihar,2023-24,7,July,7514.0
+Bihar,2023-24,8,August,8049.0
+Bihar,2023-24,9,September,7911.0
+Bihar,2023-24,10,October,6575.0
+Bihar,2023-24,11,November,5218.0
+Bihar,2023-24,12,December,5041.0
+Bihar,2023-24,1,January,5715.0
+Bihar,2023-24,2,February,5115.0
+Bihar,2023-24,3,March,5869.0
+Bihar,2024-25,4,April,6949.0
+Bihar,2024-25,5,May,7485.0
+Bihar,2024-25,6,June,7604.0
+Bihar,2024-25,7,July,7998.0
+Bihar,2024-25,8,August,7666.0
+Bihar,2024-25,9,September,8078.0
+Bihar,2024-25,10,October,7224.0
+Bihar,2024-25,11,November,6076.0
+Bihar,2024-25,12,December,5252.0
+Bihar,2024-25,1,January,5702.0
+Bihar,2024-25,2,February,5388.0
+Bihar,2024-25,3,March,6148.0
+Bihar,2025-26,4,April,7581.0
+Bihar,2025-26,5,May,7736.0
+Bihar,2025-26,6,June,8373.0
+Bihar,2025-26,7,July,8597.0
+Bihar,2025-26,8,August,8073.0
+Bihar,2025-26,9,September,8451.0
+Bihar,2025-26,10,October,7710.0
+Bihar,2025-26,11,November,5494.0
+Bihar,2025-26,12,December,6305.0
+Bihar,2025-26,1,January,6535.0
+Bihar,2025-26,2,February,5904.0
+Bihar,2025-26,3,March,6821.0
+Bihar,2026-27,4,April,8172.0
+Bihar,2026-27,5,May,8646.0
+Bihar,2026-27,6,June,8917.0
+Bihar,2026-27,7,July,9475.0
+Bihar,2026-27,8,August,9486.0
+Chandigarh,2014-15,1,January,252.0
+Chandigarh,2014-15,2,February,225.0
+Chandigarh,2014-15,3,March,199.0
+Chandigarh,2015-16,4,April,241.0
+Chandigarh,2015-16,5,May,266.0
+Chandigarh,2015-16,6,June,342.0
+Chandigarh,2015-16,7,July,331.0
+Chandigarh,2015-16,8,August,330.0
+Chandigarh,2015-16,9,September,319.0
+Chandigarh,2015-16,10,October,237.0
+Chandigarh,2015-16,11,November,190.0
+Chandigarh,2015-16,12,December,226.0
+Chandigarh,2015-16,1,January,248.0
+Chandigarh,2015-16,2,February,223.0
+Chandigarh,2015-16,3,March,195.0
+Chandigarh,2016-17,4,April,263.0
+Chandigarh,2016-17,5,May,361.0
+Chandigarh,2016-17,6,June,356.0
+Chandigarh,2016-17,7,July,358.0
+Chandigarh,2016-17,8,August,350.0
+Chandigarh,2016-17,9,September,313.0
+Chandigarh,2016-17,10,October,280.0
+Chandigarh,2016-17,11,November,183.0
+Chandigarh,2016-17,12,December,218.0
+Chandigarh,2016-17,1,January,246.0
+Chandigarh,2016-17,2,February,217.0
+Chandigarh,2016-17,3,March,214.0
+Chandigarh,2017-18,4,April,321.0
+Chandigarh,2017-18,5,May,340.0
+Chandigarh,2017-18,6,June,356.0
+Chandigarh,2017-18,7,July,363.0
+Chandigarh,2017-18,8,August,335.0
+Chandigarh,2017-18,9,September,287.0
+Chandigarh,2017-18,10,October,244.0
+Chandigarh,2017-18,11,November,189.0
+Chandigarh,2017-18,12,December,218.0
+Chandigarh,2017-18,1,January,242.0
+Chandigarh,2017-18,2,February,235.0
+Chandigarh,2017-18,3,March,232.0
+Chandigarh,2018-19,4,April,252.0
+Chandigarh,2018-19,5,May,350.0
+Chandigarh,2018-19,6,June,369.0
+Chandigarh,2018-19,7,July,368.0
+Chandigarh,2018-19,8,August,338.0
+Chandigarh,2018-19,9,September,293.0
+Chandigarh,2018-19,10,October,217.0
+Chandigarh,2018-19,11,November,199.0
+Chandigarh,2018-19,12,December,251.0
+Chandigarh,2018-19,1,January,258.0
+Chandigarh,2018-19,2,February,194.0
+Chandigarh,2018-19,3,March,223.0
+Chandigarh,2019-20,4,April,256.0
+Chandigarh,2019-20,5,May,380.0
+Chandigarh,2019-20,6,June,413.0
+Chandigarh,2019-20,7,July,431.0
+Chandigarh,2019-20,8,August,335.0
+Chandigarh,2019-20,9,September,379.0
+Chandigarh,2019-20,10,October,237.0
+Chandigarh,2019-20,11,November,211.0
+Chandigarh,2019-20,12,December,306.0
+Chandigarh,2019-20,1,January,265.0
+Chandigarh,2019-20,2,February,297.0
+Chandigarh,2019-20,3,March,218.0
+Chandigarh,2020-21,4,April,154.0
+Chandigarh,2020-21,5,May,297.0
+Chandigarh,2020-21,6,June,363.0
+Chandigarh,2020-21,7,July,383.0
+Chandigarh,2020-21,8,August,343.0
+Chandigarh,2020-21,9,September,318.0
+Chandigarh,2020-21,10,October,227.0
+Chandigarh,2020-21,11,November,205.0
+Chandigarh,2020-21,12,December,259.0
+Chandigarh,2020-21,1,January,285.0
+Chandigarh,2020-21,2,February,281.0
+Chandigarh,2020-21,3,March,198.0
+Chandigarh,2021-22,4,April,228.0
+Chandigarh,2021-22,5,May,282.0
+Chandigarh,2021-22,6,June,379.0
+Chandigarh,2021-22,7,July,426.0
+Chandigarh,2021-22,8,August,356.0
+Chandigarh,2021-22,9,September,334.0
+Chandigarh,2021-22,10,October,273.0
+Chandigarh,2021-22,11,November,194.0
+Chandigarh,2021-22,12,December,251.0
+Chandigarh,2021-22,1,January,271.0
+Chandigarh,2021-22,2,February,260.0
+Chandigarh,2021-22,3,March,220.0
+Chandigarh,2022-23,4,April,308.0
+Chandigarh,2022-23,5,May,367.0
+Chandigarh,2022-23,6,June,407.0
+Chandigarh,2022-23,7,July,401.0
+Chandigarh,2022-23,8,August,381.0
+Chandigarh,2022-23,9,September,374.0
+Chandigarh,2022-23,10,October,260.0
+Chandigarh,2022-23,11,November,254.0
+Chandigarh,2022-23,12,December,282.0
+Chandigarh,2022-23,1,January,323.0
+Chandigarh,2022-23,2,February,295.0
+Chandigarh,2022-23,3,March,204.0
+Chandigarh,2023-24,4,April,252.0
+Chandigarh,2023-24,5,May,321.0
+Chandigarh,2023-24,6,June,377.0
+Chandigarh,2023-24,7,July,371.0
+Chandigarh,2023-24,8,August,411.0
+Chandigarh,2023-24,9,September,388.0
+Chandigarh,2023-24,10,October,265.0
+Chandigarh,2023-24,11,November,205.0
+Chandigarh,2023-24,12,December,201.0
+Chandigarh,2023-24,1,January,348.0
+Chandigarh,2023-24,2,February,304.0
+Chandigarh,2023-24,3,March,237.0
+Chandigarh,2024-25,4,April,258.0
+Chandigarh,2024-25,5,May,432.0
+Chandigarh,2024-25,6,June,449.0
+Chandigarh,2024-25,7,July,434.0
+Chandigarh,2024-25,8,August,418.0
+Chandigarh,2024-25,9,September,397.0
+Chandigarh,2024-25,10,October,298.0
+Chandigarh,2024-25,11,November,221.0
+Chandigarh,2024-25,12,December,283.0
+Chandigarh,2024-25,1,January,312.0
+Chandigarh,2024-25,2,February,265.0
+Chandigarh,2024-25,3,March,229.0
+Chandigarh,2025-26,4,April,322.0
+Chandigarh,2025-26,5,May,431.0
+Chandigarh,2025-26,6,June,460.0
+Chandigarh,2025-26,7,July,399.0
+Chandigarh,2025-26,8,August,357.0
+Chandigarh,2025-26,9,September,350.0
+Chandigarh,2025-26,10,October,323.0
+Chandigarh,2025-26,11,November,218.0
+Chandigarh,2025-26,12,December,287.0
+Chandigarh,2025-26,1,January,340.0
+Chandigarh,2025-26,2,February,277.0
+Chandigarh,2025-26,3,March,228.0
+Chandigarh,2026-27,4,April,340.0
+Chandigarh,2026-27,5,May,411.0
+Chandigarh,2026-27,6,June,456.0
+Chandigarh,2026-27,7,July,447.0
+Chandigarh,2026-27,8,August,421.0
+Chhattisgarh,2014-15,1,January,3114.0
+Chhattisgarh,2014-15,2,February,3619.0
+Chhattisgarh,2014-15,3,March,3817.0
+Chhattisgarh,2015-16,4,April,3788.0
+Chhattisgarh,2015-16,5,May,3748.0
+Chhattisgarh,2015-16,6,June,3394.0
+Chhattisgarh,2015-16,7,July,3741.0
+Chhattisgarh,2015-16,8,August,3622.0
+Chhattisgarh,2015-16,9,September,3929.0
+Chhattisgarh,2015-16,10,October,3912.0
+Chhattisgarh,2015-16,11,November,3284.0
+Chhattisgarh,2015-16,12,December,3589.0
+Chhattisgarh,2015-16,1,January,3472.0
+Chhattisgarh,2015-16,2,February,3932.0
+Chhattisgarh,2015-16,3,March,3700.0
+Chhattisgarh,2016-17,4,April,3875.0
+Chhattisgarh,2016-17,5,May,3390.0
+Chhattisgarh,2016-17,6,June,3293.0
+Chhattisgarh,2016-17,7,July,3360.0
+Chhattisgarh,2016-17,8,August,3848.0
+Chhattisgarh,2016-17,9,September,3453.0
+Chhattisgarh,2016-17,10,October,3247.0
+Chhattisgarh,2016-17,11,November,3087.0
+Chhattisgarh,2016-17,12,December,3502.0
+Chhattisgarh,2016-17,1,January,3308.0
+Chhattisgarh,2016-17,2,February,3397.0
+Chhattisgarh,2016-17,3,March,3708.0
+Chhattisgarh,2017-18,4,April,3888.0
+Chhattisgarh,2017-18,5,May,3737.0
+Chhattisgarh,2017-18,6,June,3388.0
+Chhattisgarh,2017-18,7,July,3758.0
+Chhattisgarh,2017-18,8,August,4035.0
+Chhattisgarh,2017-18,9,September,4169.0
+Chhattisgarh,2017-18,10,October,3651.0
+Chhattisgarh,2017-18,11,November,3250.0
+Chhattisgarh,2017-18,12,December,3202.0
+Chhattisgarh,2017-18,1,January,3440.0
+Chhattisgarh,2017-18,2,February,3390.0
+Chhattisgarh,2017-18,3,March,3706.0
+Chhattisgarh,2018-19,4,April,3658.0
+Chhattisgarh,2018-19,5,May,3663.0
+Chhattisgarh,2018-19,6,June,3722.0
+Chhattisgarh,2018-19,7,July,3977.0
+Chhattisgarh,2018-19,8,August,4140.0
+Chhattisgarh,2018-19,9,September,4404.0
+Chhattisgarh,2018-19,10,October,4416.0
+Chhattisgarh,2018-19,11,November,3788.0
+Chhattisgarh,2018-19,12,December,3414.0
+Chhattisgarh,2018-19,1,January,3949.0
+Chhattisgarh,2018-19,2,February,4094.0
+Chhattisgarh,2018-19,3,March,4444.0
+Chhattisgarh,2019-20,4,April,4596.0
+Chhattisgarh,2019-20,5,May,4504.0
+Chhattisgarh,2019-20,6,June,4103.0
+Chhattisgarh,2019-20,7,July,4746.0
+Chhattisgarh,2019-20,8,August,4285.0
+Chhattisgarh,2019-20,9,September,4400.0
+Chhattisgarh,2019-20,10,October,4079.0
+Chhattisgarh,2019-20,11,November,3548.0
+Chhattisgarh,2019-20,12,December,3805.0
+Chhattisgarh,2019-20,1,January,3829.0
+Chhattisgarh,2019-20,2,February,4033.0
+Chhattisgarh,2019-20,3,March,3989.0
+Chhattisgarh,2020-21,4,April,3473.0
+Chhattisgarh,2020-21,5,May,3736.0
+Chhattisgarh,2020-21,6,June,3677.0
+Chhattisgarh,2020-21,7,July,4577.0
+Chhattisgarh,2020-21,8,August,4485.0
+Chhattisgarh,2020-21,9,September,4335.0
+Chhattisgarh,2020-21,10,October,3963.0
+Chhattisgarh,2020-21,11,November,3523.0
+Chhattisgarh,2020-21,12,December,4118.0
+Chhattisgarh,2020-21,1,January,4448.0
+Chhattisgarh,2020-21,2,February,4513.0
+Chhattisgarh,2020-21,3,March,4682.0
+Chhattisgarh,2021-22,4,April,4792.0
+Chhattisgarh,2021-22,5,May,4059.0
+Chhattisgarh,2021-22,6,June,4110.0
+Chhattisgarh,2021-22,7,July,4840.0
+Chhattisgarh,2021-22,8,August,4878.0
+Chhattisgarh,2021-22,9,September,4870.0
+Chhattisgarh,2021-22,10,October,4387.0
+Chhattisgarh,2021-22,11,November,3805.0
+Chhattisgarh,2021-22,12,December,4019.0
+Chhattisgarh,2021-22,1,January,4242.0
+Chhattisgarh,2021-22,2,February,4664.0
+Chhattisgarh,2021-22,3,March,5019.0
+Chhattisgarh,2022-23,4,April,5339.0
+Chhattisgarh,2022-23,5,May,4975.0
+Chhattisgarh,2022-23,6,June,4685.0
+Chhattisgarh,2022-23,7,July,4831.0
+Chhattisgarh,2022-23,8,August,5073.0
+Chhattisgarh,2022-23,9,September,4917.0
+Chhattisgarh,2022-23,10,October,4648.0
+Chhattisgarh,2022-23,11,November,4098.0
+Chhattisgarh,2022-23,12,December,4814.0
+Chhattisgarh,2022-23,1,January,5142.0
+Chhattisgarh,2022-23,2,February,5326.0
+Chhattisgarh,2022-23,3,March,5399.0
+Chhattisgarh,2023-24,4,April,5399.0
+Chhattisgarh,2023-24,5,May,4905.0
+Chhattisgarh,2023-24,6,June,5289.0
+Chhattisgarh,2023-24,7,July,5314.0
+Chhattisgarh,2023-24,8,August,5827.0
+Chhattisgarh,2023-24,9,September,5836.0
+Chhattisgarh,2023-24,10,October,5325.0
+Chhattisgarh,2023-24,11,November,4648.0
+Chhattisgarh,2023-24,12,December,4726.0
+Chhattisgarh,2023-24,1,January,5338.0
+Chhattisgarh,2023-24,2,February,5819.0
+Chhattisgarh,2023-24,3,March,6148.0
+Chhattisgarh,2024-25,4,April,6367.0
+Chhattisgarh,2024-25,5,May,6073.0
+Chhattisgarh,2024-25,6,June,5438.0
+Chhattisgarh,2024-25,7,July,5948.0
+Chhattisgarh,2024-25,8,August,5478.0
+Chhattisgarh,2024-25,9,September,5873.0
+Chhattisgarh,2024-25,10,October,5916.0
+Chhattisgarh,2024-25,11,November,4580.0
+Chhattisgarh,2024-25,12,December,5169.0
+Chhattisgarh,2024-25,1,January,5906.0
+Chhattisgarh,2024-25,2,February,6181.0
+Chhattisgarh,2024-25,3,March,6511.0
+Chhattisgarh,2025-26,4,April,6819.0
+Chhattisgarh,2025-26,5,May,5720.0
+Chhattisgarh,2025-26,6,June,5604.0
+Chhattisgarh,2025-26,7,July,5512.0
+Chhattisgarh,2025-26,8,August,6487.0
+Chhattisgarh,2025-26,9,September,6017.0
+Chhattisgarh,2025-26,10,October,5288.0
+Chhattisgarh,2025-26,11,November,4805.0
+Chhattisgarh,2025-26,12,December,5486.0
+Chhattisgarh,2025-26,1,January,5849.0
+Chhattisgarh,2025-26,2,February,6282.0
+Chhattisgarh,2025-26,3,March,6621.0
+Chhattisgarh,2026-27,4,April,7080.0
+Chhattisgarh,2026-27,5,May,6471.0
+Chhattisgarh,2026-27,6,June,5990.0
+Chhattisgarh,2026-27,7,July,6730.0
+Chhattisgarh,2026-27,8,August,6008.0
+DVC,2014-15,1,January,2502.0
+DVC,2014-15,2,February,2360.0
+DVC,2014-15,3,March,2423.0
+DVC,2015-16,4,April,2562.0
+DVC,2015-16,5,May,2630.0
+DVC,2015-16,6,June,2749.0
+DVC,2015-16,7,July,2718.0
+DVC,2015-16,8,August,2381.0
+DVC,2015-16,9,September,2411.0
+DVC,2015-16,10,October,2324.0
+DVC,2015-16,11,November,2310.0
+DVC,2015-16,12,December,2347.0
+DVC,2015-16,1,January,2421.0
+DVC,2015-16,2,February,2474.0
+DVC,2015-16,3,March,2473.0
+DVC,2016-17,4,April,2562.0
+DVC,2016-17,5,May,2478.0
+DVC,2016-17,6,June,2686.0
+DVC,2016-17,7,July,2459.0
+DVC,2016-17,8,August,2469.0
+DVC,2016-17,9,September,2524.0
+DVC,2016-17,10,October,2450.0
+DVC,2016-17,11,November,2357.0
+DVC,2016-17,12,December,2507.0
+DVC,2016-17,1,January,2721.0
+DVC,2016-17,2,February,2570.0
+DVC,2016-17,3,March,2663.0
+DVC,2017-18,4,April,2651.0
+DVC,2017-18,5,May,2684.0
+DVC,2017-18,6,June,2518.0
+DVC,2017-18,7,July,2592.0
+DVC,2017-18,8,August,2538.0
+DVC,2017-18,9,September,2785.0
+DVC,2017-18,10,October,2573.0
+DVC,2017-18,11,November,2731.0
+DVC,2017-18,12,December,2737.0
+DVC,2017-18,1,January,2886.0
+DVC,2017-18,2,February,2758.0
+DVC,2017-18,3,March,2896.0
+DVC,2018-19,4,April,2799.0
+DVC,2018-19,5,May,2701.0
+DVC,2018-19,6,June,2700.0
+DVC,2018-19,7,July,2874.0
+DVC,2018-19,8,August,2717.0
+DVC,2018-19,9,September,2641.0
+DVC,2018-19,10,October,2893.0
+DVC,2018-19,11,November,2837.0
+DVC,2018-19,12,December,2958.0
+DVC,2018-19,1,January,2873.0
+DVC,2018-19,2,February,3100.0
+DVC,2018-19,3,March,2954.0
+DVC,2019-20,4,April,3014.0
+DVC,2019-20,5,May,2971.0
+DVC,2019-20,6,June,3002.0
+DVC,2019-20,7,July,2874.0
+DVC,2019-20,8,August,2855.0
+DVC,2019-20,9,September,2881.0
+DVC,2019-20,10,October,2831.0
+DVC,2019-20,11,November,2809.0
+DVC,2019-20,12,December,2850.0
+DVC,2019-20,1,January,2979.0
+DVC,2019-20,2,February,2905.0
+DVC,2019-20,3,March,2509.0
+DVC,2020-21,4,April,1417.0
+DVC,2020-21,5,May,2462.0
+DVC,2020-21,6,June,2715.0
+DVC,2020-21,7,July,2925.0
+DVC,2020-21,8,August,2805.0
+DVC,2020-21,9,September,2934.0
+DVC,2020-21,10,October,3173.0
+DVC,2020-21,11,November,2882.0
+DVC,2020-21,12,December,2925.0
+DVC,2020-21,1,January,3141.0
+DVC,2020-21,2,February,3084.0
+DVC,2020-21,3,March,3129.0
+DVC,2021-22,4,April,3086.0
+DVC,2021-22,5,May,2965.0
+DVC,2021-22,6,June,2923.0
+DVC,2021-22,7,July,2909.0
+DVC,2021-22,8,August,2919.0
+DVC,2021-22,9,September,3037.0
+DVC,2021-22,10,October,2976.0
+DVC,2021-22,11,November,2998.0
+DVC,2021-22,12,December,2932.0
+DVC,2021-22,1,January,3125.0
+DVC,2021-22,2,February,3102.0
+DVC,2021-22,3,March,3355.0
+DVC,2022-23,4,April,3402.0
+DVC,2022-23,5,May,3330.0
+DVC,2022-23,6,June,3355.0
+DVC,2022-23,7,July,3309.0
+DVC,2022-23,8,August,3261.0
+DVC,2022-23,9,September,3298.0
+DVC,2022-23,10,October,3157.0
+DVC,2022-23,11,November,3093.0
+DVC,2022-23,12,December,3228.0
+DVC,2022-23,1,January,3339.0
+DVC,2022-23,2,February,3338.0
+DVC,2022-23,3,March,3268.0
+DVC,2023-24,4,April,3420.0
+DVC,2023-24,5,May,3387.0
+DVC,2023-24,6,June,3395.0
+DVC,2023-24,7,July,3238.0
+DVC,2023-24,8,August,3394.0
+DVC,2023-24,9,September,3451.0
+DVC,2023-24,10,October,3312.0
+DVC,2023-24,11,November,3183.0
+DVC,2023-24,12,December,3271.0
+DVC,2023-24,1,January,2974.0
+DVC,2023-24,2,February,3231.0
+DVC,2023-24,3,March,3336.0
+DVC,2024-25,4,April,3288.0
+DVC,2024-25,5,May,3409.0
+DVC,2024-25,6,June,3482.0
+DVC,2024-25,7,July,3557.0
+DVC,2024-25,8,August,3552.0
+DVC,2024-25,9,September,3579.0
+DVC,2024-25,10,October,3456.0
+DVC,2024-25,11,November,3172.0
+DVC,2024-25,12,December,3605.0
+DVC,2024-25,1,January,3708.0
+DVC,2024-25,2,February,3649.0
+DVC,2024-25,3,March,3662.0
+DVC,2025-26,4,April,3520.0
+DVC,2025-26,5,May,3471.0
+DVC,2025-26,6,June,3396.0
+DVC,2025-26,7,July,3326.0
+DVC,2025-26,8,August,3333.0
+DVC,2025-26,9,September,3358.0
+DVC,2025-26,10,October,3365.0
+DVC,2025-26,11,November,3101.0
+DVC,2025-26,12,December,3312.0
+DVC,2025-26,1,January,3532.0
+DVC,2025-26,2,February,3317.0
+DVC,2025-26,3,March,3329.0
+DVC,2026-27,4,April,3676.0
+DVC,2026-27,5,May,3431.0
+DVC,2026-27,6,June,3468.0
+DVC,2026-27,7,July,3463.0
+DVC,2026-27,8,August,3247.0
+Dadra and Nagar Haveli and Daman and Diu,2014-15,1,January,297.0
+Dadra and Nagar Haveli and Daman and Diu,2014-15,2,February,297.0
+Dadra and Nagar Haveli and Daman and Diu,2014-15,3,March,301.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,4,April,301.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,5,May,278.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,6,June,281.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,7,July,281.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,8,August,307.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,9,September,307.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,10,October,307.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,11,November,307.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,12,December,296.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,1,January,301.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,2,February,304.0
+Dadra and Nagar Haveli and Daman and Diu,2015-16,3,March,304.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,4,April,304.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,5,May,304.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,6,June,327.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,7,July,327.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,8,August,327.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,10,October,327.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,11,November,314.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,12,December,296.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,1,January,312.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,2,February,281.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,3,March,334.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,4,April,334.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,5,May,339.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,6,June,342.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,7,July,322.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,8,August,336.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,9,September,351.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,10,October,349.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,11,November,336.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,12,December,362.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,1,January,339.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,2,February,353.0
+Dadra and Nagar Haveli and Daman and Diu,2017-18,3,March,350.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,4,April,347.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,5,May,310.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,6,June,351.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,7,July,351.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,8,August,347.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,9,September,357.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,10,October,342.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,11,November,329.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,12,December,328.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,1,January,339.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,2,February,331.0
+Dadra and Nagar Haveli and Daman and Diu,2018-19,3,March,336.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,4,April,341.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,5,May,344.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,6,June,351.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,7,July,350.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,8,August,350.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,9,September,340.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,10,October,347.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,11,November,332.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,12,December,339.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,1,January,347.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,2,February,346.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,3,March,343.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,4,April,159.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,5,May,226.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,6,June,255.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,7,July,259.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,8,August,303.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,9,September,334.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,10,October,352.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,11,November,346.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,12,December,344.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,1,January,350.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,2,February,349.0
+Dadra and Nagar Haveli and Daman and Diu,2020-21,3,March,356.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,4,April,344.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,5,May,300.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,6,June,333.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,7,July,351.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,8,August,344.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,9,September,350.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,10,October,357.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,11,November,371.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,12,December,339.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,1,January,340.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,2,February,352.0
+Dadra and Nagar Haveli and Daman and Diu,2021-22,3,March,366.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,4,April,360.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,5,May,367.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,6,June,663.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,7,July,624.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,8,August,622.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,9,September,647.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,10,October,655.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,11,November,679.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,12,December,689.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,1,January,677.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,2,February,689.0
+Dadra and Nagar Haveli and Daman and Diu,2022-23,3,March,718.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,4,April,718.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,5,May,755.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,6,June,776.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,7,July,647.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,8,August,667.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,9,September,704.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,10,October,734.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,11,November,733.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,12,December,704.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,1,January,721.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,2,February,749.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,3,March,767.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,4,April,803.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,5,May,803.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,6,June,799.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,7,July,697.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,8,August,690.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,9,September,718.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,10,October,741.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,11,November,743.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,12,December,749.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,1,January,754.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,2,February,766.0
+Dadra and Nagar Haveli and Daman and Diu,2024-25,3,March,810.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,4,April,71.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,5,May,864.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,6,June,755.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,7,July,719.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,8,August,718.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,9,September,730.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,10,October,750.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,11,November,742.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,12,December,744.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,1,January,756.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,2,February,782.0
+Dadra and Nagar Haveli and Daman and Diu,2025-26,3,March,838.0
+Dadra and Nagar Haveli and Daman and Diu,2026-27,4,April,891.0
+Dadra and Nagar Haveli and Daman and Diu,2026-27,5,May,875.0
+Dadra and Nagar Haveli and Daman and Diu,2026-27,6,June,835.0
+Dadra and Nagar Haveli and Daman and Diu,2026-27,7,July,792.0
+Dadra and Nagar Haveli and Daman and Diu,2026-27,8,August,854.0
+Delhi,2014-15,1,January,4405.0
+Delhi,2014-15,2,February,3847.0
+Delhi,2014-15,3,March,3589.0
+Delhi,2015-16,4,April,4517.0
+Delhi,2015-16,5,May,5465.0
+Delhi,2015-16,6,June,5846.0
+Delhi,2015-16,7,July,5743.0
+Delhi,2015-16,8,August,5434.0
+Delhi,2015-16,9,September,5463.0
+Delhi,2015-16,10,October,4481.0
+Delhi,2015-16,11,November,3512.0
+Delhi,2015-16,12,December,3944.0
+Delhi,2015-16,1,January,4176.0
+Delhi,2015-16,2,February,3849.0
+Delhi,2015-16,3,March,3618.0
+Delhi,2016-17,4,April,4799.0
+Delhi,2016-17,5,May,6308.0
+Delhi,2016-17,6,June,6261.0
+Delhi,2016-17,7,July,6342.0
+Delhi,2016-17,8,August,5707.0
+Delhi,2016-17,9,September,5305.0
+Delhi,2016-17,10,October,5442.0
+Delhi,2016-17,11,November,3510.0
+Delhi,2016-17,12,December,3857.0
+Delhi,2016-17,1,January,4168.0
+Delhi,2016-17,2,February,3882.0
+Delhi,2016-17,3,March,4139.0
+Delhi,2017-18,4,April,5688.0
+Delhi,2017-18,5,May,6021.0
+Delhi,2017-18,6,June,6553.0
+Delhi,2017-18,7,July,6127.0
+Delhi,2017-18,8,August,6133.0
+Delhi,2017-18,9,September,5661.0
+Delhi,2017-18,10,October,4723.0
+Delhi,2017-18,11,November,3965.0
+Delhi,2017-18,12,December,4008.0
+Delhi,2017-18,1,January,4464.0
+Delhi,2017-18,2,February,3946.0
+Delhi,2017-18,3,March,3766.0
+Delhi,2018-19,4,April,5200.0
+Delhi,2018-19,5,May,6442.0
+Delhi,2018-19,6,June,6937.0
+Delhi,2018-19,7,July,7016.0
+Delhi,2018-19,8,August,5937.0
+Delhi,2018-19,9,September,5358.0
+Delhi,2018-19,10,October,4713.0
+Delhi,2018-19,11,November,3788.0
+Delhi,2018-19,12,December,4417.0
+Delhi,2018-19,1,January,4472.0
+Delhi,2018-19,2,February,4398.0
+Delhi,2018-19,3,March,4016.0
+Delhi,2019-20,4,April,5664.0
+Delhi,2019-20,5,May,6461.0
+Delhi,2019-20,6,June,6904.0
+Delhi,2019-20,7,July,7409.0
+Delhi,2019-20,8,August,6473.0
+Delhi,2019-20,9,September,6626.0
+Delhi,2019-20,10,October,4605.0
+Delhi,2019-20,11,November,3631.0
+Delhi,2019-20,12,December,5245.0
+Delhi,2019-20,1,January,5226.0
+Delhi,2019-20,2,February,4447.0
+Delhi,2019-20,3,March,3775.0
+Delhi,2020-21,4,April,3362.0
+Delhi,2020-21,5,May,5464.0
+Delhi,2020-21,6,June,6314.0
+Delhi,2020-21,7,July,6310.0
+Delhi,2020-21,8,August,5737.0
+Delhi,2020-21,9,September,6231.0
+Delhi,2020-21,10,October,4820.0
+Delhi,2020-21,11,November,3769.0
+Delhi,2020-21,12,December,4671.0
+Delhi,2020-21,1,January,5021.0
+Delhi,2020-21,2,February,4486.0
+Delhi,2020-21,3,March,3709.0
+Delhi,2021-22,4,April,4372.0
+Delhi,2021-22,5,May,4959.0
+Delhi,2021-22,6,June,6921.0
+Delhi,2021-22,7,July,7323.0
+Delhi,2021-22,8,August,6550.0
+Delhi,2021-22,9,September,5548.0
+Delhi,2021-22,10,October,5391.0
+Delhi,2021-22,11,November,3831.0
+Delhi,2021-22,12,December,4685.0
+Delhi,2021-22,1,January,5104.0
+Delhi,2021-22,2,February,4985.0
+Delhi,2021-22,3,March,4648.0
+Delhi,2022-23,4,April,6197.0
+Delhi,2022-23,5,May,7070.0
+Delhi,2022-23,6,June,7695.0
+Delhi,2022-23,7,July,7517.0
+Delhi,2022-23,8,August,6446.0
+Delhi,2022-23,9,September,6687.0
+Delhi,2022-23,10,October,4990.0
+Delhi,2022-23,11,November,3941.0
+Delhi,2022-23,12,December,4964.0
+Delhi,2022-23,1,January,5623.0
+Delhi,2022-23,2,February,4667.0
+Delhi,2022-23,3,March,3979.0
+Delhi,2023-24,4,April,5422.0
+Delhi,2023-24,5,May,6916.0
+Delhi,2023-24,6,June,7226.0
+Delhi,2023-24,7,July,7398.0
+Delhi,2023-24,8,August,7437.0
+Delhi,2023-24,9,September,6993.0
+Delhi,2023-24,10,October,5583.0
+Delhi,2023-24,11,November,4320.0
+Delhi,2023-24,12,December,4884.0
+Delhi,2023-24,1,January,5816.0
+Delhi,2023-24,2,February,5406.0
+Delhi,2023-24,3,March,4482.0
+Delhi,2024-25,4,April,5447.0
+Delhi,2024-25,5,May,8302.0
+Delhi,2024-25,6,June,8656.0
+Delhi,2024-25,7,July,8175.0
+Delhi,2024-25,8,August,6890.0
+Delhi,2024-25,9,September,6785.0
+Delhi,2024-25,10,October,6161.0
+Delhi,2024-25,11,November,4259.0
+Delhi,2024-25,12,December,5213.0
+Delhi,2024-25,1,January,5655.0
+Delhi,2024-25,2,February,4657.0
+Delhi,2024-25,3,March,4361.0
+Delhi,2025-26,4,April,6014.0
+Delhi,2025-26,5,May,7748.0
+Delhi,2025-26,6,June,8442.0
+Delhi,2025-26,7,July,7568.0
+Delhi,2025-26,8,August,7050.0
+Delhi,2025-26,9,September,7064.0
+Delhi,2025-26,10,October,5956.0
+Delhi,2025-26,11,November,4486.0
+Delhi,2025-26,12,December,5505.0
+Delhi,2025-26,1,January,6087.0
+Delhi,2025-26,2,February,5452.0
+Delhi,2025-26,3,March,4592.0
+Delhi,2026-27,4,April,7091.0
+Delhi,2026-27,5,May,8439.0
+Delhi,2026-27,6,June,8439.0
+Delhi,2026-27,7,July,8491.0
+Delhi,2026-27,8,August,7660.0
+Goa,2014-15,1,January,395.0
+Goa,2014-15,2,February,435.0
+Goa,2014-15,3,March,466.0
+Goa,2015-16,4,April,583.0
+Goa,2015-16,5,May,43538.0
+Goa,2015-16,6,June,42608.0
+Goa,2015-16,7,July,43333.0
+Goa,2015-16,8,August,42024.0
+Goa,2015-16,9,September,43946.0
+Goa,2015-16,10,October,48640.0
+Goa,2015-16,11,November,45108.0
+Goa,2015-16,12,December,45110.0
+Goa,2015-16,1,January,45267.0
+Goa,2015-16,2,February,45110.0
+Goa,2015-16,3,March,44424.0
+Goa,2016-17,4,April,45022.0
+Goa,2016-17,5,May,45369.0
+Goa,2016-17,6,June,44714.0
+Goa,2016-17,7,July,38999.0
+Goa,2016-17,8,August,40122.0
+Goa,2016-17,10,October,46123.0
+Goa,2016-17,11,November,46898.0
+Goa,2016-17,12,December,47837.0
+Goa,2016-17,1,January,47881.0
+Goa,2016-17,2,February,47994.0
+Goa,2016-17,3,March,48531.0
+Goa,2017-18,4,April,558.0
+Goa,2017-18,5,May,49208.0
+Goa,2017-18,6,June,47324.0
+Goa,2017-18,7,July,41325.0
+Goa,2017-18,8,August,45228.0
+Goa,2017-18,9,September,46382.0
+Goa,2017-18,10,October,542.0
+Goa,2017-18,11,November,519.0
+Goa,2017-18,12,December,515.0
+Goa,2017-18,1,January,523.0
+Goa,2017-18,2,February,486.0
+Goa,2017-18,3,March,522.0
+Goa,2018-19,4,April,562.0
+Goa,2018-19,5,May,532.0
+Goa,2018-19,6,June,494.0
+Goa,2018-19,7,July,497.0
+Goa,2018-19,8,August,538.0
+Goa,2018-19,9,September,596.0
+Goa,2018-19,10,October,536.0
+Goa,2018-19,11,November,514.0
+Goa,2018-19,12,December,513.0
+Goa,2018-19,1,January,577.0
+Goa,2018-19,2,February,595.0
+Goa,2018-19,3,March,538.0
+Goa,2019-20,4,April,594.0
+Goa,2019-20,5,May,554.0
+Goa,2019-20,6,June,622.0
+Goa,2019-20,7,July,566.0
+Goa,2019-20,8,August,561.0
+Goa,2019-20,9,September,572.0
+Goa,2019-20,10,October,590.0
+Goa,2019-20,11,November,611.0
+Goa,2019-20,12,December,625.0
+Goa,2019-20,1,January,603.0
+Goa,2019-20,2,February,609.0
+Goa,2019-20,3,March,610.0
+Goa,2020-21,4,April,480.0
+Goa,2020-21,5,May,513.0
+Goa,2020-21,6,June,516.0
+Goa,2020-21,7,July,451.0
+Goa,2020-21,8,August,536.0
+Goa,2020-21,9,September,541.0
+Goa,2020-21,10,October,546.0
+Goa,2020-21,11,November,542.0
+Goa,2020-21,12,December,520.0
+Goa,2020-21,1,January,577.0
+Goa,2020-21,2,February,583.0
+Goa,2020-21,3,March,612.0
+Goa,2021-22,4,April,614.0
+Goa,2021-22,5,May,646.0
+Goa,2021-22,6,June,587.0
+Goa,2021-22,7,July,590.0
+Goa,2021-22,8,August,607.0
+Goa,2021-22,9,September,614.0
+Goa,2021-22,10,October,639.0
+Goa,2021-22,11,November,629.0
+Goa,2021-22,12,December,610.0
+Goa,2021-22,1,January,609.0
+Goa,2021-22,2,February,625.0
+Goa,2021-22,3,March,703.0
+Goa,2022-23,4,April,718.0
+Goa,2022-23,5,May,711.0
+Goa,2022-23,6,June,65826.0
+Goa,2022-23,7,July,53550.0
+Goa,2022-23,8,August,56976.0
+Goa,2022-23,9,September,57709.0
+Goa,2022-23,10,October,58367.0
+Goa,2022-23,11,November,66879.0
+Goa,2022-23,12,December,71677.0
+Goa,2022-23,1,January,71227.0
+Goa,2022-23,2,February,69777.0
+Goa,2022-23,3,March,70223.0
+Goa,2023-24,4,April,70223.0
+Goa,2023-24,5,May,68767.0
+Goa,2023-24,6,June,69366.0
+Goa,2023-24,7,July,58165.0
+Goa,2023-24,8,August,76050.0
+Goa,2023-24,9,September,75027.0
+Goa,2023-24,10,October,71411.0
+Goa,2023-24,11,November,73288.0
+Goa,2023-24,12,December,74483.0
+Goa,2023-24,1,January,1615.0
+Goa,2023-24,2,February,73830.0
+Goa,2023-24,3,March,70528.0
+Goa,2024-25,4,April,73511.0
+Goa,2024-25,5,May,74829.0
+Goa,2024-25,6,June,74933.0
+Goa,2024-25,7,July,62168.0
+Goa,2024-25,8,August,67019.0
+Goa,2024-25,9,September,69843.0
+Goa,2024-25,10,October,68640.0
+Goa,2024-25,11,November,72959.0
+Goa,2024-25,12,December,77574.0
+Goa,2024-25,1,January,1342.0
+Goa,2024-25,2,February,80861.0
+Goa,2024-25,3,March,78082.0
+Goa,2025-26,4,April,824.0
+Goa,2025-26,5,May,76126.0
+Goa,2025-26,6,June,71603.0
+Goa,2025-26,7,July,65375.0
+Goa,2025-26,8,August,70779.0
+Goa,2025-26,9,September,68591.0
+Goa,2025-26,10,October,68618.0
+Goa,2025-26,11,November,75153.0
+Goa,2025-26,12,December,80307.0
+Goa,2025-26,1,January,1836.0
+Goa,2025-26,2,February,1864.0
+Goa,2025-26,3,March,1946.0
+Goa,2026-27,4,April,1953.0
+Goa,2026-27,5,May,82114.0
+Goa,2026-27,6,June,80330.0
+Goa,2026-27,7,July,74692.0
+Goa,2026-27,8,August,1736.0
+Gujarat,2014-15,1,January,11844.0
+Gujarat,2014-15,2,February,12277.0
+Gujarat,2014-15,3,March,12724.0
+Gujarat,2015-16,4,April,13207.0
+Gujarat,2015-16,5,May,13314.0
+Gujarat,2015-16,6,June,13266.0
+Gujarat,2015-16,7,July,14443.0
+Gujarat,2015-16,8,August,14422.0
+Gujarat,2015-16,9,September,14495.0
+Gujarat,2015-16,10,October,14092.0
+Gujarat,2015-16,11,November,13280.0
+Gujarat,2015-16,12,December,12348.0
+Gujarat,2015-16,1,January,12892.0
+Gujarat,2015-16,2,February,12745.0
+Gujarat,2015-16,3,March,13312.0
+Gujarat,2016-17,4,April,13533.0
+Gujarat,2016-17,5,May,14701.0
+Gujarat,2016-17,6,June,14724.0
+Gujarat,2016-17,7,July,12692.0
+Gujarat,2016-17,8,August,12564.0
+Gujarat,2016-17,10,October,14134.0
+Gujarat,2016-17,11,November,12915.0
+Gujarat,2016-17,12,December,12920.0
+Gujarat,2016-17,1,January,13188.0
+Gujarat,2016-17,2,February,13359.0
+Gujarat,2016-17,3,March,14724.0
+Gujarat,2017-18,4,April,15285.0
+Gujarat,2017-18,5,May,15325.0
+Gujarat,2017-18,6,June,15695.0
+Gujarat,2017-18,7,July,11954.0
+Gujarat,2017-18,8,August,14689.0
+Gujarat,2017-18,9,September,15498.0
+Gujarat,2017-18,10,October,16590.0
+Gujarat,2017-18,11,November,14745.0
+Gujarat,2017-18,12,December,14723.0
+Gujarat,2017-18,1,January,14031.0
+Gujarat,2017-18,2,February,14252.0
+Gujarat,2017-18,3,March,14820.0
+Gujarat,2018-19,4,April,15016.0
+Gujarat,2018-19,5,May,17053.0
+Gujarat,2018-19,6,June,16404.0
+Gujarat,2018-19,7,July,14590.0
+Gujarat,2018-19,8,August,16717.0
+Gujarat,2018-19,9,September,16963.0
+Gujarat,2018-19,10,October,16624.0
+Gujarat,2018-19,11,November,14632.0
+Gujarat,2018-19,12,December,14304.0
+Gujarat,2018-19,1,January,14897.0
+Gujarat,2018-19,2,February,15409.0
+Gujarat,2018-19,3,March,16263.0
+Gujarat,2019-20,4,April,17871.0
+Gujarat,2019-20,5,May,18094.0
+Gujarat,2019-20,6,June,18437.0
+Gujarat,2019-20,7,July,17577.0
+Gujarat,2019-20,8,August,14599.0
+Gujarat,2019-20,9,September,14487.0
+Gujarat,2019-20,10,October,16499.0
+Gujarat,2019-20,11,November,15992.0
+Gujarat,2019-20,12,December,16148.0
+Gujarat,2019-20,1,January,16189.0
+Gujarat,2019-20,2,February,16538.0
+Gujarat,2019-20,3,March,16816.0
+Gujarat,2020-21,4,April,13508.0
+Gujarat,2020-21,5,May,15589.0
+Gujarat,2020-21,6,June,15924.0
+Gujarat,2020-21,7,July,15741.0
+Gujarat,2020-21,8,August,14829.0
+Gujarat,2020-21,9,September,15749.0
+Gujarat,2020-21,10,October,17304.0
+Gujarat,2020-21,11,November,16596.0
+Gujarat,2020-21,12,December,16759.0
+Gujarat,2020-21,1,January,17323.0
+Gujarat,2020-21,2,February,17304.0
+Gujarat,2020-21,3,March,18528.0
+Gujarat,2021-22,4,April,19360.0
+Gujarat,2021-22,5,May,17924.0
+Gujarat,2021-22,6,June,18112.0
+Gujarat,2021-22,7,July,19007.0
+Gujarat,2021-22,8,August,19451.0
+Gujarat,2021-22,9,September,15499.0
+Gujarat,2021-22,10,October,17420.0
+Gujarat,2021-22,11,November,17076.0
+Gujarat,2021-22,12,December,18022.0
+Gujarat,2021-22,1,January,17680.0
+Gujarat,2021-22,2,February,17493.0
+Gujarat,2021-22,3,March,19348.0
+Gujarat,2022-23,4,April,21464.0
+Gujarat,2022-23,5,May,20769.0
+Gujarat,2022-23,6,June,21236.0
+Gujarat,2022-23,7,July,17428.0
+Gujarat,2022-23,8,August,17632.0
+Gujarat,2022-23,9,September,20341.0
+Gujarat,2022-23,10,October,20275.0
+Gujarat,2022-23,11,November,19704.0
+Gujarat,2022-23,12,December,20146.0
+Gujarat,2022-23,1,January,19699.0
+Gujarat,2022-23,2,February,19185.0
+Gujarat,2022-23,3,March,19464.0
+Gujarat,2023-24,4,April,19464.0
+Gujarat,2023-24,5,May,21340.0
+Gujarat,2023-24,6,June,22225.0
+Gujarat,2023-24,7,July,17715.0
+Gujarat,2023-24,8,August,23012.0
+Gujarat,2023-24,9,September,24829.0
+Gujarat,2023-24,10,October,21689.0
+Gujarat,2023-24,11,November,21702.0
+Gujarat,2023-24,12,December,21430.0
+Gujarat,2023-24,1,January,21861.0
+Gujarat,2023-24,2,February,21248.0
+Gujarat,2023-24,3,March,21843.0
+Gujarat,2024-25,4,April,23933.0
+Gujarat,2024-25,5,May,24922.0
+Gujarat,2024-25,6,June,25588.0
+Gujarat,2024-25,7,July,19991.0
+Gujarat,2024-25,8,August,21918.0
+Gujarat,2024-25,9,September,24205.0
+Gujarat,2024-25,10,October,22092.0
+Gujarat,2024-25,11,November,21493.0
+Gujarat,2024-25,12,December,22461.0
+Gujarat,2024-25,1,January,23929.0
+Gujarat,2024-25,2,February,23780.0
+Gujarat,2024-25,3,March,24395.0
+Gujarat,2025-26,4,April,26430.0
+Gujarat,2025-26,5,May,25699.0
+Gujarat,2025-26,6,June,26457.0
+Gujarat,2025-26,7,July,20751.0
+Gujarat,2025-26,8,August,25059.0
+Gujarat,2025-26,9,September,24291.0
+Gujarat,2025-26,10,October,21822.0
+Gujarat,2025-26,11,November,23296.0
+Gujarat,2025-26,12,December,24369.0
+Gujarat,2025-26,1,January,25495.0
+Gujarat,2025-26,2,February,24764.0
+Gujarat,2025-26,3,March,23843.0
+Gujarat,2026-27,4,April,25795.0
+Gujarat,2026-27,5,May,26455.0
+Gujarat,2026-27,6,June,28853.0
+Gujarat,2026-27,7,July,25611.0
+Gujarat,2026-27,8,August,28390.0
+Haryana,2014-15,1,January,6720.0
+Haryana,2014-15,2,February,6692.0
+Haryana,2014-15,3,March,6010.0
+Haryana,2015-16,4,April,6370.0
+Haryana,2015-16,5,May,7400.0
+Haryana,2015-16,6,June,8086.0
+Haryana,2015-16,7,July,8531.0
+Haryana,2015-16,8,August,8871.0
+Haryana,2015-16,9,September,9113.0
+Haryana,2015-16,10,October,8215.0
+Haryana,2015-16,11,November,6610.0
+Haryana,2015-16,12,December,6502.0
+Haryana,2015-16,1,January,7045.0
+Haryana,2015-16,2,February,6799.0
+Haryana,2015-16,3,March,6433.0
+Haryana,2016-17,4,April,7477.0
+Haryana,2016-17,5,May,7950.0
+Haryana,2016-17,6,June,8763.0
+Haryana,2016-17,7,July,9262.0
+Haryana,2016-17,8,August,8984.0
+Haryana,2016-17,9,September,9109.0
+Haryana,2016-17,10,October,8181.0
+Haryana,2016-17,11,November,6642.0
+Haryana,2016-17,12,December,6561.0
+Haryana,2016-17,1,January,6815.0
+Haryana,2016-17,2,February,6556.0
+Haryana,2016-17,3,March,6668.0
+Haryana,2017-18,4,April,7463.0
+Haryana,2017-18,5,May,7780.0
+Haryana,2017-18,6,June,8912.0
+Haryana,2017-18,7,July,9539.0
+Haryana,2017-18,8,August,9671.0
+Haryana,2017-18,9,September,9215.0
+Haryana,2017-18,10,October,7860.0
+Haryana,2017-18,11,November,6593.0
+Haryana,2017-18,12,December,7042.0
+Haryana,2017-18,1,January,6990.0
+Haryana,2017-18,2,February,7120.0
+Haryana,2017-18,3,March,6815.0
+Haryana,2018-19,4,April,7706.0
+Haryana,2018-19,5,May,8351.0
+Haryana,2018-19,6,June,10050.0
+Haryana,2018-19,7,July,10270.0
+Haryana,2018-19,8,August,9415.0
+Haryana,2018-19,9,September,9008.0
+Haryana,2018-19,10,October,7948.0
+Haryana,2018-19,11,November,6445.0
+Haryana,2018-19,12,December,6865.0
+Haryana,2018-19,1,January,7078.0
+Haryana,2018-19,2,February,6946.0
+Haryana,2018-19,3,March,6544.0
+Haryana,2019-20,4,April,8127.0
+Haryana,2019-20,5,May,8874.0
+Haryana,2019-20,6,June,10237.0
+Haryana,2019-20,7,July,11001.0
+Haryana,2019-20,8,August,10130.0
+Haryana,2019-20,9,September,10451.0
+Haryana,2019-20,10,October,7779.0
+Haryana,2019-20,11,November,6138.0
+Haryana,2019-20,12,December,7049.0
+Haryana,2019-20,1,January,7016.0
+Haryana,2019-20,2,February,7520.0
+Haryana,2019-20,3,March,6338.0
+Haryana,2020-21,4,April,6422.0
+Haryana,2020-21,5,May,8011.0
+Haryana,2020-21,6,June,10308.0
+Haryana,2020-21,7,July,10982.0
+Haryana,2020-21,8,August,10159.0
+Haryana,2020-21,9,September,10009.0
+Haryana,2020-21,10,October,8500.0
+Haryana,2020-21,11,November,6396.0
+Haryana,2020-21,12,December,7068.0
+Haryana,2020-21,1,January,7310.0
+Haryana,2020-21,2,February,7317.0
+Haryana,2020-21,3,March,7018.0
+Haryana,2021-22,4,April,7763.0
+Haryana,2021-22,5,May,8286.0
+Haryana,2021-22,6,June,11383.0
+Haryana,2021-22,7,July,12120.0
+Haryana,2021-22,8,August,11378.0
+Haryana,2021-22,9,September,8980.0
+Haryana,2021-22,10,October,8803.0
+Haryana,2021-22,11,November,6785.0
+Haryana,2021-22,12,December,7613.0
+Haryana,2021-22,1,January,7164.0
+Haryana,2021-22,2,February,7208.0
+Haryana,2021-22,3,March,7792.0
+Haryana,2022-23,4,April,9320.0
+Haryana,2022-23,5,May,10052.0
+Haryana,2022-23,6,June,12768.0
+Haryana,2022-23,7,July,12327.0
+Haryana,2022-23,8,August,12015.0
+Haryana,2022-23,9,September,12015.0
+Haryana,2022-23,10,October,8663.0
+Haryana,2022-23,11,November,7578.0
+Haryana,2022-23,12,December,8137.0
+Haryana,2022-23,1,January,8259.0
+Haryana,2022-23,2,February,8570.0
+Haryana,2022-23,3,March,7732.0
+Haryana,2023-24,4,April,9054.0
+Haryana,2023-24,5,May,10654.0
+Haryana,2023-24,6,June,11634.0
+Haryana,2023-24,7,July,12260.0
+Haryana,2023-24,8,August,13088.0
+Haryana,2023-24,9,September,12753.0
+Haryana,2023-24,10,October,9947.0
+Haryana,2023-24,11,November,7685.0
+Haryana,2023-24,12,December,8225.0
+Haryana,2023-24,1,January,9530.0
+Haryana,2023-24,2,February,8868.0
+Haryana,2023-24,3,March,7747.0
+Haryana,2024-25,4,April,9502.0
+Haryana,2024-25,5,May,12451.0
+Haryana,2024-25,6,June,14469.0
+Haryana,2024-25,7,July,14662.0
+Haryana,2024-25,8,August,12703.0
+Haryana,2024-25,9,September,12414.0
+Haryana,2024-25,10,October,11087.0
+Haryana,2024-25,11,November,7848.0
+Haryana,2024-25,12,December,9351.0
+Haryana,2024-25,1,January,9157.0
+Haryana,2024-25,2,February,9602.0
+Haryana,2024-25,3,March,8750.0
+Haryana,2025-26,4,April,9937.0
+Haryana,2025-26,5,May,12526.0
+Haryana,2025-26,6,June,13600.0
+Haryana,2025-26,7,July,14084.0
+Haryana,2025-26,8,August,13010.0
+Haryana,2025-26,9,September,12787.0
+Haryana,2025-26,10,October,11372.0
+Haryana,2025-26,11,November,8795.0
+Haryana,2025-26,12,December,9512.0
+Haryana,2025-26,1,January,10156.0
+Haryana,2025-26,2,February,9621.0
+Haryana,2025-26,3,March,8822.0
+Haryana,2026-27,4,April,11018.0
+Haryana,2026-27,5,May,13507.0
+Haryana,2026-27,6,June,15558.0
+Haryana,2026-27,7,July,16170.0
+Haryana,2026-27,8,August,14895.0
+Himachal Pradesh,2014-15,1,January,1417.0
+Himachal Pradesh,2014-15,2,February,1422.0
+Himachal Pradesh,2014-15,3,March,1365.0
+Himachal Pradesh,2015-16,4,April,1379.0
+Himachal Pradesh,2015-16,5,May,1311.0
+Himachal Pradesh,2015-16,6,June,1299.0
+Himachal Pradesh,2015-16,7,July,1337.0
+Himachal Pradesh,2015-16,8,August,1312.0
+Himachal Pradesh,2015-16,9,September,1300.0
+Himachal Pradesh,2015-16,10,October,1338.0
+Himachal Pradesh,2015-16,11,November,1361.0
+Himachal Pradesh,2015-16,12,December,1488.0
+Himachal Pradesh,2015-16,1,January,1480.0
+Himachal Pradesh,2015-16,2,February,1457.0
+Himachal Pradesh,2015-16,3,March,1428.0
+Himachal Pradesh,2016-17,4,April,1272.0
+Himachal Pradesh,2016-17,5,May,1270.0
+Himachal Pradesh,2016-17,6,June,1330.0
+Himachal Pradesh,2016-17,7,July,1297.0
+Himachal Pradesh,2016-17,8,August,1293.0
+Himachal Pradesh,2016-17,9,September,1329.0
+Himachal Pradesh,2016-17,10,October,1342.0
+Himachal Pradesh,2016-17,11,November,1410.0
+Himachal Pradesh,2016-17,12,December,1408.0
+Himachal Pradesh,2016-17,1,January,1492.0
+Himachal Pradesh,2016-17,2,February,1479.0
+Himachal Pradesh,2016-17,3,March,1499.0
+Himachal Pradesh,2017-18,4,April,1329.0
+Himachal Pradesh,2017-18,5,May,1349.0
+Himachal Pradesh,2017-18,6,June,1377.0
+Himachal Pradesh,2017-18,7,July,1346.0
+Himachal Pradesh,2017-18,8,August,1369.0
+Himachal Pradesh,2017-18,9,September,1413.0
+Himachal Pradesh,2017-18,10,October,1425.0
+Himachal Pradesh,2017-18,11,November,1491.0
+Himachal Pradesh,2017-18,12,December,1560.0
+Himachal Pradesh,2017-18,1,January,1594.0
+Himachal Pradesh,2017-18,2,February,1555.0
+Himachal Pradesh,2017-18,3,March,1494.0
+Himachal Pradesh,2018-19,4,April,1424.0
+Himachal Pradesh,2018-19,5,May,1405.0
+Himachal Pradesh,2018-19,6,June,1474.0
+Himachal Pradesh,2018-19,7,July,1471.0
+Himachal Pradesh,2018-19,8,August,1479.0
+Himachal Pradesh,2018-19,9,September,1466.0
+Himachal Pradesh,2018-19,10,October,1520.0
+Himachal Pradesh,2018-19,11,November,1605.0
+Himachal Pradesh,2018-19,12,December,1700.0
+Himachal Pradesh,2018-19,1,January,1686.0
+Himachal Pradesh,2018-19,2,February,1679.0
+Himachal Pradesh,2018-19,3,March,1683.0
+Himachal Pradesh,2019-20,4,April,1387.0
+Himachal Pradesh,2019-20,5,May,1480.0
+Himachal Pradesh,2019-20,6,June,1619.0
+Himachal Pradesh,2019-20,7,July,1531.0
+Himachal Pradesh,2019-20,8,August,1565.0
+Himachal Pradesh,2019-20,9,September,1517.0
+Himachal Pradesh,2019-20,10,October,1542.0
+Himachal Pradesh,2019-20,11,November,1629.0
+Himachal Pradesh,2019-20,12,December,1729.0
+Himachal Pradesh,2019-20,1,January,1786.0
+Himachal Pradesh,2019-20,2,February,1742.0
+Himachal Pradesh,2019-20,3,March,1656.0
+Himachal Pradesh,2020-21,4,April,900.0
+Himachal Pradesh,2020-21,5,May,1312.0
+Himachal Pradesh,2020-21,6,June,1423.0
+Himachal Pradesh,2020-21,7,July,1479.0
+Himachal Pradesh,2020-21,8,August,1456.0
+Himachal Pradesh,2020-21,9,September,1552.0
+Himachal Pradesh,2020-21,10,October,1556.0
+Himachal Pradesh,2020-21,11,November,1737.0
+Himachal Pradesh,2020-21,12,December,1896.0
+Himachal Pradesh,2020-21,1,January,1932.0
+Himachal Pradesh,2020-21,2,February,1867.0
+Himachal Pradesh,2020-21,3,March,1806.0
+Himachal Pradesh,2021-22,4,April,1568.0
+Himachal Pradesh,2021-22,5,May,1440.0
+Himachal Pradesh,2021-22,6,June,1578.0
+Himachal Pradesh,2021-22,7,July,1598.0
+Himachal Pradesh,2021-22,8,August,1589.0
+Himachal Pradesh,2021-22,9,September,1566.0
+Himachal Pradesh,2021-22,10,October,1732.0
+Himachal Pradesh,2021-22,11,November,1832.0
+Himachal Pradesh,2021-22,12,December,1955.0
+Himachal Pradesh,2021-22,1,January,2030.0
+Himachal Pradesh,2021-22,2,February,1968.0
+Himachal Pradesh,2021-22,3,March,1879.0
+Himachal Pradesh,2022-23,4,April,1717.0
+Himachal Pradesh,2022-23,5,May,1644.0
+Himachal Pradesh,2022-23,6,June,1739.0
+Himachal Pradesh,2022-23,7,July,1732.0
+Himachal Pradesh,2022-23,8,August,1711.0
+Himachal Pradesh,2022-23,9,September,1748.0
+Himachal Pradesh,2022-23,10,October,1771.0
+Himachal Pradesh,2022-23,11,November,1965.0
+Himachal Pradesh,2022-23,12,December,2004.0
+Himachal Pradesh,2022-23,1,January,2071.0
+Himachal Pradesh,2022-23,2,February,1977.0
+Himachal Pradesh,2022-23,3,March,1922.0
+Himachal Pradesh,2023-24,4,April,1809.0
+Himachal Pradesh,2023-24,5,May,1702.0
+Himachal Pradesh,2023-24,6,June,1753.0
+Himachal Pradesh,2023-24,7,July,1775.0
+Himachal Pradesh,2023-24,8,August,1724.0
+Himachal Pradesh,2023-24,9,September,1758.0
+Himachal Pradesh,2023-24,10,October,1871.0
+Himachal Pradesh,2023-24,11,November,1977.0
+Himachal Pradesh,2023-24,12,December,2162.0
+Himachal Pradesh,2023-24,1,January,2181.0
+Himachal Pradesh,2023-24,2,February,2133.0
+Himachal Pradesh,2023-24,3,March,1982.0
+Himachal Pradesh,2024-25,4,April,1819.0
+Himachal Pradesh,2024-25,5,May,1827.0
+Himachal Pradesh,2024-25,6,June,1919.0
+Himachal Pradesh,2024-25,7,July,1888.0
+Himachal Pradesh,2024-25,8,August,1732.0
+Himachal Pradesh,2024-25,9,September,1884.0
+Himachal Pradesh,2024-25,10,October,1947.0
+Himachal Pradesh,2024-25,11,November,2107.0
+Himachal Pradesh,2024-25,12,December,2254.0
+Himachal Pradesh,2024-25,1,January,2273.0
+Himachal Pradesh,2024-25,2,February,2193.0
+Himachal Pradesh,2024-25,3,March,2075.0
+Himachal Pradesh,2025-26,4,April,1818.0
+Himachal Pradesh,2025-26,5,May,1866.0
+Himachal Pradesh,2025-26,6,June,1943.0
+Himachal Pradesh,2025-26,7,July,1835.0
+Himachal Pradesh,2025-26,8,August,1888.0
+Himachal Pradesh,2025-26,9,September,1896.0
+Himachal Pradesh,2025-26,10,October,2003.0
+Himachal Pradesh,2025-26,11,November,2239.0
+Himachal Pradesh,2025-26,12,December,2234.0
+Himachal Pradesh,2025-26,1,January,2310.0
+Himachal Pradesh,2025-26,2,February,2228.0
+Himachal Pradesh,2025-26,3,March,2060.0
+Himachal Pradesh,2026-27,4,April,1839.0
+Himachal Pradesh,2026-27,5,May,1836.0
+Himachal Pradesh,2026-27,6,June,1913.0
+Himachal Pradesh,2026-27,7,July,1843.0
+Himachal Pradesh,2026-27,8,August,1832.0
+Jammu and Kashmir,2014-15,1,January,2393.0
+Jammu and Kashmir,2014-15,2,February,2377.0
+Jammu and Kashmir,2014-15,3,March,2286.0
+Jammu and Kashmir,2015-16,4,April,2191.0
+Jammu and Kashmir,2015-16,5,May,2285.0
+Jammu and Kashmir,2015-16,6,June,2437.0
+Jammu and Kashmir,2015-16,7,July,2318.0
+Jammu and Kashmir,2015-16,8,August,2237.0
+Jammu and Kashmir,2015-16,9,September,2388.0
+Jammu and Kashmir,2015-16,10,October,2362.0
+Jammu and Kashmir,2015-16,11,November,2433.0
+Jammu and Kashmir,2015-16,12,December,2474.0
+Jammu and Kashmir,2015-16,1,January,2544.0
+Jammu and Kashmir,2015-16,2,February,2397.0
+Jammu and Kashmir,2015-16,3,March,2439.0
+Jammu and Kashmir,2016-17,4,April,2412.0
+Jammu and Kashmir,2016-17,5,May,2478.0
+Jammu and Kashmir,2016-17,6,June,2466.0
+Jammu and Kashmir,2016-17,7,July,2385.0
+Jammu and Kashmir,2016-17,8,August,2367.0
+Jammu and Kashmir,2016-17,9,September,2469.0
+Jammu and Kashmir,2016-17,10,October,2480.0
+Jammu and Kashmir,2016-17,11,November,2480.0
+Jammu and Kashmir,2016-17,12,December,2591.0
+Jammu and Kashmir,2016-17,1,January,2675.0
+Jammu and Kashmir,2016-17,2,February,2622.0
+Jammu and Kashmir,2016-17,3,March,2542.0
+Jammu and Kashmir,2017-18,4,April,2577.0
+Jammu and Kashmir,2017-18,5,May,2668.0
+Jammu and Kashmir,2017-18,6,June,2768.0
+Jammu and Kashmir,2017-18,7,July,2643.0
+Jammu and Kashmir,2017-18,8,August,2671.0
+Jammu and Kashmir,2017-18,9,September,2704.0
+Jammu and Kashmir,2017-18,10,October,2579.0
+Jammu and Kashmir,2017-18,11,November,2485.0
+Jammu and Kashmir,2017-18,12,December,2758.0
+Jammu and Kashmir,2017-18,1,January,2899.0
+Jammu and Kashmir,2017-18,2,February,2748.0
+Jammu and Kashmir,2017-18,3,March,2703.0
+Jammu and Kashmir,2018-19,4,April,2729.0
+Jammu and Kashmir,2018-19,5,May,2945.0
+Jammu and Kashmir,2018-19,6,June,2746.0
+Jammu and Kashmir,2018-19,7,July,2642.0
+Jammu and Kashmir,2018-19,8,August,2845.0
+Jammu and Kashmir,2018-19,9,September,2951.0
+Jammu and Kashmir,2018-19,10,October,2856.0
+Jammu and Kashmir,2018-19,11,November,2755.0
+Jammu and Kashmir,2018-19,12,December,3080.0
+Jammu and Kashmir,2018-19,1,January,3078.0
+Jammu and Kashmir,2018-19,2,February,3041.0
+Jammu and Kashmir,2018-19,3,March,2996.0
+Jammu and Kashmir,2019-20,4,April,2885.0
+Jammu and Kashmir,2019-20,5,May,3033.0
+Jammu and Kashmir,2019-20,6,June,2362.0
+Jammu and Kashmir,2019-20,7,July,2904.0
+Jammu and Kashmir,2019-20,8,August,2734.0
+Jammu and Kashmir,2019-20,9,September,2928.0
+Jammu and Kashmir,2019-20,10,October,3042.0
+Jammu and Kashmir,2019-20,11,November,5503.0
+Jammu and Kashmir,2019-20,12,December,6767.0
+Jammu and Kashmir,2019-20,1,January,6327.0
+Jammu and Kashmir,2019-20,2,February,7078.0
+Jammu and Kashmir,2019-20,3,March,5758.0
+Jammu and Kashmir,2020-21,4,April,5113.0
+Jammu and Kashmir,2020-21,5,May,8201.0
+Jammu and Kashmir,2020-21,6,June,12683.0
+Jammu and Kashmir,2020-21,7,July,13148.0
+Jammu and Kashmir,2020-21,8,August,12815.0
+Jammu and Kashmir,2020-21,9,September,12433.0
+Jammu and Kashmir,2020-21,10,October,8940.0
+Jammu and Kashmir,2020-21,11,November,6002.0
+Jammu and Kashmir,2020-21,12,December,6707.0
+Jammu and Kashmir,2020-21,1,January,7017.0
+Jammu and Kashmir,2020-21,2,February,7118.0
+Jammu and Kashmir,2020-21,3,March,7440.0
+Jammu and Kashmir,2021-22,4,April,6860.0
+Jammu and Kashmir,2021-22,5,May,8195.0
+Jammu and Kashmir,2021-22,6,June,13359.0
+Jammu and Kashmir,2021-22,7,July,13556.0
+Jammu and Kashmir,2021-22,8,August,13215.0
+Jammu and Kashmir,2021-22,9,September,12002.0
+Jammu and Kashmir,2021-22,10,October,9625.0
+Jammu and Kashmir,2021-22,11,November,6405.0
+Jammu and Kashmir,2021-22,12,December,7337.0
+Jammu and Kashmir,2021-22,1,January,7105.0
+Jammu and Kashmir,2021-22,2,February,7076.0
+Jammu and Kashmir,2021-22,3,March,8475.0
+Jammu and Kashmir,2022-23,4,April,9889.0
+Jammu and Kashmir,2022-23,5,May,10887.0
+Jammu and Kashmir,2022-23,6,June,14311.0
+Jammu and Kashmir,2022-23,7,July,14069.0
+Jammu and Kashmir,2022-23,8,August,14298.0
+Jammu and Kashmir,2022-23,9,September,14187.0
+Jammu and Kashmir,2022-23,10,October,11479.0
+Jammu and Kashmir,2022-23,11,November,7267.0
+Jammu and Kashmir,2022-23,12,December,7989.0
+Jammu and Kashmir,2022-23,1,January,9063.0
+Jammu and Kashmir,2022-23,2,February,8864.0
+Jammu and Kashmir,2022-23,3,March,8840.0
+Jammu and Kashmir,2023-24,4,April,8187.0
+Jammu and Kashmir,2023-24,5,May,11725.0
+Jammu and Kashmir,2023-24,6,June,15293.0
+Jammu and Kashmir,2023-24,7,July,14665.0
+Jammu and Kashmir,2023-24,8,August,15132.0
+Jammu and Kashmir,2023-24,9,September,14964.0
+Jammu and Kashmir,2023-24,10,October,12213.0
+Jammu and Kashmir,2023-24,11,November,7380.0
+Jammu and Kashmir,2023-24,12,December,8041.0
+Jammu and Kashmir,2023-24,1,January,9370.0
+Jammu and Kashmir,2023-24,2,February,10180.0
+Jammu and Kashmir,2023-24,3,March,10112.0
+Jammu and Kashmir,2024-25,4,April,9914.0
+Jammu and Kashmir,2024-25,5,May,14366.0
+Jammu and Kashmir,2024-25,6,June,16058.0
+Jammu and Kashmir,2024-25,7,July,16006.0
+Jammu and Kashmir,2024-25,8,August,15307.0
+Jammu and Kashmir,2024-25,9,September,15310.0
+Jammu and Kashmir,2024-25,10,October,14311.0
+Jammu and Kashmir,2024-25,11,November,8755.0
+Jammu and Kashmir,2024-25,12,December,9381.0
+Jammu and Kashmir,2024-25,1,January,9869.0
+Jammu and Kashmir,2024-25,2,February,10165.0
+Jammu and Kashmir,2024-25,3,March,10083.0
+Jammu and Kashmir,2025-26,5,May,13969.0
+Jammu and Kashmir,2025-26,6,June,16428.0
+Jammu and Kashmir,2025-26,7,July,16670.0
+Jammu and Kashmir,2025-26,8,August,16310.0
+Jammu and Kashmir,2025-26,9,September,14440.0
+Jammu and Kashmir,2025-26,10,October,12989.0
+Jammu and Kashmir,2025-26,11,November,9647.0
+Jammu and Kashmir,2025-26,12,December,10172.0
+Jammu and Kashmir,2025-26,1,January,10661.0
+Jammu and Kashmir,2025-26,2,February,10999.0
+Jammu and Kashmir,2025-26,3,March,11127.0
+Jammu and Kashmir,2026-27,4,April,11863.0
+Jammu and Kashmir,2026-27,5,May,14268.0
+Jammu and Kashmir,2026-27,7,July,17221.0
+Jammu and Kashmir,2026-27,8,August,16174.0
+Jharkhand,2014-15,1,January,1040.0
+Jharkhand,2014-15,2,February,1038.0
+Jharkhand,2014-15,3,March,1025.0
+Jharkhand,2015-16,4,April,1061.0
+Jharkhand,2015-16,5,May,1085.0
+Jharkhand,2015-16,6,June,1101.0
+Jharkhand,2015-16,7,July,1101.0
+Jharkhand,2015-16,8,August,1115.0
+Jharkhand,2015-16,9,September,1085.0
+Jharkhand,2015-16,10,October,1103.0
+Jharkhand,2015-16,11,November,1127.0
+Jharkhand,2015-16,12,December,1151.0
+Jharkhand,2015-16,1,January,1117.0
+Jharkhand,2015-16,2,February,1129.0
+Jharkhand,2015-16,3,March,1153.0
+Jharkhand,2016-17,4,April,1177.0
+Jharkhand,2016-17,5,May,1498.0
+Jharkhand,2016-17,6,June,1119.0
+Jharkhand,2016-17,7,July,1134.0
+Jharkhand,2016-17,8,August,1142.0
+Jharkhand,2016-17,9,September,1153.0
+Jharkhand,2016-17,10,October,1172.0
+Jharkhand,2016-17,11,November,1168.0
+Jharkhand,2016-17,12,December,1194.0
+Jharkhand,2016-17,1,January,1211.0
+Jharkhand,2016-17,2,February,1165.0
+Jharkhand,2016-17,3,March,1148.0
+Jharkhand,2017-18,4,April,1197.0
+Jharkhand,2017-18,5,May,1211.0
+Jharkhand,2017-18,6,June,1228.0
+Jharkhand,2017-18,7,July,1203.0
+Jharkhand,2017-18,8,August,1260.0
+Jharkhand,2017-18,9,September,1212.0
+Jharkhand,2017-18,10,October,1206.0
+Jharkhand,2017-18,11,November,1245.0
+Jharkhand,2017-18,12,December,1332.0
+Jharkhand,2017-18,1,January,1192.0
+Jharkhand,2017-18,2,February,1175.0
+Jharkhand,2017-18,3,March,1205.0
+Jharkhand,2018-19,4,April,1221.0
+Jharkhand,2018-19,5,May,1284.0
+Jharkhand,2018-19,6,June,1198.0
+Jharkhand,2018-19,7,July,1339.0
+Jharkhand,2018-19,8,August,1248.0
+Jharkhand,2018-19,9,September,1233.0
+Jharkhand,2018-19,10,October,1247.0
+Jharkhand,2018-19,11,November,1289.0
+Jharkhand,2018-19,12,December,1292.0
+Jharkhand,2018-19,1,January,1260.0
+Jharkhand,2018-19,2,February,1265.0
+Jharkhand,2018-19,3,March,1250.0
+Jharkhand,2019-20,4,April,1326.0
+Jharkhand,2019-20,5,May,1396.0
+Jharkhand,2019-20,6,June,1385.0
+Jharkhand,2019-20,7,July,1323.0
+Jharkhand,2019-20,8,August,1316.0
+Jharkhand,2019-20,9,September,1328.0
+Jharkhand,2019-20,10,October,1277.0
+Jharkhand,2019-20,11,November,1280.0
+Jharkhand,2019-20,12,December,1356.0
+Jharkhand,2019-20,1,January,1373.0
+Jharkhand,2019-20,2,February,1331.0
+Jharkhand,2019-20,3,March,1274.0
+Jharkhand,2020-21,4,April,1292.0
+Jharkhand,2020-21,5,May,1397.0
+Jharkhand,2020-21,6,June,1370.0
+Jharkhand,2020-21,7,July,1431.0
+Jharkhand,2020-21,8,August,1643.0
+Jharkhand,2020-21,9,September,1619.0
+Jharkhand,2020-21,10,October,1644.0
+Jharkhand,2020-21,11,November,1452.0
+Jharkhand,2020-21,12,December,1595.0
+Jharkhand,2020-21,1,January,1651.0
+Jharkhand,2020-21,2,February,1632.0
+Jharkhand,2020-21,3,March,1639.0
+Jharkhand,2021-22,4,April,1719.0
+Jharkhand,2021-22,5,May,1566.0
+Jharkhand,2021-22,6,June,1702.0
+Jharkhand,2021-22,7,July,1709.0
+Jharkhand,2021-22,8,August,1786.0
+Jharkhand,2021-22,9,September,1706.0
+Jharkhand,2021-22,10,October,1698.0
+Jharkhand,2021-22,11,November,1719.0
+Jharkhand,2021-22,12,December,1808.0
+Jharkhand,2021-22,1,January,1850.0
+Jharkhand,2021-22,2,February,1764.0
+Jharkhand,2021-22,3,March,1887.0
+Jharkhand,2022-23,4,April,2118.0
+Jharkhand,2022-23,5,May,1837.0
+Jharkhand,2022-23,6,June,1895.0
+Jharkhand,2022-23,7,July,2253.0
+Jharkhand,2022-23,8,August,2138.0
+Jharkhand,2022-23,9,September,2081.0
+Jharkhand,2022-23,10,October,2068.0
+Jharkhand,2022-23,11,November,2128.0
+Jharkhand,2022-23,12,December,2138.0
+Jharkhand,2022-23,1,January,2061.0
+Jharkhand,2022-23,2,February,2019.0
+Jharkhand,2022-23,3,March,1970.0
+Jharkhand,2023-24,4,April,2026.0
+Jharkhand,2023-24,5,May,2001.0
+Jharkhand,2023-24,6,June,2077.0
+Jharkhand,2023-24,7,July,2036.0
+Jharkhand,2023-24,8,August,2193.0
+Jharkhand,2023-24,9,September,1960.0
+Jharkhand,2023-24,10,October,1830.0
+Jharkhand,2023-24,11,November,1788.0
+Jharkhand,2023-24,12,December,1810.0
+Jharkhand,2023-24,1,January,1908.0
+Jharkhand,2023-24,2,February,1836.0
+Jharkhand,2023-24,3,March,1995.0
+Jharkhand,2024-25,4,April,2133.0
+Jharkhand,2024-25,5,May,2295.0
+Jharkhand,2024-25,6,June,2289.0
+Jharkhand,2024-25,7,July,2224.0
+Jharkhand,2024-25,8,August,2107.0
+Jharkhand,2024-25,9,September,2161.0
+Jharkhand,2024-25,10,October,2210.0
+Jharkhand,2024-25,11,November,2033.0
+Jharkhand,2024-25,12,December,2051.0
+Jharkhand,2024-25,1,January,2103.0
+Jharkhand,2024-25,2,February,2026.0
+Jharkhand,2024-25,3,March,2108.0
+Jharkhand,2025-26,4,April,2156.0
+Jharkhand,2025-26,5,May,2230.0
+Jharkhand,2025-26,6,June,2261.0
+Jharkhand,2025-26,7,July,2149.0
+Jharkhand,2025-26,8,August,2267.0
+Jharkhand,2025-26,9,September,2338.0
+Jharkhand,2025-26,10,October,2192.0
+Jharkhand,2025-26,11,November,2090.0
+Jharkhand,2025-26,12,December,2350.0
+Jharkhand,2025-26,1,January,2255.0
+Jharkhand,2025-26,2,February,2158.0
+Jharkhand,2025-26,3,March,2353.0
+Jharkhand,2026-27,4,April,2409.0
+Jharkhand,2026-27,5,May,2589.0
+Jharkhand,2026-27,6,June,2544.0
+Jharkhand,2026-27,7,July,2622.0
+Jharkhand,2026-27,8,August,2594.0
+Karnataka,2014-15,1,January,9825.0
+Karnataka,2014-15,2,February,9810.0
+Karnataka,2014-15,3,March,9889.0
+Karnataka,2015-16,4,April,9463.0
+Karnataka,2015-16,5,May,8930.0
+Karnataka,2015-16,6,June,8428.0
+Karnataka,2015-16,7,July,9184.0
+Karnataka,2015-16,8,August,8772.0
+Karnataka,2015-16,9,September,9000.0
+Karnataka,2015-16,10,October,9255.0
+Karnataka,2015-16,11,November,8273.0
+Karnataka,2015-16,12,December,9048.0
+Karnataka,2015-16,1,January,9734.0
+Karnataka,2015-16,2,February,9998.0
+Karnataka,2015-16,3,March,10202.0
+Karnataka,2016-17,4,April,9980.0
+Karnataka,2016-17,5,May,9304.0
+Karnataka,2016-17,6,June,8183.0
+Karnataka,2016-17,7,July,8302.0
+Karnataka,2016-17,8,August,9324.0
+Karnataka,2016-17,9,September,9504.0
+Karnataka,2016-17,10,October,9851.0
+Karnataka,2016-17,11,November,10061.0
+Karnataka,2016-17,12,December,9344.0
+Karnataka,2016-17,1,January,9577.0
+Karnataka,2016-17,2,February,10261.0
+Karnataka,2016-17,3,March,10187.0
+Karnataka,2017-18,4,April,9992.0
+Karnataka,2017-18,5,May,9376.0
+Karnataka,2017-18,6,June,8648.0
+Karnataka,2017-18,7,July,8980.0
+Karnataka,2017-18,8,August,8970.0
+Karnataka,2017-18,9,September,8450.0
+Karnataka,2017-18,10,October,8404.0
+Karnataka,2017-18,11,November,9715.0
+Karnataka,2017-18,12,December,10144.0
+Karnataka,2017-18,1,January,10381.0
+Karnataka,2017-18,2,February,10235.0
+Karnataka,2017-18,3,March,10857.0
+Karnataka,2018-19,4,April,10690.0
+Karnataka,2018-19,5,May,9870.0
+Karnataka,2018-19,6,June,9008.0
+Karnataka,2018-19,7,July,9509.0
+Karnataka,2018-19,8,August,9486.0
+Karnataka,2018-19,9,September,10103.0
+Karnataka,2018-19,10,October,10799.0
+Karnataka,2018-19,11,November,11244.0
+Karnataka,2018-19,12,December,11255.0
+Karnataka,2018-19,1,January,11819.0
+Karnataka,2018-19,2,February,12011.0
+Karnataka,2018-19,3,March,12877.0
+Karnataka,2019-20,4,April,12700.0
+Karnataka,2019-20,5,May,12172.0
+Karnataka,2019-20,6,June,11490.0
+Karnataka,2019-20,7,July,10508.0
+Karnataka,2019-20,8,August,10462.0
+Karnataka,2019-20,9,September,10466.0
+Karnataka,2019-20,10,October,9090.0
+Karnataka,2019-20,11,November,10682.0
+Karnataka,2019-20,12,December,12810.0
+Karnataka,2019-20,1,January,13169.0
+Karnataka,2019-20,2,February,13031.0
+Karnataka,2019-20,3,March,13272.0
+Karnataka,2020-21,4,April,11516.0
+Karnataka,2020-21,5,May,11027.0
+Karnataka,2020-21,6,June,10689.0
+Karnataka,2020-21,7,July,9401.0
+Karnataka,2020-21,8,August,10578.0
+Karnataka,2020-21,9,September,9236.0
+Karnataka,2020-21,10,October,9923.0
+Karnataka,2020-21,11,November,10900.0
+Karnataka,2020-21,12,December,12123.0
+Karnataka,2020-21,1,January,12795.0
+Karnataka,2020-21,2,February,13441.0
+Karnataka,2020-21,3,March,14367.0
+Karnataka,2021-22,4,April,14158.0
+Karnataka,2021-22,5,May,10829.0
+Karnataka,2021-22,6,June,11180.0
+Karnataka,2021-22,7,July,11432.0
+Karnataka,2021-22,8,August,11371.0
+Karnataka,2021-22,9,September,12125.0
+Karnataka,2021-22,10,October,11210.0
+Karnataka,2021-22,11,November,9390.0
+Karnataka,2021-22,12,December,11926.0
+Karnataka,2021-22,1,January,13581.0
+Karnataka,2021-22,2,February,14674.0
+Karnataka,2021-22,3,March,14830.0
+Karnataka,2022-23,4,April,14725.0
+Karnataka,2022-23,5,May,12260.0
+Karnataka,2022-23,6,June,11805.0
+Karnataka,2022-23,7,July,10885.0
+Karnataka,2022-23,8,August,11275.0
+Karnataka,2022-23,9,September,11834.0
+Karnataka,2022-23,10,October,10306.0
+Karnataka,2022-23,11,November,12463.0
+Karnataka,2022-23,12,December,13149.0
+Karnataka,2022-23,1,January,14972.0
+Karnataka,2022-23,2,February,15543.0
+Karnataka,2022-23,3,March,15828.0
+Karnataka,2023-24,4,April,16110.0
+Karnataka,2023-24,5,May,15111.0
+Karnataka,2023-24,6,June,14198.0
+Karnataka,2023-24,7,July,12359.0
+Karnataka,2023-24,8,August,16958.0
+Karnataka,2023-24,9,September,14814.0
+Karnataka,2023-24,10,October,15978.0
+Karnataka,2023-24,11,November,15301.0
+Karnataka,2023-24,12,December,15005.0
+Karnataka,2023-24,1,January,15668.0
+Karnataka,2023-24,2,February,16632.0
+Karnataka,2023-24,3,March,17212.0
+Karnataka,2024-25,4,April,17015.0
+Karnataka,2024-25,5,May,16826.0
+Karnataka,2024-25,6,June,14357.0
+Karnataka,2024-25,7,July,13820.0
+Karnataka,2024-25,8,August,12580.0
+Karnataka,2024-25,9,September,16061.0
+Karnataka,2024-25,10,October,12850.0
+Karnataka,2024-25,11,November,14853.0
+Karnataka,2024-25,12,December,15353.0
+Karnataka,2024-25,1,January,17757.0
+Karnataka,2024-25,2,February,18350.0
+Karnataka,2024-25,3,March,18398.0
+Karnataka,2025-26,4,April,17351.0
+Karnataka,2025-26,5,May,15952.0
+Karnataka,2025-26,6,June,13945.0
+Karnataka,2025-26,7,July,15014.0
+Karnataka,2025-26,8,August,14708.0
+Karnataka,2025-26,9,September,14486.0
+Karnataka,2025-26,10,October,14508.0
+Karnataka,2025-26,11,November,15978.0
+Karnataka,2025-26,12,December,17225.0
+Karnataka,2025-26,1,January,17700.0
+Karnataka,2025-26,2,February,18206.0
+Karnataka,2025-26,3,March,18655.0
+Karnataka,2026-27,4,April,18488.0
+Karnataka,2026-27,5,May,17695.0
+Karnataka,2026-27,6,June,16357.0
+Karnataka,2026-27,7,July,18514.0
+Karnataka,2026-27,8,August,16907.0
+Kerala,2014-15,1,January,3540.0
+Kerala,2014-15,2,February,3604.0
+Kerala,2014-15,3,March,3724.0
+Kerala,2015-16,4,April,3653.0
+Kerala,2015-16,5,May,3723.0
+Kerala,2015-16,6,June,3672.0
+Kerala,2015-16,7,July,3510.0
+Kerala,2015-16,8,August,3562.0
+Kerala,2015-16,9,September,3597.0
+Kerala,2015-16,10,October,3469.0
+Kerala,2015-16,11,November,3545.0
+Kerala,2015-16,12,December,3468.0
+Kerala,2015-16,1,January,3537.0
+Kerala,2015-16,2,February,3670.0
+Kerala,2015-16,3,March,3977.0
+Kerala,2016-17,4,April,4132.0
+Kerala,2016-17,5,May,4059.0
+Kerala,2016-17,6,June,3565.0
+Kerala,2016-17,7,July,3372.0
+Kerala,2016-17,8,August,3542.0
+Kerala,2016-17,9,September,3505.0
+Kerala,2016-17,10,October,3640.0
+Kerala,2016-17,11,November,3638.0
+Kerala,2016-17,12,December,3624.0
+Kerala,2016-17,1,January,3594.0
+Kerala,2016-17,2,February,3696.0
+Kerala,2016-17,3,March,3807.0
+Kerala,2017-18,4,April,3885.0
+Kerala,2017-18,5,May,3889.0
+Kerala,2017-18,6,June,3597.0
+Kerala,2017-18,7,July,3667.0
+Kerala,2017-18,8,August,3634.0
+Kerala,2017-18,9,September,3548.0
+Kerala,2017-18,10,October,3745.0
+Kerala,2017-18,11,November,3647.0
+Kerala,2017-18,12,December,3629.0
+Kerala,2017-18,1,January,3547.0
+Kerala,2017-18,2,February,3844.0
+Kerala,2017-18,3,March,3892.0
+Kerala,2018-19,4,April,3934.0
+Kerala,2018-19,5,May,4050.0
+Kerala,2018-19,6,June,3633.0
+Kerala,2018-19,7,July,3657.0
+Kerala,2018-19,8,August,3550.0
+Kerala,2018-19,9,September,3888.0
+Kerala,2018-19,10,October,3796.0
+Kerala,2018-19,11,November,3761.0
+Kerala,2018-19,12,December,3734.0
+Kerala,2018-19,1,January,3720.0
+Kerala,2018-19,2,February,3845.0
+Kerala,2018-19,3,March,4245.0
+Kerala,2019-20,4,April,4316.0
+Kerala,2019-20,5,May,4487.0
+Kerala,2019-20,6,June,4097.0
+Kerala,2019-20,7,July,3877.0
+Kerala,2019-20,8,August,3705.0
+Kerala,2019-20,9,September,3620.0
+Kerala,2019-20,10,October,3692.0
+Kerala,2019-20,11,November,3789.0
+Kerala,2019-20,12,December,3705.0
+Kerala,2019-20,1,January,4117.0
+Kerala,2019-20,2,February,4043.0
+Kerala,2019-20,3,March,4178.0
+Kerala,2020-21,4,April,3915.0
+Kerala,2020-21,5,May,3821.0
+Kerala,2020-21,6,June,3308.0
+Kerala,2020-21,7,July,3193.0
+Kerala,2020-21,8,August,3527.0
+Kerala,2020-21,9,September,3375.0
+Kerala,2020-21,10,October,3577.0
+Kerala,2020-21,11,November,3660.0
+Kerala,2020-21,12,December,3807.0
+Kerala,2020-21,1,January,3891.0
+Kerala,2020-21,2,February,4200.0
+Kerala,2020-21,3,March,4275.0
+Kerala,2021-22,4,April,4261.0
+Kerala,2021-22,5,May,3882.0
+Kerala,2021-22,6,June,3593.0
+Kerala,2021-22,7,July,3618.0
+Kerala,2021-22,8,August,3895.0
+Kerala,2021-22,9,September,3761.0
+Kerala,2021-22,10,October,3747.0
+Kerala,2021-22,11,November,3680.0
+Kerala,2021-22,12,December,3830.0
+Kerala,2021-22,1,January,3892.0
+Kerala,2021-22,2,February,4038.0
+Kerala,2021-22,3,March,4374.0
+Kerala,2022-23,4,April,4699.0
+Kerala,2022-23,5,May,4184.0
+Kerala,2022-23,6,June,3975.0
+Kerala,2022-23,7,July,3648.0
+Kerala,2022-23,8,August,3815.0
+Kerala,2022-23,9,September,3864.0
+Kerala,2022-23,10,October,4338.0
+Kerala,2022-23,11,November,3919.0
+Kerala,2022-23,12,December,3945.0
+Kerala,2022-23,1,January,3980.0
+Kerala,2022-23,2,February,4198.0
+Kerala,2022-23,3,March,4504.0
+Kerala,2023-24,4,April,5010.0
+Kerala,2023-24,5,May,4848.0
+Kerala,2023-24,6,June,4610.0
+Kerala,2023-24,7,July,3983.0
+Kerala,2023-24,8,August,4356.0
+Kerala,2023-24,9,September,4109.0
+Kerala,2023-24,10,October,4159.0
+Kerala,2023-24,11,November,4293.0
+Kerala,2023-24,12,December,4260.0
+Kerala,2023-24,1,January,4340.0
+Kerala,2023-24,2,February,4827.0
+Kerala,2023-24,3,March,5284.0
+Kerala,2024-25,4,April,5904.0
+Kerala,2024-25,5,May,5797.0
+Kerala,2024-25,6,June,4383.0
+Kerala,2024-25,7,July,4167.0
+Kerala,2024-25,8,August,4247.0
+Kerala,2024-25,9,September,4545.0
+Kerala,2024-25,10,October,4440.0
+Kerala,2024-25,11,November,4489.0
+Kerala,2024-25,12,December,4466.0
+Kerala,2024-25,1,January,4515.0
+Kerala,2024-25,2,February,5006.0
+Kerala,2024-25,3,March,5341.0
+Kerala,2025-26,4,April,5138.0
+Kerala,2025-26,5,May,5185.0
+Kerala,2025-26,6,June,4473.0
+Kerala,2025-26,7,July,4153.0
+Kerala,2025-26,8,August,4382.0
+Kerala,2025-26,9,September,4467.0
+Kerala,2025-26,10,October,4581.0
+Kerala,2025-26,11,November,4602.0
+Kerala,2025-26,12,December,4567.0
+Kerala,2025-26,1,January,4768.0
+Kerala,2025-26,2,February,5099.0
+Kerala,2025-26,3,March,5819.0
+Kerala,2026-27,4,April,6488.0
+Kerala,2026-27,5,May,5742.0
+Kerala,2026-27,6,June,5473.0
+Kerala,2026-27,7,July,5348.0
+Kerala,2026-27,8,August,4950.0
+Lakshadweep,2014-15,1,January,8.0
+Lakshadweep,2014-15,2,February,8.0
+Lakshadweep,2014-15,3,March,8.0
+Lakshadweep,2015-16,4,April,8.0
+Lakshadweep,2015-16,5,May,8.0
+Lakshadweep,2015-16,6,June,8.0
+Lakshadweep,2015-16,7,July,8.0
+Lakshadweep,2015-16,8,August,8.0
+Lakshadweep,2015-16,9,September,8.0
+Lakshadweep,2015-16,10,October,8.0
+Lakshadweep,2015-16,11,November,8.0
+Lakshadweep,2015-16,12,December,8.0
+Lakshadweep,2015-16,1,January,8.0
+Lakshadweep,2015-16,2,February,8.0
+Lakshadweep,2015-16,3,March,8.0
+Lakshadweep,2016-17,4,April,8.0
+Lakshadweep,2016-17,5,May,8.0
+Lakshadweep,2016-17,6,June,8.0
+Lakshadweep,2016-17,7,July,8.0
+Lakshadweep,2016-17,8,August,8.0
+Lakshadweep,2016-17,9,September,8.0
+Lakshadweep,2016-17,10,October,8.0
+Lakshadweep,2016-17,11,November,8.0
+Lakshadweep,2016-17,12,December,8.0
+Lakshadweep,2016-17,1,January,8.0
+Lakshadweep,2016-17,2,February,8.0
+Lakshadweep,2016-17,3,March,8.0
+Lakshadweep,2017-18,4,April,8.0
+Lakshadweep,2017-18,5,May,8.0
+Lakshadweep,2017-18,6,June,9.0
+Lakshadweep,2017-18,7,July,8.0
+Lakshadweep,2017-18,8,August,8.0
+Lakshadweep,2017-18,9,September,8.0
+Lakshadweep,2017-18,10,October,8.0
+Lakshadweep,2017-18,11,November,8.0
+Lakshadweep,2017-18,12,December,8.0
+Lakshadweep,2017-18,1,January,8.0
+Lakshadweep,2017-18,2,February,8.0
+Lakshadweep,2017-18,3,March,8.0
+Lakshadweep,2018-19,4,April,8.0
+Lakshadweep,2018-19,5,May,8.0
+Lakshadweep,2018-19,6,June,8.0
+Lakshadweep,2018-19,7,July,8.0
+Lakshadweep,2018-19,8,August,8.0
+Lakshadweep,2018-19,9,September,8.0
+Lakshadweep,2018-19,10,October,8.0
+Lakshadweep,2018-19,11,November,8.0
+Lakshadweep,2018-19,12,December,8.0
+Lakshadweep,2018-19,1,January,8.0
+Lakshadweep,2018-19,2,February,8.0
+Lakshadweep,2018-19,3,March,8.0
+Lakshadweep,2019-20,4,April,8.0
+Lakshadweep,2019-20,5,May,8.0
+Lakshadweep,2019-20,6,June,8.0
+Lakshadweep,2019-20,7,July,8.0
+Lakshadweep,2019-20,8,August,8.0
+Lakshadweep,2019-20,9,September,8.0
+Lakshadweep,2019-20,10,October,8.0
+Lakshadweep,2019-20,11,November,8.0
+Lakshadweep,2019-20,12,December,8.0
+Lakshadweep,2019-20,1,January,8.0
+Lakshadweep,2019-20,2,February,8.0
+Lakshadweep,2019-20,3,March,8.0
+Lakshadweep,2020-21,4,April,10.0
+Lakshadweep,2020-21,5,May,11.0
+Lakshadweep,2020-21,6,June,10.0
+Lakshadweep,2020-21,7,July,9.0
+Lakshadweep,2020-21,8,August,9.0
+Lakshadweep,2020-21,9,September,10.0
+Lakshadweep,2020-21,10,October,9.0
+Lakshadweep,2020-21,11,November,9.0
+Lakshadweep,2020-21,12,December,9.0
+Lakshadweep,2020-21,1,January,10.0
+Lakshadweep,2020-21,2,February,10.0
+Lakshadweep,2020-21,3,March,11.0
+Lakshadweep,2021-22,4,April,10.0
+Lakshadweep,2021-22,5,May,11.0
+Lakshadweep,2021-22,6,June,10.0
+Lakshadweep,2021-22,7,July,9.0
+Lakshadweep,2021-22,8,August,9.0
+Lakshadweep,2021-22,9,September,10.0
+Lakshadweep,2021-22,10,October,9.0
+Lakshadweep,2021-22,11,November,9.0
+Lakshadweep,2021-22,12,December,9.0
+Lakshadweep,2021-22,1,January,10.0
+Lakshadweep,2021-22,2,February,10.0
+Lakshadweep,2021-22,3,March,11.0
+Lakshadweep,2022-23,4,April,12.0
+Lakshadweep,2022-23,5,May,12.0
+Lakshadweep,2022-23,6,June,11.0
+Lakshadweep,2022-23,7,July,11.0
+Lakshadweep,2022-23,8,August,11.0
+Lakshadweep,2022-23,9,September,11.0
+Lakshadweep,2022-23,10,October,11.0
+Lakshadweep,2022-23,11,November,10.0
+Lakshadweep,2022-23,12,December,10.0
+Lakshadweep,2022-23,1,January,11.0
+Lakshadweep,2022-23,2,February,11.0
+Lakshadweep,2022-23,3,March,12.0
+Lakshadweep,2023-24,4,April,12.0
+Lakshadweep,2023-24,5,May,12.0
+Lakshadweep,2023-24,6,June,11.0
+Lakshadweep,2023-24,7,July,11.0
+Lakshadweep,2023-24,8,August,11.0
+Lakshadweep,2023-24,9,September,11.0
+Lakshadweep,2023-24,10,October,11.0
+Lakshadweep,2023-24,11,November,10.0
+Lakshadweep,2023-24,12,December,10.0
+Lakshadweep,2023-24,1,January,11.0
+Lakshadweep,2023-24,2,February,12.0
+Lakshadweep,2023-24,3,March,12.0
+Lakshadweep,2024-25,4,April,12.0
+Lakshadweep,2024-25,5,May,13.0
+Lakshadweep,2024-25,6,June,12.0
+Lakshadweep,2024-25,7,July,11.0
+Lakshadweep,2024-25,8,August,11.0
+Lakshadweep,2024-25,9,September,12.0
+Lakshadweep,2024-25,10,October,11.0
+Lakshadweep,2024-25,11,November,11.0
+Lakshadweep,2024-25,12,December,12.0
+Lakshadweep,2024-25,1,January,12.0
+Lakshadweep,2024-25,2,February,12.0
+Lakshadweep,2024-25,3,March,13.0
+Lakshadweep,2025-26,4,April,13.0
+Lakshadweep,2025-26,5,May,14.0
+Lakshadweep,2025-26,6,June,13.0
+Lakshadweep,2025-26,7,July,12.0
+Lakshadweep,2025-26,8,August,12.0
+Lakshadweep,2025-26,9,September,13.0
+Lakshadweep,2025-26,10,October,12.0
+Lakshadweep,2025-26,11,November,12.0
+Lakshadweep,2025-26,12,December,11.0
+Lakshadweep,2025-26,1,January,13.0
+Lakshadweep,2025-26,2,February,13.0
+Lakshadweep,2025-26,3,March,14.0
+Lakshadweep,2026-27,4,April,14.0
+Lakshadweep,2026-27,5,May,14.0
+Lakshadweep,2026-27,6,June,13.0
+Lakshadweep,2026-27,7,July,13.0
+Lakshadweep,2026-27,8,August,13.0
+Madhya Pradesh,2014-15,1,January,9511.0
+Madhya Pradesh,2014-15,2,February,9033.0
+Madhya Pradesh,2014-15,3,March,6815.0
+Madhya Pradesh,2015-16,4,April,6984.0
+Madhya Pradesh,2015-16,5,May,7159.0
+Madhya Pradesh,2015-16,6,June,7127.0
+Madhya Pradesh,2015-16,7,July,7130.0
+Madhya Pradesh,2015-16,8,August,7484.0
+Madhya Pradesh,2015-16,9,September,8377.0
+Madhya Pradesh,2015-16,10,October,9975.0
+Madhya Pradesh,2015-16,11,November,10160.0
+Madhya Pradesh,2015-16,12,December,10902.0
+Madhya Pradesh,2015-16,1,January,10796.0
+Madhya Pradesh,2015-16,2,February,10130.0
+Madhya Pradesh,2015-16,3,March,9056.0
+Madhya Pradesh,2016-17,4,April,8145.0
+Madhya Pradesh,2016-17,5,May,7980.0
+Madhya Pradesh,2016-17,6,June,7360.0
+Madhya Pradesh,2016-17,7,July,6671.0
+Madhya Pradesh,2016-17,8,August,6759.0
+Madhya Pradesh,2016-17,10,October,8832.0
+Madhya Pradesh,2016-17,11,November,10894.0
+Madhya Pradesh,2016-17,12,December,11512.0
+Madhya Pradesh,2016-17,1,January,11353.0
+Madhya Pradesh,2016-17,2,February,10915.0
+Madhya Pradesh,2016-17,3,March,9848.0
+Madhya Pradesh,2017-18,4,April,8402.0
+Madhya Pradesh,2017-18,5,May,8227.0
+Madhya Pradesh,2017-18,6,June,7640.0
+Madhya Pradesh,2017-18,7,July,7290.0
+Madhya Pradesh,2017-18,8,August,8249.0
+Madhya Pradesh,2017-18,9,September,8251.0
+Madhya Pradesh,2017-18,10,October,10465.0
+Madhya Pradesh,2017-18,11,November,11829.0
+Madhya Pradesh,2017-18,12,December,12338.0
+Madhya Pradesh,2017-18,1,January,12199.0
+Madhya Pradesh,2017-18,2,February,11444.0
+Madhya Pradesh,2017-18,3,March,9786.0
+Madhya Pradesh,2018-19,4,April,8591.0
+Madhya Pradesh,2018-19,5,May,8764.0
+Madhya Pradesh,2018-19,6,June,8389.0
+Madhya Pradesh,2018-19,7,July,7711.0
+Madhya Pradesh,2018-19,8,August,8775.0
+Madhya Pradesh,2018-19,9,September,8811.0
+Madhya Pradesh,2018-19,10,October,11535.0
+Madhya Pradesh,2018-19,11,November,10016.0
+Madhya Pradesh,2018-19,12,December,13215.0
+Madhya Pradesh,2018-19,1,January,13815.0
+Madhya Pradesh,2018-19,2,February,13505.0
+Madhya Pradesh,2018-19,3,March,12328.0
+Madhya Pradesh,2019-20,4,April,10018.0
+Madhya Pradesh,2019-20,5,May,10145.0
+Madhya Pradesh,2019-20,6,June,10187.0
+Madhya Pradesh,2019-20,7,July,10097.0
+Madhya Pradesh,2019-20,8,August,8777.0
+Madhya Pradesh,2019-20,9,September,8899.0
+Madhya Pradesh,2019-20,10,October,8820.0
+Madhya Pradesh,2019-20,11,November,13147.0
+Madhya Pradesh,2019-20,12,December,14674.0
+Madhya Pradesh,2019-20,1,January,14729.0
+Madhya Pradesh,2019-20,2,February,14886.0
+Madhya Pradesh,2019-20,3,March,12144.0
+Madhya Pradesh,2020-21,4,April,9149.0
+Madhya Pradesh,2020-21,5,May,10173.0
+Madhya Pradesh,2020-21,6,June,9124.0
+Madhya Pradesh,2020-21,7,July,10322.0
+Madhya Pradesh,2020-21,8,August,10027.0
+Madhya Pradesh,2020-21,9,September,10263.0
+Madhya Pradesh,2020-21,10,October,12784.0
+Madhya Pradesh,2020-21,11,November,14441.0
+Madhya Pradesh,2020-21,12,December,15756.0
+Madhya Pradesh,2020-21,1,January,15500.0
+Madhya Pradesh,2020-21,2,February,14983.0
+Madhya Pradesh,2020-21,3,March,13073.0
+Madhya Pradesh,2021-22,4,April,11392.0
+Madhya Pradesh,2021-22,5,May,10240.0
+Madhya Pradesh,2021-22,6,June,9418.0
+Madhya Pradesh,2021-22,7,July,11194.0
+Madhya Pradesh,2021-22,8,August,10705.0
+Madhya Pradesh,2021-22,9,September,10492.0
+Madhya Pradesh,2021-22,10,October,11066.0
+Madhya Pradesh,2021-22,11,November,14481.0
+Madhya Pradesh,2021-22,12,December,15917.0
+Madhya Pradesh,2021-22,1,January,15517.0
+Madhya Pradesh,2021-22,2,February,15702.0
+Madhya Pradesh,2021-22,3,March,14257.0
+Madhya Pradesh,2022-23,4,April,12751.0
+Madhya Pradesh,2022-23,5,May,12541.0
+Madhya Pradesh,2022-23,6,June,11520.0
+Madhya Pradesh,2022-23,7,July,10244.0
+Madhya Pradesh,2022-23,8,August,10957.0
+Madhya Pradesh,2022-23,9,September,10973.0
+Madhya Pradesh,2022-23,10,October,11752.0
+Madhya Pradesh,2022-23,11,November,16085.0
+Madhya Pradesh,2022-23,12,December,17141.0
+Madhya Pradesh,2022-23,1,January,17347.0
+Madhya Pradesh,2022-23,2,February,15875.0
+Madhya Pradesh,2022-23,3,March,14298.0
+Madhya Pradesh,2023-24,4,April,14298.0
+Madhya Pradesh,2023-24,5,May,12286.0
+Madhya Pradesh,2023-24,6,June,11837.0
+Madhya Pradesh,2023-24,7,July,12006.0
+Madhya Pradesh,2023-24,8,August,13624.0
+Madhya Pradesh,2023-24,9,September,14873.0
+Madhya Pradesh,2023-24,10,October,15252.0
+Madhya Pradesh,2023-24,11,November,17121.0
+Madhya Pradesh,2023-24,12,December,17819.0
+Madhya Pradesh,2023-24,1,January,18252.0
+Madhya Pradesh,2023-24,2,February,16998.0
+Madhya Pradesh,2023-24,3,March,13594.0
+Madhya Pradesh,2024-25,4,April,13151.0
+Madhya Pradesh,2024-25,5,May,14309.0
+Madhya Pradesh,2024-25,6,June,13953.0
+Madhya Pradesh,2024-25,7,July,12748.0
+Madhya Pradesh,2024-25,8,August,11822.0
+Madhya Pradesh,2024-25,9,September,12677.0
+Madhya Pradesh,2024-25,10,October,13610.0
+Madhya Pradesh,2024-25,11,November,17941.0
+Madhya Pradesh,2024-25,12,December,19371.0
+Madhya Pradesh,2024-25,1,January,18593.0
+Madhya Pradesh,2024-25,2,February,18596.0
+Madhya Pradesh,2024-25,3,March,16622.0
+Madhya Pradesh,2025-26,4,April,14527.0
+Madhya Pradesh,2025-26,5,May,13844.0
+Madhya Pradesh,2025-26,6,June,12733.0
+Madhya Pradesh,2025-26,7,July,12584.0
+Madhya Pradesh,2025-26,8,August,12869.0
+Madhya Pradesh,2025-26,9,September,13116.0
+Madhya Pradesh,2025-26,10,October,13518.0
+Madhya Pradesh,2025-26,11,November,18323.0
+Madhya Pradesh,2025-26,12,December,19849.0
+Madhya Pradesh,2025-26,1,January,19902.0
+Madhya Pradesh,2025-26,2,February,19221.0
+Madhya Pradesh,2025-26,3,March,16965.0
+Madhya Pradesh,2026-27,4,April,14375.0
+Madhya Pradesh,2026-27,5,May,15519.0
+Madhya Pradesh,2026-27,6,June,13441.0
+Madhya Pradesh,2026-27,7,July,13818.0
+Madhya Pradesh,2026-27,8,August,13390.0
+Maharashtra,2014-15,1,January,18464.0
+Maharashtra,2014-15,2,February,19146.0
+Maharashtra,2014-15,3,March,19936.0
+Maharashtra,2015-16,4,April,19933.0
+Maharashtra,2015-16,5,May,19886.0
+Maharashtra,2015-16,6,June,19290.0
+Maharashtra,2015-16,7,July,19734.0
+Maharashtra,2015-16,8,August,18571.0
+Maharashtra,2015-16,9,September,19247.0
+Maharashtra,2015-16,10,October,20973.0
+Maharashtra,2015-16,11,November,20213.0
+Maharashtra,2015-16,12,December,19102.0
+Maharashtra,2015-16,1,January,18188.0
+Maharashtra,2015-16,2,February,19015.0
+Maharashtra,2015-16,3,March,19218.0
+Maharashtra,2016-17,4,April,20057.0
+Maharashtra,2016-17,5,May,19916.0
+Maharashtra,2016-17,6,June,19813.0
+Maharashtra,2016-17,7,July,16014.0
+Maharashtra,2016-17,8,August,18657.0
+Maharashtra,2016-17,10,October,20499.0
+Maharashtra,2016-17,11,November,20305.0
+Maharashtra,2016-17,12,December,19899.0
+Maharashtra,2016-17,1,January,20315.0
+Maharashtra,2016-17,2,February,21281.0
+Maharashtra,2016-17,3,March,22516.0
+Maharashtra,2017-18,4,April,22542.0
+Maharashtra,2017-18,5,May,21874.0
+Maharashtra,2017-18,6,June,20623.0
+Maharashtra,2017-18,7,July,19339.0
+Maharashtra,2017-18,8,August,20015.0
+Maharashtra,2017-18,9,September,19490.0
+Maharashtra,2017-18,10,October,20310.0
+Maharashtra,2017-18,11,November,21050.0
+Maharashtra,2017-18,12,December,19971.0
+Maharashtra,2017-18,1,January,21073.0
+Maharashtra,2017-18,2,February,21172.0
+Maharashtra,2017-18,3,March,22486.0
+Maharashtra,2018-19,4,April,23306.0
+Maharashtra,2018-19,5,May,23395.0
+Maharashtra,2018-19,6,June,21773.0
+Maharashtra,2018-19,7,July,19327.0
+Maharashtra,2018-19,8,August,20764.0
+Maharashtra,2018-19,9,September,22455.0
+Maharashtra,2018-19,10,October,23864.0
+Maharashtra,2018-19,11,November,22468.0
+Maharashtra,2018-19,12,December,21151.0
+Maharashtra,2018-19,1,January,20242.0
+Maharashtra,2018-19,2,February,21079.0
+Maharashtra,2018-19,3,March,22361.0
+Maharashtra,2019-20,4,April,23158.0
+Maharashtra,2019-20,5,May,23621.0
+Maharashtra,2019-20,6,June,22912.0
+Maharashtra,2019-20,7,July,20568.0
+Maharashtra,2019-20,8,August,20257.0
+Maharashtra,2019-20,9,September,18813.0
+Maharashtra,2019-20,10,October,20750.0
+Maharashtra,2019-20,11,November,21471.0
+Maharashtra,2019-20,12,December,22411.0
+Maharashtra,2019-20,1,January,22975.0
+Maharashtra,2019-20,2,February,24550.0
+Maharashtra,2019-20,3,March,24012.0
+Maharashtra,2020-21,4,April,18695.0
+Maharashtra,2020-21,5,May,21501.0
+Maharashtra,2020-21,6,June,19429.0
+Maharashtra,2020-21,7,July,17792.0
+Maharashtra,2020-21,8,August,18111.0
+Maharashtra,2020-21,9,September,19326.0
+Maharashtra,2020-21,10,October,20635.0
+Maharashtra,2020-21,11,November,22903.0
+Maharashtra,2020-21,12,December,23537.0
+Maharashtra,2020-21,1,January,24058.0
+Maharashtra,2020-21,2,February,24122.0
+Maharashtra,2020-21,3,March,25576.0
+Maharashtra,2021-22,4,April,25653.0
+Maharashtra,2021-22,5,May,23746.0
+Maharashtra,2021-22,6,June,21141.0
+Maharashtra,2021-22,7,July,24097.0
+Maharashtra,2021-22,8,August,24428.0
+Maharashtra,2021-22,9,September,21502.0
+Maharashtra,2021-22,10,October,22892.0
+Maharashtra,2021-22,11,November,25215.0
+Maharashtra,2021-22,12,December,24429.0
+Maharashtra,2021-22,1,January,25560.0
+Maharashtra,2021-22,2,February,26316.0
+Maharashtra,2021-22,3,March,28075.0
+Maharashtra,2022-23,4,April,30935.0
+Maharashtra,2022-23,5,May,27969.0
+Maharashtra,2022-23,6,June,26972.0
+Maharashtra,2022-23,7,July,22540.0
+Maharashtra,2022-23,8,August,24186.0
+Maharashtra,2022-23,9,September,22574.0
+Maharashtra,2022-23,10,October,22513.0
+Maharashtra,2022-23,11,November,25936.0
+Maharashtra,2022-23,12,December,27234.0
+Maharashtra,2022-23,1,January,27860.0
+Maharashtra,2022-23,2,February,28519.0
+Maharashtra,2022-23,3,March,28576.0
+Maharashtra,2023-24,4,April,28576.0
+Maharashtra,2023-24,5,May,28160.0
+Maharashtra,2023-24,6,June,28546.0
+Maharashtra,2023-24,7,July,24544.0
+Maharashtra,2023-24,8,August,31178.0
+Maharashtra,2023-24,9,September,27678.0
+Maharashtra,2023-24,10,October,28206.0
+Maharashtra,2023-24,11,November,28386.0
+Maharashtra,2023-24,12,December,27755.0
+Maharashtra,2023-24,1,January,28651.0
+Maharashtra,2023-24,2,February,28969.0
+Maharashtra,2023-24,3,March,28795.0
+Maharashtra,2024-25,4,April,28924.0
+Maharashtra,2024-25,5,May,28452.0
+Maharashtra,2024-25,6,June,28310.0
+Maharashtra,2024-25,7,July,24174.0
+Maharashtra,2024-25,8,August,28074.0
+Maharashtra,2024-25,9,September,30049.0
+Maharashtra,2024-25,10,October,26632.0
+Maharashtra,2024-25,11,November,27845.0
+Maharashtra,2024-25,12,December,28632.0
+Maharashtra,2024-25,1,January,29836.0
+Maharashtra,2024-25,2,February,30151.0
+Maharashtra,2024-25,3,March,30675.0
+Maharashtra,2025-26,4,April,30659.0
+Maharashtra,2025-26,5,May,29124.0
+Maharashtra,2025-26,6,June,25604.0
+Maharashtra,2025-26,7,July,26426.0
+Maharashtra,2025-26,8,August,26890.0
+Maharashtra,2025-26,9,September,26267.0
+Maharashtra,2025-26,10,October,27286.0
+Maharashtra,2025-26,11,November,27345.0
+Maharashtra,2025-26,12,December,28605.0
+Maharashtra,2025-26,1,January,30782.0
+Maharashtra,2025-26,2,February,30630.0
+Maharashtra,2025-26,3,March,31128.0
+Maharashtra,2026-27,4,April,32161.0
+Maharashtra,2026-27,5,May,32430.0
+Maharashtra,2026-27,6,June,31273.0
+Maharashtra,2026-27,7,July,28861.0
+Maharashtra,2026-27,8,August,29477.0
+Manipur,2014-15,1,January,150.0
+Manipur,2014-15,2,February,140.0
+Manipur,2014-15,3,March,148.0
+Manipur,2015-16,4,April,150.0
+Manipur,2015-16,5,May,160.0
+Manipur,2015-16,6,June,149.0
+Manipur,2015-16,7,July,139.0
+Manipur,2015-16,8,August,150.0
+Manipur,2015-16,9,September,146.0
+Manipur,2015-16,10,October,146.0
+Manipur,2015-16,11,November,164.0
+Manipur,2015-16,12,December,167.0
+Manipur,2015-16,1,January,168.0
+Manipur,2015-16,2,February,158.0
+Manipur,2015-16,3,March,155.0
+Manipur,2016-17,4,April,146.0
+Manipur,2016-17,5,May,145.0
+Manipur,2016-17,6,June,152.0
+Manipur,2016-17,7,July,141.0
+Manipur,2016-17,8,August,145.0
+Manipur,2016-17,9,September,151.0
+Manipur,2016-17,10,October,145.0
+Manipur,2016-17,11,November,152.0
+Manipur,2016-17,12,December,161.0
+Manipur,2016-17,1,January,163.0
+Manipur,2016-17,2,February,163.0
+Manipur,2016-17,3,March,160.0
+Manipur,2017-18,4,April,155.0
+Manipur,2017-18,5,May,163.0
+Manipur,2017-18,6,June,156.0
+Manipur,2017-18,7,July,161.0
+Manipur,2017-18,8,August,164.0
+Manipur,2017-18,9,September,166.0
+Manipur,2017-18,10,October,174.0
+Manipur,2017-18,11,November,180.0
+Manipur,2017-18,12,December,194.0
+Manipur,2017-18,1,January,202.0
+Manipur,2017-18,2,February,197.0
+Manipur,2017-18,3,March,185.0
+Manipur,2018-19,4,April,193.0
+Manipur,2018-19,5,May,179.0
+Manipur,2018-19,6,June,179.0
+Manipur,2018-19,7,July,174.0
+Manipur,2018-19,8,August,177.0
+Manipur,2018-19,9,September,184.0
+Manipur,2018-19,10,October,187.0
+Manipur,2018-19,11,November,189.0
+Manipur,2018-19,12,December,214.0
+Manipur,2018-19,1,January,219.0
+Manipur,2018-19,2,February,192.0
+Manipur,2018-19,3,March,204.0
+Manipur,2019-20,4,April,197.0
+Manipur,2019-20,5,May,183.0
+Manipur,2019-20,6,June,188.0
+Manipur,2019-20,7,July,182.0
+Manipur,2019-20,8,August,191.0
+Manipur,2019-20,9,September,189.0
+Manipur,2019-20,10,October,197.0
+Manipur,2019-20,11,November,224.0
+Manipur,2019-20,12,December,216.0
+Manipur,2019-20,1,January,220.0
+Manipur,2019-20,2,February,226.0
+Manipur,2019-20,3,March,210.0
+Manipur,2020-21,4,April,216.0
+Manipur,2020-21,5,May,208.0
+Manipur,2020-21,6,June,220.0
+Manipur,2020-21,7,July,225.0
+Manipur,2020-21,8,August,200.0
+Manipur,2020-21,9,September,242.0
+Manipur,2020-21,10,October,220.0
+Manipur,2020-21,11,November,231.0
+Manipur,2020-21,12,December,252.0
+Manipur,2020-21,1,January,239.0
+Manipur,2020-21,2,February,231.0
+Manipur,2020-21,3,March,216.0
+Manipur,2021-22,4,April,208.0
+Manipur,2021-22,5,May,208.0
+Manipur,2021-22,6,June,212.0
+Manipur,2021-22,7,July,206.0
+Manipur,2021-22,8,August,206.0
+Manipur,2021-22,9,September,210.0
+Manipur,2021-22,10,October,219.0
+Manipur,2021-22,11,November,223.0
+Manipur,2021-22,12,December,245.0
+Manipur,2021-22,1,January,258.0
+Manipur,2021-22,2,February,257.0
+Manipur,2021-22,3,March,225.0
+Manipur,2022-23,4,April,202.0
+Manipur,2022-23,5,May,197.0
+Manipur,2022-23,6,June,201.0
+Manipur,2022-23,7,July,201.0
+Manipur,2022-23,8,August,207.0
+Manipur,2022-23,9,September,203.0
+Manipur,2022-23,10,October,202.0
+Manipur,2022-23,11,November,219.0
+Manipur,2022-23,12,December,247.0
+Manipur,2022-23,1,January,248.0
+Manipur,2022-23,2,February,225.0
+Manipur,2022-23,3,March,212.0
+Manipur,2023-24,4,April,213.0
+Manipur,2023-24,5,May,193.0
+Manipur,2023-24,6,June,185.0
+Manipur,2023-24,7,July,202.0
+Manipur,2023-24,8,August,209.0
+Manipur,2023-24,9,September,209.0
+Manipur,2023-24,10,October,214.0
+Manipur,2023-24,11,November,208.0
+Manipur,2023-24,12,December,236.0
+Manipur,2023-24,1,January,258.0
+Manipur,2023-24,2,February,252.0
+Manipur,2023-24,3,March,226.0
+Manipur,2024-25,4,April,214.0
+Manipur,2024-25,5,May,227.0
+Manipur,2024-25,6,June,225.0
+Manipur,2024-25,7,July,213.0
+Manipur,2024-25,8,August,214.0
+Manipur,2024-25,9,September,236.0
+Manipur,2024-25,10,October,227.0
+Manipur,2024-25,11,November,233.0
+Manipur,2024-25,12,December,269.0
+Manipur,2024-25,1,January,267.0
+Manipur,2024-25,2,February,248.0
+Manipur,2024-25,3,March,213.0
+Manipur,2025-26,4,April,228.0
+Manipur,2025-26,5,May,248.0
+Manipur,2025-26,6,June,242.0
+Manipur,2025-26,7,July,233.0
+Manipur,2025-26,8,August,234.0
+Manipur,2025-26,9,September,240.0
+Manipur,2025-26,10,October,235.0
+Manipur,2025-26,11,November,248.0
+Manipur,2025-26,12,December,266.0
+Manipur,2025-26,1,January,277.0
+Manipur,2025-26,2,February,273.0
+Manipur,2025-26,3,March,252.0
+Manipur,2026-27,4,April,252.0
+Manipur,2026-27,5,May,261.0
+Manipur,2026-27,6,June,264.0
+Manipur,2026-27,7,July,260.0
+Manipur,2026-27,8,August,276.0
+Meghalaya,2014-15,1,January,370.0
+Meghalaya,2014-15,2,February,320.0
+Meghalaya,2014-15,3,March,360.0
+Meghalaya,2015-16,4,April,400.0
+Meghalaya,2015-16,5,May,400.0
+Meghalaya,2015-16,6,June,302.0
+Meghalaya,2015-16,7,July,316.0
+Meghalaya,2015-16,8,August,322.0
+Meghalaya,2015-16,9,September,285.0
+Meghalaya,2015-16,10,October,323.0
+Meghalaya,2015-16,11,November,336.0
+Meghalaya,2015-16,12,December,349.0
+Meghalaya,2015-16,1,January,379.0
+Meghalaya,2015-16,2,February,322.0
+Meghalaya,2015-16,3,March,315.0
+Meghalaya,2016-17,4,April,295.0
+Meghalaya,2016-17,5,May,282.0
+Meghalaya,2016-17,6,June,311.0
+Meghalaya,2016-17,7,July,292.0
+Meghalaya,2016-17,8,August,296.0
+Meghalaya,2016-17,9,September,298.0
+Meghalaya,2016-17,10,October,300.0
+Meghalaya,2016-17,11,November,312.0
+Meghalaya,2016-17,12,December,309.0
+Meghalaya,2016-17,1,January,331.0
+Meghalaya,2016-17,2,February,300.0
+Meghalaya,2016-17,3,March,298.0
+Meghalaya,2017-18,4,April,291.0
+Meghalaya,2017-18,5,May,304.0
+Meghalaya,2017-18,6,June,272.0
+Meghalaya,2017-18,7,July,305.0
+Meghalaya,2017-18,8,August,297.0
+Meghalaya,2017-18,9,September,325.0
+Meghalaya,2017-18,10,October,300.0
+Meghalaya,2017-18,11,November,339.0
+Meghalaya,2017-18,12,December,369.0
+Meghalaya,2017-18,1,January,331.0
+Meghalaya,2017-18,2,February,312.0
+Meghalaya,2017-18,3,March,307.0
+Meghalaya,2018-19,4,April,307.0
+Meghalaya,2018-19,5,May,371.0
+Meghalaya,2018-19,6,June,326.0
+Meghalaya,2018-19,7,July,334.0
+Meghalaya,2018-19,8,August,325.0
+Meghalaya,2018-19,9,September,317.0
+Meghalaya,2018-19,10,October,336.0
+Meghalaya,2018-19,11,November,352.0
+Meghalaya,2018-19,12,December,365.0
+Meghalaya,2018-19,1,January,374.0
+Meghalaya,2018-19,2,February,355.0
+Meghalaya,2018-19,3,March,357.0
+Meghalaya,2019-20,4,April,337.0
+Meghalaya,2019-20,5,May,329.0
+Meghalaya,2019-20,6,June,367.0
+Meghalaya,2019-20,7,July,333.0
+Meghalaya,2019-20,8,August,333.0
+Meghalaya,2019-20,9,September,336.0
+Meghalaya,2019-20,10,October,338.0
+Meghalaya,2019-20,11,November,363.0
+Meghalaya,2019-20,12,December,365.0
+Meghalaya,2019-20,1,January,371.0
+Meghalaya,2019-20,2,February,370.0
+Meghalaya,2019-20,3,March,343.0
+Meghalaya,2020-21,4,April,261.0
+Meghalaya,2020-21,5,May,322.0
+Meghalaya,2020-21,6,June,335.0
+Meghalaya,2020-21,7,July,321.0
+Meghalaya,2020-21,8,August,321.0
+Meghalaya,2020-21,9,September,334.0
+Meghalaya,2020-21,10,October,336.0
+Meghalaya,2020-21,11,November,353.0
+Meghalaya,2020-21,12,December,384.0
+Meghalaya,2020-21,1,January,378.0
+Meghalaya,2020-21,2,February,377.0
+Meghalaya,2020-21,3,March,348.0
+Meghalaya,2021-22,4,April,357.0
+Meghalaya,2021-22,5,May,329.0
+Meghalaya,2021-22,6,June,322.0
+Meghalaya,2021-22,7,July,317.0
+Meghalaya,2021-22,8,August,331.0
+Meghalaya,2021-22,9,September,328.0
+Meghalaya,2021-22,10,October,368.0
+Meghalaya,2021-22,11,November,378.0
+Meghalaya,2021-22,12,December,391.0
+Meghalaya,2021-22,1,January,408.0
+Meghalaya,2021-22,2,February,405.0
+Meghalaya,2021-22,3,March,371.0
+Meghalaya,2022-23,4,April,359.0
+Meghalaya,2022-23,5,May,343.0
+Meghalaya,2022-23,6,June,342.0
+Meghalaya,2022-23,7,July,332.0
+Meghalaya,2022-23,8,August,349.0
+Meghalaya,2022-23,9,September,354.0
+Meghalaya,2022-23,10,October,356.0
+Meghalaya,2022-23,11,November,381.0
+Meghalaya,2022-23,12,December,395.0
+Meghalaya,2022-23,1,January,404.0
+Meghalaya,2022-23,2,February,394.0
+Meghalaya,2022-23,3,March,374.0
+Meghalaya,2023-24,4,April,336.0
+Meghalaya,2023-24,5,May,352.0
+Meghalaya,2023-24,6,June,333.0
+Meghalaya,2023-24,7,July,330.0
+Meghalaya,2023-24,8,August,322.0
+Meghalaya,2023-24,9,September,331.0
+Meghalaya,2023-24,10,October,336.0
+Meghalaya,2023-24,11,November,363.0
+Meghalaya,2023-24,12,December,349.0
+Meghalaya,2023-24,1,January,405.0
+Meghalaya,2023-24,2,February,399.0
+Meghalaya,2023-24,3,March,399.0
+Meghalaya,2024-25,4,April,409.0
+Meghalaya,2024-25,5,May,396.0
+Meghalaya,2024-25,6,June,330.0
+Meghalaya,2024-25,7,July,359.0
+Meghalaya,2024-25,8,August,346.0
+Meghalaya,2024-25,9,September,318.0
+Meghalaya,2024-25,10,October,355.0
+Meghalaya,2024-25,11,November,370.0
+Meghalaya,2024-25,12,December,378.0
+Meghalaya,2024-25,1,January,393.0
+Meghalaya,2024-25,2,February,352.0
+Meghalaya,2024-25,3,March,343.0
+Meghalaya,2025-26,4,April,340.0
+Meghalaya,2025-26,5,May,340.0
+Meghalaya,2025-26,6,June,330.0
+Meghalaya,2025-26,7,July,337.0
+Meghalaya,2025-26,8,August,350.0
+Meghalaya,2025-26,9,September,344.0
+Meghalaya,2025-26,10,October,343.0
+Meghalaya,2025-26,11,November,358.0
+Meghalaya,2025-26,12,December,361.0
+Meghalaya,2025-26,1,January,374.0
+Meghalaya,2025-26,2,February,368.0
+Meghalaya,2025-26,3,March,359.0
+Meghalaya,2026-27,4,April,364.0
+Meghalaya,2026-27,5,May,368.0
+Meghalaya,2026-27,6,June,366.0
+Meghalaya,2026-27,7,July,375.0
+Meghalaya,2026-27,8,August,385.0
+Mizoram,2014-15,1,January,90.0
+Mizoram,2014-15,2,February,89.0
+Mizoram,2014-15,3,March,84.0
+Mizoram,2015-16,4,April,85.0
+Mizoram,2015-16,5,May,85.0
+Mizoram,2015-16,6,June,82.0
+Mizoram,2015-16,7,July,78.0
+Mizoram,2015-16,8,August,85.0
+Mizoram,2015-16,9,September,90.0
+Mizoram,2015-16,10,October,81.0
+Mizoram,2015-16,11,November,90.0
+Mizoram,2015-16,12,December,97.0
+Mizoram,2015-16,1,January,102.0
+Mizoram,2015-16,2,February,101.0
+Mizoram,2015-16,3,March,86.0
+Mizoram,2016-17,4,April,83.0
+Mizoram,2016-17,5,May,88.0
+Mizoram,2016-17,6,June,81.0
+Mizoram,2016-17,7,July,80.0
+Mizoram,2016-17,8,August,83.0
+Mizoram,2016-17,9,September,92.0
+Mizoram,2016-17,10,October,95.0
+Mizoram,2016-17,11,November,97.0
+Mizoram,2016-17,12,December,97.0
+Mizoram,2016-17,1,January,98.0
+Mizoram,2016-17,2,February,95.0
+Mizoram,2016-17,3,March,96.0
+Mizoram,2017-18,4,April,86.0
+Mizoram,2017-18,5,May,86.0
+Mizoram,2017-18,6,June,82.0
+Mizoram,2017-18,7,July,84.0
+Mizoram,2017-18,8,August,84.0
+Mizoram,2017-18,9,September,87.0
+Mizoram,2017-18,10,October,88.0
+Mizoram,2017-18,11,November,95.0
+Mizoram,2017-18,12,December,104.0
+Mizoram,2017-18,1,January,105.0
+Mizoram,2017-18,2,February,103.0
+Mizoram,2017-18,3,March,100.0
+Mizoram,2018-19,4,April,98.0
+Mizoram,2018-19,5,May,96.0
+Mizoram,2018-19,6,June,103.0
+Mizoram,2018-19,7,July,101.0
+Mizoram,2018-19,8,August,99.0
+Mizoram,2018-19,9,September,95.0
+Mizoram,2018-19,10,October,99.0
+Mizoram,2018-19,11,November,102.0
+Mizoram,2018-19,12,December,112.0
+Mizoram,2018-19,1,January,121.0
+Mizoram,2018-19,2,February,102.0
+Mizoram,2018-19,3,March,108.0
+Mizoram,2019-20,4,April,116.0
+Mizoram,2019-20,5,May,102.0
+Mizoram,2019-20,6,June,101.0
+Mizoram,2019-20,7,July,102.0
+Mizoram,2019-20,8,August,93.0
+Mizoram,2019-20,9,September,93.0
+Mizoram,2019-20,10,October,102.0
+Mizoram,2019-20,11,November,107.0
+Mizoram,2019-20,12,December,125.0
+Mizoram,2019-20,1,January,127.0
+Mizoram,2019-20,2,February,133.0
+Mizoram,2019-20,3,March,111.0
+Mizoram,2020-21,4,April,102.0
+Mizoram,2020-21,5,May,106.0
+Mizoram,2020-21,6,June,101.0
+Mizoram,2020-21,7,July,102.0
+Mizoram,2020-21,8,August,102.0
+Mizoram,2020-21,9,September,108.0
+Mizoram,2020-21,10,October,109.0
+Mizoram,2020-21,11,November,121.0
+Mizoram,2020-21,12,December,127.0
+Mizoram,2020-21,1,January,128.0
+Mizoram,2020-21,2,February,132.0
+Mizoram,2020-21,3,March,109.0
+Mizoram,2021-22,4,April,111.0
+Mizoram,2021-22,5,May,107.0
+Mizoram,2021-22,6,June,105.0
+Mizoram,2021-22,7,July,102.0
+Mizoram,2021-22,8,August,107.0
+Mizoram,2021-22,9,September,116.0
+Mizoram,2021-22,10,October,128.0
+Mizoram,2021-22,11,November,131.0
+Mizoram,2021-22,12,December,144.0
+Mizoram,2021-22,1,January,156.0
+Mizoram,2021-22,2,February,169.0
+Mizoram,2021-22,3,March,124.0
+Mizoram,2022-23,4,April,118.0
+Mizoram,2022-23,5,May,117.0
+Mizoram,2022-23,6,June,118.0
+Mizoram,2022-23,7,July,119.0
+Mizoram,2022-23,8,August,119.0
+Mizoram,2022-23,9,September,127.0
+Mizoram,2022-23,10,October,127.0
+Mizoram,2022-23,11,November,135.0
+Mizoram,2022-23,12,December,143.0
+Mizoram,2022-23,1,January,159.0
+Mizoram,2022-23,2,February,139.0
+Mizoram,2022-23,3,March,129.0
+Mizoram,2023-24,4,April,127.0
+Mizoram,2023-24,5,May,122.0
+Mizoram,2023-24,6,June,125.0
+Mizoram,2023-24,7,July,122.0
+Mizoram,2023-24,8,August,126.0
+Mizoram,2023-24,9,September,129.0
+Mizoram,2023-24,10,October,141.0
+Mizoram,2023-24,11,November,144.0
+Mizoram,2023-24,12,December,140.0
+Mizoram,2023-24,1,January,162.0
+Mizoram,2023-24,2,February,155.0
+Mizoram,2023-24,3,March,136.0
+Mizoram,2024-25,4,April,130.0
+Mizoram,2024-25,5,May,130.0
+Mizoram,2024-25,6,June,126.0
+Mizoram,2024-25,7,July,130.0
+Mizoram,2024-25,8,August,152.0
+Mizoram,2024-25,9,September,148.0
+Mizoram,2024-25,10,October,136.0
+Mizoram,2024-25,11,November,145.0
+Mizoram,2024-25,12,December,162.0
+Mizoram,2024-25,1,January,168.0
+Mizoram,2024-25,2,February,160.0
+Mizoram,2024-25,3,March,151.0
+Mizoram,2025-26,4,April,139.0
+Mizoram,2025-26,5,May,138.0
+Mizoram,2025-26,6,June,128.0
+Mizoram,2025-26,7,July,136.0
+Mizoram,2025-26,8,August,144.0
+Mizoram,2025-26,9,September,140.0
+Mizoram,2025-26,10,October,141.0
+Mizoram,2025-26,11,November,153.0
+Mizoram,2025-26,12,December,165.0
+Mizoram,2025-26,1,January,182.0
+Mizoram,2025-26,2,February,156.0
+Mizoram,2025-26,3,March,148.0
+Mizoram,2026-27,4,April,151.0
+Mizoram,2026-27,5,May,153.0
+Mizoram,2026-27,6,June,155.0
+Mizoram,2026-27,7,July,151.0
+Mizoram,2026-27,8,August,152.0
+Nagaland,2014-15,1,January,130.0
+Nagaland,2014-15,2,February,120.0
+Nagaland,2014-15,3,March,130.0
+Nagaland,2015-16,4,April,120.0
+Nagaland,2015-16,5,May,120.0
+Nagaland,2015-16,6,June,123.0
+Nagaland,2015-16,7,July,140.0
+Nagaland,2015-16,8,August,133.0
+Nagaland,2015-16,9,September,121.0
+Nagaland,2015-16,10,October,122.0
+Nagaland,2015-16,11,November,121.0
+Nagaland,2015-16,12,December,140.0
+Nagaland,2015-16,1,January,122.0
+Nagaland,2015-16,2,February,119.0
+Nagaland,2015-16,3,March,114.0
+Nagaland,2016-17,4,April,110.0
+Nagaland,2016-17,5,May,107.0
+Nagaland,2016-17,6,June,119.0
+Nagaland,2016-17,7,July,120.0
+Nagaland,2016-17,8,August,117.0
+Nagaland,2016-17,9,September,123.0
+Nagaland,2016-17,10,October,130.0
+Nagaland,2016-17,11,November,128.0
+Nagaland,2016-17,12,December,127.0
+Nagaland,2016-17,1,January,122.0
+Nagaland,2016-17,2,February,148.0
+Nagaland,2016-17,3,March,123.0
+Nagaland,2017-18,4,April,121.0
+Nagaland,2017-18,5,May,132.0
+Nagaland,2017-18,6,June,147.0
+Nagaland,2017-18,7,July,140.0
+Nagaland,2017-18,8,August,138.0
+Nagaland,2017-18,9,September,147.0
+Nagaland,2017-18,10,October,137.0
+Nagaland,2017-18,11,November,132.0
+Nagaland,2017-18,12,December,155.0
+Nagaland,2017-18,1,January,152.0
+Nagaland,2017-18,2,February,150.0
+Nagaland,2017-18,3,March,148.0
+Nagaland,2018-19,4,April,156.0
+Nagaland,2018-19,5,May,147.0
+Nagaland,2018-19,6,June,129.0
+Nagaland,2018-19,7,July,133.0
+Nagaland,2018-19,8,August,134.0
+Nagaland,2018-19,9,September,142.0
+Nagaland,2018-19,10,October,134.0
+Nagaland,2018-19,11,November,139.0
+Nagaland,2018-19,12,December,135.0
+Nagaland,2018-19,1,January,140.0
+Nagaland,2018-19,2,February,130.0
+Nagaland,2018-19,3,March,127.0
+Nagaland,2019-20,4,April,157.0
+Nagaland,2019-20,5,May,130.0
+Nagaland,2019-20,6,June,144.0
+Nagaland,2019-20,7,July,168.0
+Nagaland,2019-20,8,August,186.0
+Nagaland,2019-20,9,September,173.0
+Nagaland,2019-20,10,October,151.0
+Nagaland,2019-20,11,November,149.0
+Nagaland,2019-20,12,December,167.0
+Nagaland,2019-20,1,January,181.0
+Nagaland,2019-20,2,February,164.0
+Nagaland,2019-20,3,March,157.0
+Nagaland,2020-21,4,April,142.0
+Nagaland,2020-21,5,May,136.0
+Nagaland,2020-21,6,June,151.0
+Nagaland,2020-21,7,July,147.0
+Nagaland,2020-21,8,August,149.0
+Nagaland,2020-21,9,September,154.0
+Nagaland,2020-21,10,October,160.0
+Nagaland,2020-21,11,November,151.0
+Nagaland,2020-21,12,December,155.0
+Nagaland,2020-21,1,January,134.0
+Nagaland,2020-21,2,February,152.0
+Nagaland,2020-21,3,March,150.0
+Nagaland,2021-22,4,April,153.0
+Nagaland,2021-22,5,May,150.0
+Nagaland,2021-22,6,June,158.0
+Nagaland,2021-22,7,July,149.0
+Nagaland,2021-22,8,August,168.0
+Nagaland,2021-22,9,September,173.0
+Nagaland,2021-22,10,October,155.0
+Nagaland,2021-22,11,November,152.0
+Nagaland,2021-22,12,December,155.0
+Nagaland,2021-22,1,January,144.0
+Nagaland,2021-22,2,February,157.0
+Nagaland,2021-22,3,March,149.0
+Nagaland,2022-23,4,April,138.0
+Nagaland,2022-23,5,May,145.0
+Nagaland,2022-23,6,June,150.0
+Nagaland,2022-23,7,July,159.0
+Nagaland,2022-23,8,August,162.0
+Nagaland,2022-23,9,September,162.0
+Nagaland,2022-23,10,October,168.0
+Nagaland,2022-23,11,November,165.0
+Nagaland,2022-23,12,December,152.0
+Nagaland,2022-23,1,January,139.0
+Nagaland,2022-23,2,February,148.0
+Nagaland,2022-23,3,March,156.0
+Nagaland,2023-24,4,April,150.0
+Nagaland,2023-24,5,May,152.0
+Nagaland,2023-24,6,June,167.0
+Nagaland,2023-24,7,July,167.0
+Nagaland,2023-24,8,August,174.0
+Nagaland,2023-24,9,September,172.0
+Nagaland,2023-24,10,October,166.0
+Nagaland,2023-24,11,November,147.0
+Nagaland,2023-24,12,December,162.0
+Nagaland,2023-24,1,January,163.0
+Nagaland,2023-24,2,February,156.0
+Nagaland,2023-24,3,March,158.0
+Nagaland,2024-25,4,April,166.0
+Nagaland,2024-25,5,May,177.0
+Nagaland,2024-25,6,June,184.0
+Nagaland,2024-25,7,July,189.0
+Nagaland,2024-25,8,August,183.0
+Nagaland,2024-25,9,September,184.0
+Nagaland,2024-25,10,October,176.0
+Nagaland,2024-25,11,November,178.0
+Nagaland,2024-25,12,December,173.0
+Nagaland,2024-25,1,January,171.0
+Nagaland,2024-25,2,February,173.0
+Nagaland,2024-25,3,March,164.0
+Nagaland,2025-26,4,April,176.0
+Nagaland,2025-26,5,May,187.0
+Nagaland,2025-26,6,June,202.0
+Nagaland,2025-26,7,July,193.0
+Nagaland,2025-26,8,August,190.0
+Nagaland,2025-26,9,September,191.0
+Nagaland,2025-26,10,October,188.0
+Nagaland,2025-26,11,November,176.0
+Nagaland,2025-26,12,December,187.0
+Nagaland,2025-26,1,January,177.0
+Nagaland,2025-26,2,February,193.0
+Nagaland,2025-26,3,March,175.0
+Nagaland,2026-27,4,April,174.0
+Nagaland,2026-27,5,May,191.0
+Nagaland,2026-27,6,June,204.0
+Nagaland,2026-27,7,July,208.0
+Nagaland,2026-27,8,August,210.0
+Odisha,2014-15,1,January,3389.0
+Odisha,2014-15,2,February,3560.0
+Odisha,2014-15,3,March,3920.0
+Odisha,2015-16,4,April,3872.0
+Odisha,2015-16,5,May,3902.0
+Odisha,2015-16,6,June,3846.0
+Odisha,2015-16,7,July,3866.0
+Odisha,2015-16,8,August,3947.0
+Odisha,2015-16,9,September,3770.0
+Odisha,2015-16,10,October,4015.0
+Odisha,2015-16,11,November,3884.0
+Odisha,2015-16,12,December,3759.0
+Odisha,2015-16,1,January,3739.0
+Odisha,2015-16,2,February,3931.0
+Odisha,2015-16,3,March,4091.0
+Odisha,2016-17,4,April,4012.0
+Odisha,2016-17,5,May,3898.0
+Odisha,2016-17,6,June,3970.0
+Odisha,2016-17,7,July,3989.0
+Odisha,2016-17,8,August,3919.0
+Odisha,2016-17,9,September,3865.0
+Odisha,2016-17,10,October,3920.0
+Odisha,2016-17,11,November,3788.0
+Odisha,2016-17,12,December,3837.0
+Odisha,2016-17,1,January,3720.0
+Odisha,2016-17,2,February,3847.0
+Odisha,2016-17,3,March,3989.0
+Odisha,2017-18,4,April,4227.0
+Odisha,2017-18,5,May,4208.0
+Odisha,2017-18,6,June,3929.0
+Odisha,2017-18,7,July,4154.0
+Odisha,2017-18,8,August,4210.0
+Odisha,2017-18,9,September,4325.0
+Odisha,2017-18,10,October,4370.0
+Odisha,2017-18,11,November,4108.0
+Odisha,2017-18,12,December,4351.0
+Odisha,2017-18,1,January,4181.0
+Odisha,2017-18,2,February,4109.0
+Odisha,2017-18,3,March,4652.0
+Odisha,2018-19,4,April,4348.0
+Odisha,2018-19,5,May,4615.0
+Odisha,2018-19,6,June,4652.0
+Odisha,2018-19,7,July,4526.0
+Odisha,2018-19,8,August,5357.0
+Odisha,2018-19,9,September,4906.0
+Odisha,2018-19,10,October,5230.0
+Odisha,2018-19,11,November,4516.0
+Odisha,2018-19,12,December,4048.0
+Odisha,2018-19,1,January,4198.0
+Odisha,2018-19,2,February,4272.0
+Odisha,2018-19,3,March,4643.0
+Odisha,2019-20,4,April,5142.0
+Odisha,2019-20,5,May,4614.0
+Odisha,2019-20,6,June,5036.0
+Odisha,2019-20,7,July,4861.0
+Odisha,2019-20,8,August,4856.0
+Odisha,2019-20,9,September,5292.0
+Odisha,2019-20,10,October,4656.0
+Odisha,2019-20,11,November,4026.0
+Odisha,2019-20,12,December,4198.0
+Odisha,2019-20,1,January,3615.0
+Odisha,2019-20,2,February,4018.0
+Odisha,2019-20,3,March,3830.0
+Odisha,2020-21,4,April,3636.0
+Odisha,2020-21,5,May,4024.0
+Odisha,2020-21,6,June,4297.0
+Odisha,2020-21,7,July,4480.0
+Odisha,2020-21,8,August,4493.0
+Odisha,2020-21,9,September,4582.0
+Odisha,2020-21,10,October,4984.0
+Odisha,2020-21,11,November,4609.0
+Odisha,2020-21,12,December,4226.0
+Odisha,2020-21,1,January,4310.0
+Odisha,2020-21,2,February,4819.0
+Odisha,2020-21,3,March,4984.0
+Odisha,2021-22,4,April,5355.0
+Odisha,2021-22,5,May,5643.0
+Odisha,2021-22,6,June,4987.0
+Odisha,2021-22,7,July,5561.0
+Odisha,2021-22,8,August,5575.0
+Odisha,2021-22,9,September,5610.0
+Odisha,2021-22,10,October,5463.0
+Odisha,2021-22,11,November,5344.0
+Odisha,2021-22,12,December,5430.0
+Odisha,2021-22,1,January,5115.0
+Odisha,2021-22,2,February,5434.0
+Odisha,2021-22,3,March,5389.0
+Odisha,2022-23,4,April,5714.0
+Odisha,2022-23,5,May,6313.0
+Odisha,2022-23,6,June,6427.0
+Odisha,2022-23,7,July,6259.0
+Odisha,2022-23,8,August,6566.0
+Odisha,2022-23,9,September,6438.0
+Odisha,2022-23,10,October,6063.0
+Odisha,2022-23,11,November,5527.0
+Odisha,2022-23,12,December,4788.0
+Odisha,2022-23,1,January,5221.0
+Odisha,2022-23,2,February,5567.0
+Odisha,2022-23,3,March,5542.0
+Odisha,2023-24,4,April,6237.0
+Odisha,2023-24,5,May,6061.0
+Odisha,2023-24,6,June,6443.0
+Odisha,2023-24,7,July,6090.0
+Odisha,2023-24,8,August,6124.0
+Odisha,2023-24,9,September,5926.0
+Odisha,2023-24,10,October,5826.0
+Odisha,2023-24,11,November,5160.0
+Odisha,2023-24,12,December,5071.0
+Odisha,2023-24,1,January,5041.0
+Odisha,2023-24,2,February,5393.0
+Odisha,2023-24,3,March,6138.0
+Odisha,2024-25,4,April,6609.0
+Odisha,2024-25,5,May,6867.0
+Odisha,2024-25,6,June,6905.0
+Odisha,2024-25,7,July,6200.0
+Odisha,2024-25,8,August,5938.0
+Odisha,2024-25,9,September,6078.0
+Odisha,2024-25,10,October,6229.0
+Odisha,2024-25,11,November,5705.0
+Odisha,2024-25,12,December,5024.0
+Odisha,2024-25,1,January,5203.0
+Odisha,2024-25,2,February,5435.0
+Odisha,2024-25,3,March,5965.0
+Odisha,2025-26,4,April,6371.0
+Odisha,2025-26,5,May,6882.0
+Odisha,2025-26,6,June,6936.0
+Odisha,2025-26,7,July,6964.0
+Odisha,2025-26,8,August,7147.0
+Odisha,2025-26,9,September,6982.0
+Odisha,2025-26,10,October,6329.0
+Odisha,2025-26,11,November,6314.0
+Odisha,2025-26,12,December,5466.0
+Odisha,2025-26,1,January,5500.0
+Odisha,2025-26,2,February,5593.0
+Odisha,2025-26,3,March,6703.0
+Odisha,2026-27,4,April,7598.0
+Odisha,2026-27,5,May,8829.0
+Odisha,2026-27,6,June,7611.0
+Odisha,2026-27,7,July,8012.0
+Odisha,2026-27,8,August,7135.0
+Puducherry,2014-15,1,January,319.0
+Puducherry,2014-15,2,February,322.0
+Puducherry,2014-15,3,March,337.0
+Puducherry,2015-16,4,April,351.0
+Puducherry,2015-16,5,May,343.0
+Puducherry,2015-16,6,June,357.0
+Puducherry,2015-16,7,July,352.0
+Puducherry,2015-16,8,August,344.0
+Puducherry,2015-16,9,September,368.0
+Puducherry,2015-16,10,October,342.0
+Puducherry,2015-16,11,November,319.0
+Puducherry,2015-16,12,December,320.0
+Puducherry,2015-16,1,January,320.0
+Puducherry,2015-16,2,February,319.0
+Puducherry,2015-16,3,March,353.0
+Puducherry,2016-17,4,April,371.0
+Puducherry,2016-17,5,May,368.0
+Puducherry,2016-17,6,June,369.0
+Puducherry,2016-17,7,July,358.0
+Puducherry,2016-17,8,August,362.0
+Puducherry,2016-17,9,September,359.0
+Puducherry,2016-17,10,October,357.0
+Puducherry,2016-17,11,November,360.0
+Puducherry,2016-17,12,December,327.0
+Puducherry,2016-17,1,January,329.0
+Puducherry,2016-17,2,February,344.0
+Puducherry,2016-17,3,March,354.0
+Puducherry,2017-18,4,April,388.0
+Puducherry,2017-18,5,May,379.0
+Puducherry,2017-18,6,June,380.0
+Puducherry,2017-18,7,July,384.0
+Puducherry,2017-18,8,August,390.0
+Puducherry,2017-18,9,September,375.0
+Puducherry,2017-18,10,October,371.0
+Puducherry,2017-18,11,November,350.0
+Puducherry,2017-18,12,December,345.0
+Puducherry,2017-18,1,January,354.0
+Puducherry,2017-18,2,February,359.0
+Puducherry,2017-18,3,March,370.0
+Puducherry,2018-19,4,April,408.0
+Puducherry,2018-19,5,May,420.0
+Puducherry,2018-19,6,June,399.0
+Puducherry,2018-19,7,July,408.0
+Puducherry,2018-19,8,August,391.0
+Puducherry,2018-19,9,September,390.0
+Puducherry,2018-19,10,October,374.0
+Puducherry,2018-19,11,November,356.0
+Puducherry,2018-19,12,December,369.0
+Puducherry,2018-19,1,January,395.0
+Puducherry,2018-19,2,February,405.0
+Puducherry,2018-19,3,March,440.0
+Puducherry,2019-20,4,April,444.0
+Puducherry,2019-20,5,May,459.0
+Puducherry,2019-20,6,June,470.0
+Puducherry,2019-20,7,July,464.0
+Puducherry,2019-20,8,August,427.0
+Puducherry,2019-20,9,September,412.0
+Puducherry,2019-20,10,October,416.0
+Puducherry,2019-20,11,November,396.0
+Puducherry,2019-20,12,December,373.0
+Puducherry,2019-20,1,January,378.0
+Puducherry,2019-20,2,February,402.0
+Puducherry,2019-20,3,March,411.0
+Puducherry,2020-21,4,April,302.0
+Puducherry,2020-21,5,May,422.0
+Puducherry,2020-21,6,June,414.0
+Puducherry,2020-21,7,July,388.0
+Puducherry,2020-21,8,August,413.0
+Puducherry,2020-21,9,September,414.0
+Puducherry,2020-21,10,October,413.0
+Puducherry,2020-21,11,November,404.0
+Puducherry,2020-21,12,December,366.0
+Puducherry,2020-21,1,January,403.0
+Puducherry,2020-21,2,February,396.0
+Puducherry,2020-21,3,March,429.0
+Puducherry,2021-22,4,April,465.0
+Puducherry,2021-22,5,May,458.0
+Puducherry,2021-22,6,June,440.0
+Puducherry,2021-22,7,July,454.0
+Puducherry,2021-22,8,August,460.0
+Puducherry,2021-22,9,September,459.0
+Puducherry,2021-22,10,October,449.0
+Puducherry,2021-22,11,November,392.0
+Puducherry,2021-22,12,December,390.0
+Puducherry,2021-22,1,January,402.0
+Puducherry,2021-22,2,February,409.0
+Puducherry,2021-22,3,March,469.0
+Puducherry,2022-23,4,April,481.0
+Puducherry,2022-23,5,May,493.0
+Puducherry,2022-23,6,June,501.0
+Puducherry,2022-23,7,July,479.0
+Puducherry,2022-23,8,August,457.0
+Puducherry,2022-23,9,September,460.0
+Puducherry,2022-23,10,October,428.0
+Puducherry,2022-23,11,November,418.0
+Puducherry,2022-23,12,December,400.0
+Puducherry,2022-23,1,January,496.0
+Puducherry,2022-23,2,February,421.0
+Puducherry,2022-23,3,March,453.0
+Puducherry,2023-24,4,April,485.0
+Puducherry,2023-24,5,May,524.0
+Puducherry,2023-24,6,June,520.0
+Puducherry,2023-24,7,July,508.0
+Puducherry,2023-24,8,August,505.0
+Puducherry,2023-24,9,September,478.0
+Puducherry,2023-24,10,October,484.0
+Puducherry,2023-24,11,November,467.0
+Puducherry,2023-24,12,December,431.0
+Puducherry,2023-24,1,January,453.0
+Puducherry,2023-24,2,February,465.0
+Puducherry,2023-24,3,March,467.0
+Puducherry,2024-25,4,April,530.0
+Puducherry,2024-25,5,May,549.0
+Puducherry,2024-25,6,June,527.0
+Puducherry,2024-25,7,July,512.0
+Puducherry,2024-25,8,August,514.0
+Puducherry,2024-25,9,September,536.0
+Puducherry,2024-25,10,October,501.0
+Puducherry,2024-25,11,November,465.0
+Puducherry,2024-25,12,December,453.0
+Puducherry,2024-25,1,January,423.0
+Puducherry,2024-25,2,February,449.0
+Puducherry,2024-25,3,March,483.0
+Puducherry,2025-26,4,April,560.0
+Puducherry,2025-26,5,May,559.0
+Puducherry,2025-26,6,June,540.0
+Puducherry,2025-26,7,July,559.0
+Puducherry,2025-26,8,August,515.0
+Puducherry,2025-26,9,September,526.0
+Puducherry,2025-26,10,October,488.0
+Puducherry,2025-26,11,November,472.0
+Puducherry,2025-26,12,December,436.0
+Puducherry,2025-26,1,January,481.0
+Puducherry,2025-26,2,February,465.0
+Puducherry,2025-26,3,March,488.0
+Puducherry,2026-27,4,April,568.0
+Puducherry,2026-27,5,May,577.0
+Puducherry,2026-27,6,June,584.0
+Puducherry,2026-27,7,July,587.0
+Puducherry,2026-27,8,August,540.0
+Punjab,2014-15,1,January,5347.0
+Punjab,2014-15,2,February,6053.0
+Punjab,2014-15,3,March,5881.0
+Punjab,2015-16,4,April,5778.0
+Punjab,2015-16,5,May,7567.0
+Punjab,2015-16,6,June,10607.0
+Punjab,2015-16,7,July,10852.0
+Punjab,2015-16,8,August,10571.0
+Punjab,2015-16,9,September,10665.0
+Punjab,2015-16,10,October,8093.0
+Punjab,2015-16,11,November,5333.0
+Punjab,2015-16,12,December,6034.0
+Punjab,2015-16,1,January,6118.0
+Punjab,2015-16,2,February,6095.0
+Punjab,2015-16,3,March,5688.0
+Punjab,2016-17,4,April,6283.0
+Punjab,2016-17,5,May,7997.0
+Punjab,2016-17,6,June,10997.0
+Punjab,2016-17,7,July,11408.0
+Punjab,2016-17,8,August,11204.0
+Punjab,2016-17,9,September,10543.0
+Punjab,2016-17,10,October,8408.0
+Punjab,2016-17,11,November,5548.0
+Punjab,2016-17,12,December,6266.0
+Punjab,2016-17,1,January,5954.0
+Punjab,2016-17,2,February,6475.0
+Punjab,2016-17,3,March,6536.0
+Punjab,2017-18,4,April,8078.0
+Punjab,2017-18,5,May,8229.0
+Punjab,2017-18,6,June,11024.0
+Punjab,2017-18,7,July,11705.0
+Punjab,2017-18,8,August,11074.0
+Punjab,2017-18,9,September,9939.0
+Punjab,2017-18,10,October,8337.0
+Punjab,2017-18,11,November,5713.0
+Punjab,2017-18,12,December,6016.0
+Punjab,2017-18,1,January,6260.0
+Punjab,2017-18,2,February,6277.0
+Punjab,2017-18,3,March,6687.0
+Punjab,2018-19,4,April,7083.0
+Punjab,2018-19,5,May,8920.0
+Punjab,2018-19,6,June,12377.0
+Punjab,2018-19,7,July,12638.0
+Punjab,2018-19,8,August,12012.0
+Punjab,2018-19,9,September,11405.0
+Punjab,2018-19,10,October,7990.0
+Punjab,2018-19,11,November,6071.0
+Punjab,2018-19,12,December,6440.0
+Punjab,2018-19,1,January,6309.0
+Punjab,2018-19,2,February,5719.0
+Punjab,2018-19,3,March,6618.0
+Punjab,2019-20,4,April,7087.0
+Punjab,2019-20,5,May,8850.0
+Punjab,2019-20,6,June,13149.0
+Punjab,2019-20,7,July,13606.0
+Punjab,2019-20,8,August,12009.0
+Punjab,2019-20,9,September,11825.0
+Punjab,2019-20,10,October,7348.0
+Punjab,2019-20,11,November,11980.0
+Punjab,2019-20,12,December,13850.0
+Punjab,2019-20,1,January,14017.0
+Punjab,2019-20,2,February,14277.0
+Punjab,2019-20,3,March,13599.0
+Punjab,2020-21,4,April,9304.0
+Punjab,2020-21,5,May,12050.0
+Punjab,2020-21,6,June,12755.0
+Punjab,2020-21,7,July,13079.0
+Punjab,2020-21,8,August,12211.0
+Punjab,2020-21,9,September,12742.0
+Punjab,2020-21,10,October,12718.0
+Punjab,2020-21,11,November,13050.0
+Punjab,2020-21,12,December,14335.0
+Punjab,2020-21,1,January,14364.0
+Punjab,2020-21,2,February,14441.0
+Punjab,2020-21,3,March,14040.0
+Punjab,2021-22,4,April,11570.0
+Punjab,2021-22,5,May,11531.0
+Punjab,2021-22,6,June,12787.0
+Punjab,2021-22,7,July,13974.0
+Punjab,2021-22,8,August,14690.0
+Punjab,2021-22,9,September,12047.0
+Punjab,2021-22,10,October,12767.0
+Punjab,2021-22,11,November,14253.0
+Punjab,2021-22,12,December,15752.0
+Punjab,2021-22,1,January,15634.0
+Punjab,2021-22,2,February,15784.0
+Punjab,2021-22,3,March,15749.0
+Punjab,2022-23,4,April,14291.0
+Punjab,2022-23,5,May,15949.0
+Punjab,2022-23,6,June,16012.0
+Punjab,2022-23,7,July,12332.0
+Punjab,2022-23,8,August,13808.0
+Punjab,2022-23,9,September,15843.0
+Punjab,2022-23,10,October,14072.0
+Punjab,2022-23,11,November,16023.0
+Punjab,2022-23,12,December,16777.0
+Punjab,2022-23,1,January,17399.0
+Punjab,2022-23,2,February,16754.0
+Punjab,2022-23,3,March,15833.0
+Punjab,2023-24,4,April,13776.0
+Punjab,2023-24,5,May,16470.0
+Punjab,2023-24,6,June,15840.0
+Punjab,2023-24,7,July,14204.0
+Punjab,2023-24,8,August,17420.0
+Punjab,2023-24,9,September,17956.0
+Punjab,2023-24,10,October,15641.0
+Punjab,2023-24,11,November,16409.0
+Punjab,2023-24,12,December,17570.0
+Punjab,2023-24,1,January,18128.0
+Punjab,2023-24,2,February,17867.0
+Punjab,2023-24,3,March,17030.0
+Punjab,2024-25,4,April,14283.0
+Punjab,2024-25,5,May,17567.0
+Punjab,2024-25,6,June,17774.0
+Punjab,2024-25,7,July,16371.0
+Punjab,2024-25,8,August,13409.0
+Punjab,2024-25,9,September,16292.0
+Punjab,2024-25,10,October,16206.0
+Punjab,2024-25,11,November,17434.0
+Punjab,2024-25,12,December,18643.0
+Punjab,2024-25,1,January,18752.0
+Punjab,2024-25,2,February,19165.0
+Punjab,2024-25,3,March,17763.0
+Punjab,2025-26,4,April,10919.0
+Punjab,2025-26,5,May,17336.0
+Punjab,2025-26,6,June,18509.0
+Punjab,2025-26,7,July,14685.0
+Punjab,2025-26,8,August,17607.0
+Punjab,2025-26,9,September,16020.0
+Punjab,2025-26,10,October,14165.0
+Punjab,2025-26,11,November,17859.0
+Punjab,2025-26,12,December,19100.0
+Punjab,2025-26,1,January,19617.0
+Punjab,2025-26,2,February,19037.0
+Punjab,2025-26,3,March,17264.0
+Punjab,2026-27,4,April,14825.0
+Punjab,2026-27,5,May,17333.0
+Punjab,2026-27,7,July,18164.0
+Punjab,2026-27,8,August,16881.0
+Rajasthan,2014-15,1,January,10179.0
+Rajasthan,2014-15,2,February,10095.0
+Rajasthan,2014-15,3,March,8199.0
+Rajasthan,2015-16,4,April,7798.0
+Rajasthan,2015-16,5,May,8577.0
+Rajasthan,2015-16,6,June,9010.0
+Rajasthan,2015-16,7,July,8431.0
+Rajasthan,2015-16,8,August,10080.0
+Rajasthan,2015-16,9,September,10961.0
+Rajasthan,2015-16,10,October,9453.0
+Rajasthan,2015-16,11,November,9780.0
+Rajasthan,2015-16,12,December,10123.0
+Rajasthan,2015-16,1,January,10720.0
+Rajasthan,2015-16,2,February,10190.0
+Rajasthan,2015-16,3,March,9677.0
+Rajasthan,2016-17,4,April,9027.0
+Rajasthan,2016-17,5,May,9690.0
+Rajasthan,2016-17,6,June,9906.0
+Rajasthan,2016-17,7,July,9288.0
+Rajasthan,2016-17,8,August,7807.0
+Rajasthan,2016-17,9,September,9816.0
+Rajasthan,2016-17,10,October,9046.0
+Rajasthan,2016-17,11,November,9902.0
+Rajasthan,2016-17,12,December,10613.0
+Rajasthan,2016-17,1,January,10348.0
+Rajasthan,2016-17,2,February,10527.0
+Rajasthan,2016-17,3,March,9859.0
+Rajasthan,2017-18,4,April,9187.0
+Rajasthan,2017-18,5,May,10305.0
+Rajasthan,2017-18,6,June,10347.0
+Rajasthan,2017-18,7,July,9795.0
+Rajasthan,2017-18,8,August,10293.0
+Rajasthan,2017-18,9,September,9900.0
+Rajasthan,2017-18,10,October,10357.0
+Rajasthan,2017-18,11,November,11215.0
+Rajasthan,2017-18,12,December,11290.0
+Rajasthan,2017-18,1,January,11722.0
+Rajasthan,2017-18,2,February,11502.0
+Rajasthan,2017-18,3,March,10723.0
+Rajasthan,2018-19,4,April,10053.0
+Rajasthan,2018-19,5,May,11298.0
+Rajasthan,2018-19,6,June,11698.0
+Rajasthan,2018-19,7,July,11057.0
+Rajasthan,2018-19,8,August,11354.0
+Rajasthan,2018-19,9,September,10612.0
+Rajasthan,2018-19,10,October,11450.0
+Rajasthan,2018-19,11,November,11809.0
+Rajasthan,2018-19,12,December,13276.0
+Rajasthan,2018-19,1,January,12921.0
+Rajasthan,2018-19,2,February,12650.0
+Rajasthan,2018-19,3,March,11885.0
+Rajasthan,2019-20,4,April,10560.0
+Rajasthan,2019-20,5,May,11791.0
+Rajasthan,2019-20,6,June,12620.0
+Rajasthan,2019-20,7,July,12351.0
+Rajasthan,2019-20,8,August,10699.0
+Rajasthan,2019-20,9,September,11553.0
+Rajasthan,2019-20,10,October,10533.0
+Rajasthan,2019-20,11,November,15271.0
+Rajasthan,2019-20,12,December,17712.0
+Rajasthan,2019-20,1,January,16987.0
+Rajasthan,2019-20,2,February,16777.0
+Rajasthan,2019-20,3,March,14592.0
+Rajasthan,2020-21,4,April,16889.0
+Rajasthan,2020-21,5,May,21331.0
+Rajasthan,2020-21,6,June,22110.0
+Rajasthan,2020-21,7,July,23419.0
+Rajasthan,2020-21,8,August,23020.0
+Rajasthan,2020-21,9,September,23797.0
+Rajasthan,2020-21,10,October,21029.0
+Rajasthan,2020-21,11,November,15496.0
+Rajasthan,2020-21,12,December,18185.0
+Rajasthan,2020-21,1,January,18995.0
+Rajasthan,2020-21,2,February,18308.0
+Rajasthan,2020-21,3,March,18593.0
+Rajasthan,2021-22,4,April,19837.0
+Rajasthan,2021-22,5,May,20604.0
+Rajasthan,2021-22,6,June,24574.0
+Rajasthan,2021-22,7,July,24965.0
+Rajasthan,2021-22,8,August,23963.0
+Rajasthan,2021-22,9,September,22990.0
+Rajasthan,2021-22,10,October,20174.0
+Rajasthan,2021-22,11,November,16119.0
+Rajasthan,2021-22,12,December,18587.0
+Rajasthan,2021-22,1,January,19840.0
+Rajasthan,2021-22,2,February,19088.0
+Rajasthan,2021-22,3,March,20479.0
+Rajasthan,2022-23,4,April,21146.0
+Rajasthan,2022-23,5,May,25046.0
+Rajasthan,2022-23,6,June,25456.0
+Rajasthan,2022-23,7,July,25951.0
+Rajasthan,2022-23,8,August,25437.0
+Rajasthan,2022-23,9,September,27369.0
+Rajasthan,2022-23,10,October,22631.0
+Rajasthan,2022-23,11,November,17387.0
+Rajasthan,2022-23,12,December,19970.0
+Rajasthan,2022-23,1,January,21342.0
+Rajasthan,2022-23,2,February,18602.0
+Rajasthan,2022-23,3,March,19572.0
+Rajasthan,2023-24,4,April,23473.0
+Rajasthan,2023-24,5,May,26386.0
+Rajasthan,2023-24,6,June,27611.0
+Rajasthan,2023-24,7,July,28704.0
+Rajasthan,2023-24,8,August,27689.0
+Rajasthan,2023-24,9,September,27389.0
+Rajasthan,2023-24,10,October,24096.0
+Rajasthan,2023-24,11,November,19033.0
+Rajasthan,2023-24,12,December,19874.0
+Rajasthan,2023-24,1,January,22703.0
+Rajasthan,2023-24,2,February,20346.0
+Rajasthan,2023-24,3,March,21243.0
+Rajasthan,2024-25,4,April,25462.0
+Rajasthan,2024-25,5,May,29727.0
+Rajasthan,2024-25,6,June,30618.0
+Rajasthan,2024-25,7,July,30298.0
+Rajasthan,2024-25,8,August,29126.0
+Rajasthan,2024-25,9,September,29347.0
+Rajasthan,2024-25,10,October,26756.0
+Rajasthan,2024-25,11,November,19929.0
+Rajasthan,2024-25,12,December,20666.0
+Rajasthan,2024-25,1,January,22034.0
+Rajasthan,2024-25,2,February,20456.0
+Rajasthan,2024-25,3,March,21869.0
+Rajasthan,2025-26,4,April,15800.0
+Rajasthan,2025-26,5,May,29873.0
+Rajasthan,2025-26,6,June,31486.0
+Rajasthan,2025-26,7,July,30818.0
+Rajasthan,2025-26,8,August,30292.0
+Rajasthan,2025-26,9,September,30260.0
+Rajasthan,2025-26,10,October,26269.0
+Rajasthan,2025-26,11,November,19341.0
+Rajasthan,2025-26,12,December,23070.0
+Rajasthan,2025-26,1,January,23976.0
+Rajasthan,2025-26,2,February,21000.0
+Rajasthan,2025-26,3,March,22314.0
+Rajasthan,2026-27,4,April,29932.0
+Rajasthan,2026-27,5,May,31824.0
+Rajasthan,2026-27,7,July,32732.0
+Rajasthan,2026-27,8,August,31486.0
+Sikkim,2014-15,1,January,83.0
+Sikkim,2014-15,2,February,83.0
+Sikkim,2014-15,3,March,77.0
+Sikkim,2015-16,4,April,77.0
+Sikkim,2015-16,5,May,77.0
+Sikkim,2015-16,6,June,83.0
+Sikkim,2015-16,7,July,83.0
+Sikkim,2015-16,8,August,83.0
+Sikkim,2015-16,9,September,83.0
+Sikkim,2015-16,10,October,95.0
+Sikkim,2015-16,11,November,95.0
+Sikkim,2015-16,12,December,108.0
+Sikkim,2015-16,1,January,109.0
+Sikkim,2015-16,2,February,109.0
+Sikkim,2015-16,3,March,109.0
+Sikkim,2016-17,4,April,112.0
+Sikkim,2016-17,5,May,93.0
+Sikkim,2016-17,6,June,93.0
+Sikkim,2016-17,7,July,97.0
+Sikkim,2016-17,8,August,97.0
+Sikkim,2016-17,10,October,92.0
+Sikkim,2016-17,11,November,92.0
+Sikkim,2016-17,12,December,91.0
+Sikkim,2016-17,1,January,91.0
+Sikkim,2016-17,2,February,91.0
+Sikkim,2016-17,3,March,91.0
+Sikkim,2017-18,4,April,91.0
+Sikkim,2017-18,5,May,78.0
+Sikkim,2017-18,6,June,78.0
+Sikkim,2017-18,7,July,78.0
+Sikkim,2017-18,8,August,86.0
+Sikkim,2017-18,9,September,87.0
+Sikkim,2017-18,10,October,90.0
+Sikkim,2017-18,11,November,96.0
+Sikkim,2017-18,12,December,94.0
+Sikkim,2017-18,1,January,94.0
+Sikkim,2017-18,2,February,96.0
+Sikkim,2017-18,3,March,88.0
+Sikkim,2018-19,4,April,90.0
+Sikkim,2018-19,5,May,88.0
+Sikkim,2018-19,6,June,78.0
+Sikkim,2018-19,7,July,81.0
+Sikkim,2018-19,8,August,89.0
+Sikkim,2018-19,9,September,78.0
+Sikkim,2018-19,10,October,93.0
+Sikkim,2018-19,11,November,101.0
+Sikkim,2018-19,12,December,106.0
+Sikkim,2018-19,1,January,106.0
+Sikkim,2018-19,2,February,104.0
+Sikkim,2018-19,3,March,104.0
+Sikkim,2019-20,4,April,98.0
+Sikkim,2019-20,5,May,93.0
+Sikkim,2019-20,6,June,90.0
+Sikkim,2019-20,7,July,85.0
+Sikkim,2019-20,8,August,90.0
+Sikkim,2019-20,9,September,93.0
+Sikkim,2019-20,10,October,96.0
+Sikkim,2019-20,11,November,102.0
+Sikkim,2019-20,12,December,111.0
+Sikkim,2019-20,1,January,115.0
+Sikkim,2019-20,2,February,114.0
+Sikkim,2019-20,3,March,109.0
+Sikkim,2020-21,4,April,94.0
+Sikkim,2020-21,5,May,88.0
+Sikkim,2020-21,6,June,84.0
+Sikkim,2020-21,7,July,86.0
+Sikkim,2020-21,8,August,78.0
+Sikkim,2020-21,9,September,91.0
+Sikkim,2020-21,10,October,96.0
+Sikkim,2020-21,11,November,110.0
+Sikkim,2020-21,12,December,115.0
+Sikkim,2020-21,1,January,119.0
+Sikkim,2020-21,2,February,117.0
+Sikkim,2020-21,3,March,120.0
+Sikkim,2021-22,4,April,105.0
+Sikkim,2021-22,5,May,98.0
+Sikkim,2021-22,6,June,90.0
+Sikkim,2021-22,7,July,96.0
+Sikkim,2021-22,8,August,99.0
+Sikkim,2021-22,9,September,102.0
+Sikkim,2021-22,10,October,104.0
+Sikkim,2021-22,11,November,118.0
+Sikkim,2021-22,12,December,133.0
+Sikkim,2021-22,1,January,133.0
+Sikkim,2021-22,2,February,132.0
+Sikkim,2021-22,3,March,122.0
+Sikkim,2022-23,4,April,116.0
+Sikkim,2022-23,5,May,106.0
+Sikkim,2022-23,6,June,98.0
+Sikkim,2022-23,7,July,91.0
+Sikkim,2022-23,8,August,98.0
+Sikkim,2022-23,9,September,103.0
+Sikkim,2022-23,10,October,102.0
+Sikkim,2022-23,11,November,116.0
+Sikkim,2022-23,12,December,124.0
+Sikkim,2022-23,1,January,123.0
+Sikkim,2022-23,2,February,121.0
+Sikkim,2022-23,3,March,113.0
+Sikkim,2023-24,4,April,106.0
+Sikkim,2023-24,5,May,106.0
+Sikkim,2023-24,6,June,98.0
+Sikkim,2023-24,7,July,89.0
+Sikkim,2023-24,8,August,93.0
+Sikkim,2023-24,9,September,94.0
+Sikkim,2023-24,10,October,80.0
+Sikkim,2023-24,11,November,107.0
+Sikkim,2023-24,12,December,109.0
+Sikkim,2023-24,1,January,128.0
+Sikkim,2023-24,2,February,133.0
+Sikkim,2023-24,3,March,119.0
+Sikkim,2024-25,4,April,111.0
+Sikkim,2024-25,5,May,104.0
+Sikkim,2024-25,6,June,99.0
+Sikkim,2024-25,7,July,90.0
+Sikkim,2024-25,8,August,116.0
+Sikkim,2024-25,9,September,95.0
+Sikkim,2024-25,10,October,101.0
+Sikkim,2024-25,11,November,112.0
+Sikkim,2024-25,12,December,126.0
+Sikkim,2024-25,1,January,138.0
+Sikkim,2024-25,2,February,137.0
+Sikkim,2024-25,3,March,121.0
+Sikkim,2025-26,4,April,104.0
+Sikkim,2025-26,5,May,98.0
+Sikkim,2025-26,6,June,102.0
+Sikkim,2025-26,7,July,95.0
+Sikkim,2025-26,8,August,88.0
+Sikkim,2025-26,9,September,90.0
+Sikkim,2025-26,10,October,90.0
+Sikkim,2025-26,11,November,103.0
+Sikkim,2025-26,12,December,118.0
+Sikkim,2025-26,1,January,126.0
+Sikkim,2025-26,2,February,125.0
+Sikkim,2025-26,3,March,114.0
+Sikkim,2026-27,4,April,118.0
+Sikkim,2026-27,5,May,100.0
+Sikkim,2026-27,6,June,101.0
+Sikkim,2026-27,7,July,89.0
+Sikkim,2026-27,8,August,113.0
+Tamil Nadu,2014-15,1,January,12692.0
+Tamil Nadu,2014-15,2,February,12939.0
+Tamil Nadu,2014-15,3,March,13707.0
+Tamil Nadu,2015-16,4,April,13363.0
+Tamil Nadu,2015-16,5,May,13010.0
+Tamil Nadu,2015-16,6,June,13580.0
+Tamil Nadu,2015-16,7,July,13455.0
+Tamil Nadu,2015-16,8,August,13522.0
+Tamil Nadu,2015-16,9,September,13533.0
+Tamil Nadu,2015-16,10,October,12965.0
+Tamil Nadu,2015-16,11,November,12188.0
+Tamil Nadu,2015-16,12,December,12385.0
+Tamil Nadu,2015-16,1,January,13207.0
+Tamil Nadu,2015-16,2,February,14190.0
+Tamil Nadu,2015-16,3,March,14168.0
+Tamil Nadu,2016-17,4,April,14823.0
+Tamil Nadu,2016-17,5,May,14706.0
+Tamil Nadu,2016-17,6,June,14362.0
+Tamil Nadu,2016-17,7,July,14517.0
+Tamil Nadu,2016-17,8,August,14237.0
+Tamil Nadu,2016-17,9,September,14463.0
+Tamil Nadu,2016-17,10,October,14435.0
+Tamil Nadu,2016-17,11,November,13902.0
+Tamil Nadu,2016-17,12,December,13319.0
+Tamil Nadu,2016-17,1,January,13705.0
+Tamil Nadu,2016-17,2,February,13647.0
+Tamil Nadu,2016-17,3,March,14250.0
+Tamil Nadu,2017-18,4,April,15001.0
+Tamil Nadu,2017-18,5,May,14749.0
+Tamil Nadu,2017-18,6,June,14316.0
+Tamil Nadu,2017-18,7,July,14689.0
+Tamil Nadu,2017-18,8,August,13818.0
+Tamil Nadu,2017-18,9,September,13927.0
+Tamil Nadu,2017-18,10,October,13522.0
+Tamil Nadu,2017-18,11,November,14244.0
+Tamil Nadu,2017-18,12,December,13659.0
+Tamil Nadu,2017-18,1,January,14131.0
+Tamil Nadu,2017-18,2,February,14440.0
+Tamil Nadu,2017-18,3,March,14819.0
+Tamil Nadu,2018-19,4,April,14981.0
+Tamil Nadu,2018-19,5,May,14731.0
+Tamil Nadu,2018-19,6,June,14870.0
+Tamil Nadu,2018-19,7,July,15029.0
+Tamil Nadu,2018-19,8,August,14734.0
+Tamil Nadu,2018-19,9,September,14556.0
+Tamil Nadu,2018-19,10,October,14368.0
+Tamil Nadu,2018-19,11,November,13893.0
+Tamil Nadu,2018-19,12,December,14038.0
+Tamil Nadu,2018-19,1,January,13998.0
+Tamil Nadu,2018-19,2,February,15041.0
+Tamil Nadu,2018-19,3,March,15483.0
+Tamil Nadu,2019-20,4,April,15680.0
+Tamil Nadu,2019-20,5,May,15544.0
+Tamil Nadu,2019-20,6,June,15727.0
+Tamil Nadu,2019-20,7,July,15537.0
+Tamil Nadu,2019-20,8,August,14571.0
+Tamil Nadu,2019-20,9,September,14988.0
+Tamil Nadu,2019-20,10,October,14335.0
+Tamil Nadu,2019-20,11,November,13829.0
+Tamil Nadu,2019-20,12,December,13710.0
+Tamil Nadu,2019-20,1,January,14371.0
+Tamil Nadu,2019-20,2,February,14768.0
+Tamil Nadu,2019-20,3,March,15347.0
+Tamil Nadu,2020-21,4,April,11435.0
+Tamil Nadu,2020-21,5,May,14062.0
+Tamil Nadu,2020-21,6,June,14591.0
+Tamil Nadu,2020-21,7,July,13284.0
+Tamil Nadu,2020-21,8,August,14212.0
+Tamil Nadu,2020-21,9,September,14301.0
+Tamil Nadu,2020-21,10,October,14758.0
+Tamil Nadu,2020-21,11,November,15174.0
+Tamil Nadu,2020-21,12,December,14004.0
+Tamil Nadu,2020-21,1,January,13908.0
+Tamil Nadu,2020-21,2,February,15004.0
+Tamil Nadu,2020-21,3,March,16263.0
+Tamil Nadu,2021-22,4,April,16541.0
+Tamil Nadu,2021-22,5,May,15696.0
+Tamil Nadu,2021-22,6,June,15820.0
+Tamil Nadu,2021-22,7,July,15332.0
+Tamil Nadu,2021-22,8,August,15730.0
+Tamil Nadu,2021-22,9,September,15610.0
+Tamil Nadu,2021-22,10,October,14462.0
+Tamil Nadu,2021-22,11,November,13205.0
+Tamil Nadu,2021-22,12,December,14219.0
+Tamil Nadu,2021-22,1,January,14987.0
+Tamil Nadu,2021-22,2,February,15990.0
+Tamil Nadu,2021-22,3,March,16891.0
+Tamil Nadu,2022-23,4,April,17306.0
+Tamil Nadu,2022-23,5,May,16636.0
+Tamil Nadu,2022-23,6,June,16929.0
+Tamil Nadu,2022-23,7,July,15989.0
+Tamil Nadu,2022-23,8,August,16411.0
+Tamil Nadu,2022-23,9,September,16110.0
+Tamil Nadu,2022-23,10,October,15217.0
+Tamil Nadu,2022-23,11,November,14856.0
+Tamil Nadu,2022-23,12,December,15305.0
+Tamil Nadu,2022-23,1,January,15720.0
+Tamil Nadu,2022-23,2,February,16459.0
+Tamil Nadu,2022-23,3,March,17729.0
+Tamil Nadu,2023-24,4,April,19045.0
+Tamil Nadu,2023-24,5,May,18361.0
+Tamil Nadu,2023-24,6,June,18220.0
+Tamil Nadu,2023-24,7,July,17458.0
+Tamil Nadu,2023-24,8,August,17890.0
+Tamil Nadu,2023-24,9,September,16860.0
+Tamil Nadu,2023-24,10,October,17079.0
+Tamil Nadu,2023-24,11,November,15732.0
+Tamil Nadu,2023-24,12,December,15558.0
+Tamil Nadu,2023-24,1,January,16621.0
+Tamil Nadu,2023-24,2,February,17996.0
+Tamil Nadu,2023-24,3,March,19041.0
+Tamil Nadu,2024-25,4,April,20326.0
+Tamil Nadu,2024-25,5,May,20784.0
+Tamil Nadu,2024-25,6,June,18501.0
+Tamil Nadu,2024-25,7,July,18197.0
+Tamil Nadu,2024-25,8,August,17843.0
+Tamil Nadu,2024-25,9,September,19171.0
+Tamil Nadu,2024-25,10,October,17835.0
+Tamil Nadu,2024-25,11,November,16570.0
+Tamil Nadu,2024-25,12,December,15997.0
+Tamil Nadu,2024-25,1,January,16992.0
+Tamil Nadu,2024-25,2,February,18322.0
+Tamil Nadu,2024-25,3,March,19679.0
+Tamil Nadu,2025-26,4,April,19864.0
+Tamil Nadu,2025-26,5,May,19167.0
+Tamil Nadu,2025-26,6,June,19665.0
+Tamil Nadu,2025-26,7,July,19878.0
+Tamil Nadu,2025-26,8,August,19047.0
+Tamil Nadu,2025-26,9,September,18405.0
+Tamil Nadu,2025-26,10,October,17618.0
+Tamil Nadu,2025-26,11,November,17747.0
+Tamil Nadu,2025-26,12,December,17687.0
+Tamil Nadu,2025-26,1,January,17348.0
+Tamil Nadu,2025-26,2,February,18949.0
+Tamil Nadu,2025-26,3,March,19932.0
+Tamil Nadu,2026-27,4,April,21000.0
+Tamil Nadu,2026-27,5,May,19425.0
+Tamil Nadu,2026-27,6,June,20664.0
+Tamil Nadu,2026-27,7,July,21471.0
+Tamil Nadu,2026-27,8,August,21313.0
+Telangana,2014-15,1,January,6859.0
+Telangana,2014-15,2,February,6602.0
+Telangana,2014-15,3,March,6920.0
+Telangana,2015-16,4,April,6813.0
+Telangana,2015-16,5,May,6116.0
+Telangana,2015-16,6,June,5923.0
+Telangana,2015-16,7,July,6468.0
+Telangana,2015-16,8,August,6603.0
+Telangana,2015-16,9,September,6588.0
+Telangana,2015-16,10,October,6854.0
+Telangana,2015-16,11,November,6484.0
+Telangana,2015-16,12,December,6158.0
+Telangana,2015-16,1,January,6370.0
+Telangana,2015-16,2,February,6415.0
+Telangana,2015-16,3,March,6656.0
+Telangana,2016-17,4,April,6935.0
+Telangana,2016-17,5,May,6340.0
+Telangana,2016-17,6,June,6114.0
+Telangana,2016-17,7,July,6890.0
+Telangana,2016-17,8,August,8236.0
+Telangana,2016-17,9,September,8284.0
+Telangana,2016-17,10,October,7800.0
+Telangana,2016-17,11,November,7568.0
+Telangana,2016-17,12,December,7848.0
+Telangana,2016-17,1,January,8407.0
+Telangana,2016-17,2,February,8948.0
+Telangana,2016-17,3,March,9187.0
+Telangana,2017-18,4,April,9009.0
+Telangana,2017-18,5,May,7412.0
+Telangana,2017-18,6,June,7229.0
+Telangana,2017-18,7,July,9334.0
+Telangana,2017-18,8,August,9414.0
+Telangana,2017-18,9,September,9522.0
+Telangana,2017-18,10,October,7557.0
+Telangana,2017-18,11,November,7761.0
+Telangana,2017-18,12,December,9452.0
+Telangana,2017-18,1,January,9417.0
+Telangana,2017-18,2,February,10124.0
+Telangana,2017-18,3,March,10298.0
+Telangana,2018-19,4,April,9125.0
+Telangana,2018-19,5,May,7780.0
+Telangana,2018-19,6,June,7647.0
+Telangana,2018-19,7,July,10429.0
+Telangana,2018-19,8,August,10219.0
+Telangana,2018-19,9,September,10815.0
+Telangana,2018-19,10,October,10611.0
+Telangana,2018-19,11,November,9735.0
+Telangana,2018-19,12,December,9063.0
+Telangana,2018-19,1,January,9323.0
+Telangana,2018-19,2,February,10281.0
+Telangana,2018-19,3,March,10489.0
+Telangana,2019-20,4,April,10269.0
+Telangana,2019-20,5,May,8703.0
+Telangana,2019-20,6,June,8375.0
+Telangana,2019-20,7,July,9472.0
+Telangana,2019-20,8,August,11703.0
+Telangana,2019-20,9,September,9749.0
+Telangana,2019-20,10,October,8532.0
+Telangana,2019-20,11,November,9408.0
+Telangana,2019-20,12,December,11200.0
+Telangana,2019-20,1,January,11378.0
+Telangana,2019-20,2,February,13168.0
+Telangana,2019-20,3,March,12941.0
+Telangana,2020-21,4,April,10014.0
+Telangana,2020-21,5,May,9134.0
+Telangana,2020-21,6,June,8743.0
+Telangana,2020-21,7,July,11188.0
+Telangana,2020-21,8,August,12922.0
+Telangana,2020-21,9,September,11739.0
+Telangana,2020-21,10,October,9824.0
+Telangana,2020-21,11,November,7427.0
+Telangana,2020-21,12,December,11336.0
+Telangana,2020-21,1,January,13252.0
+Telangana,2020-21,2,February,13452.0
+Telangana,2020-21,3,March,13688.0
+Telangana,2021-22,4,April,13622.0
+Telangana,2021-22,5,May,8202.0
+Telangana,2021-22,6,June,11130.0
+Telangana,2021-22,7,July,11512.0
+Telangana,2021-22,8,August,12855.0
+Telangana,2021-22,9,September,12454.0
+Telangana,2021-22,10,October,10763.0
+Telangana,2021-22,11,November,8365.0
+Telangana,2021-22,12,December,10960.0
+Telangana,2021-22,1,January,11897.0
+Telangana,2021-22,2,February,13178.0
+Telangana,2021-22,3,March,14163.0
+Telangana,2022-23,4,April,13636.0
+Telangana,2022-23,5,May,10519.0
+Telangana,2022-23,6,June,9898.0
+Telangana,2022-23,7,July,12468.0
+Telangana,2022-23,8,August,13695.0
+Telangana,2022-23,9,September,13191.0
+Telangana,2022-23,10,October,11847.0
+Telangana,2022-23,11,November,9953.0
+Telangana,2022-23,12,December,14017.0
+Telangana,2022-23,1,January,13906.0
+Telangana,2022-23,2,February,14794.0
+Telangana,2022-23,3,March,15497.0
+Telangana,2023-24,4,April,14591.0
+Telangana,2023-24,5,May,9879.0
+Telangana,2023-24,6,June,11417.0
+Telangana,2023-24,7,July,12610.0
+Telangana,2023-24,8,August,14816.0
+Telangana,2023-24,9,September,15380.0
+Telangana,2023-24,10,October,15266.0
+Telangana,2023-24,11,November,11857.0
+Telangana,2023-24,12,December,12666.0
+Telangana,2023-24,1,January,13810.0
+Telangana,2023-24,2,February,15164.0
+Telangana,2023-24,3,March,15622.0
+Telangana,2024-25,4,April,13916.0
+Telangana,2024-25,5,May,11257.0
+Telangana,2024-25,6,June,11244.0
+Telangana,2024-25,7,July,13541.0
+Telangana,2024-25,8,August,15573.0
+Telangana,2024-25,9,September,15470.0
+Telangana,2024-25,10,October,14003.0
+Telangana,2024-25,11,November,11209.0
+Telangana,2024-25,12,December,14375.0
+Telangana,2024-25,1,January,15205.0
+Telangana,2024-25,2,February,16601.0
+Telangana,2024-25,3,March,17162.0
+Telangana,2025-26,4,April,14925.0
+Telangana,2025-26,5,May,10803.0
+Telangana,2025-26,6,June,11814.0
+Telangana,2025-26,7,July,15443.0
+Telangana,2025-26,8,August,16613.0
+Telangana,2025-26,9,September,15906.0
+Telangana,2025-26,10,October,12998.0
+Telangana,2025-26,11,November,11201.0
+Telangana,2025-26,12,December,14657.0
+Telangana,2025-26,1,January,16048.0
+Telangana,2025-26,2,February,17083.0
+Telangana,2025-26,3,March,18548.0
+Telangana,2026-27,4,April,17005.0
+Telangana,2026-27,5,May,12717.0
+Telangana,2026-27,6,June,12685.0
+Telangana,2026-27,7,July,16658.0
+Telangana,2026-27,8,August,17288.0
+Tripura,2014-15,1,January,245.0
+Tripura,2014-15,2,February,235.0
+Tripura,2014-15,3,March,260.0
+Tripura,2015-16,4,April,265.0
+Tripura,2015-16,5,May,300.0
+Tripura,2015-16,6,June,249.0
+Tripura,2015-16,7,July,250.0
+Tripura,2015-16,8,August,262.0
+Tripura,2015-16,9,September,269.0
+Tripura,2015-16,10,October,269.0
+Tripura,2015-16,11,November,243.0
+Tripura,2015-16,12,December,221.0
+Tripura,2015-16,1,January,219.0
+Tripura,2015-16,2,February,227.0
+Tripura,2015-16,3,March,251.0
+Tripura,2016-17,4,April,272.0
+Tripura,2016-17,5,May,252.0
+Tripura,2016-17,7,July,259.0
+Tripura,2016-17,8,August,265.0
+Tripura,2016-17,9,September,277.0
+Tripura,2016-17,10,October,284.0
+Tripura,2016-17,11,November,266.0
+Tripura,2016-17,12,December,230.0
+Tripura,2016-17,1,January,224.0
+Tripura,2016-17,2,February,223.0
+Tripura,2016-17,3,March,228.0
+Tripura,2017-18,4,April,252.0
+Tripura,2017-18,5,May,280.0
+Tripura,2017-18,6,June,304.0
+Tripura,2017-18,7,July,307.0
+Tripura,2017-18,8,August,312.0
+Tripura,2017-18,9,September,342.0
+Tripura,2017-18,10,October,339.0
+Tripura,2017-18,11,November,276.0
+Tripura,2017-18,12,December,259.0
+Tripura,2017-18,1,January,262.0
+Tripura,2017-18,2,February,274.0
+Tripura,2017-18,3,March,293.0
+Tripura,2018-19,4,April,269.0
+Tripura,2018-19,5,May,276.0
+Tripura,2018-19,6,June,281.0
+Tripura,2018-19,7,July,298.0
+Tripura,2018-19,8,August,292.0
+Tripura,2018-19,9,September,296.0
+Tripura,2018-19,10,October,269.0
+Tripura,2018-19,11,November,259.0
+Tripura,2018-19,12,December,240.0
+Tripura,2018-19,1,January,224.0
+Tripura,2018-19,2,February,231.0
+Tripura,2018-19,3,March,249.0
+Tripura,2019-20,4,April,292.0
+Tripura,2019-20,5,May,297.0
+Tripura,2019-20,6,June,320.0
+Tripura,2019-20,7,July,298.0
+Tripura,2019-20,8,August,301.0
+Tripura,2019-20,9,September,299.0
+Tripura,2019-20,10,October,291.0
+Tripura,2019-20,11,November,258.0
+Tripura,2019-20,12,December,224.0
+Tripura,2019-20,1,January,229.0
+Tripura,2019-20,2,February,222.0
+Tripura,2019-20,3,March,254.0
+Tripura,2020-21,4,April,259.0
+Tripura,2020-21,5,May,284.0
+Tripura,2020-21,6,June,287.0
+Tripura,2020-21,7,July,288.0
+Tripura,2020-21,8,August,301.0
+Tripura,2020-21,9,September,317.0
+Tripura,2020-21,10,October,314.0
+Tripura,2020-21,11,November,270.0
+Tripura,2020-21,12,December,239.0
+Tripura,2020-21,1,January,228.0
+Tripura,2020-21,2,February,241.0
+Tripura,2020-21,3,March,256.0
+Tripura,2021-22,4,April,300.0
+Tripura,2021-22,5,May,307.0
+Tripura,2021-22,6,June,287.0
+Tripura,2021-22,7,July,297.0
+Tripura,2021-22,8,August,303.0
+Tripura,2021-22,9,September,305.0
+Tripura,2021-22,10,October,328.0
+Tripura,2021-22,11,November,253.0
+Tripura,2021-22,12,December,227.0
+Tripura,2021-22,1,January,224.0
+Tripura,2021-22,2,February,227.0
+Tripura,2021-22,3,March,286.0
+Tripura,2022-23,4,April,316.0
+Tripura,2022-23,5,May,303.0
+Tripura,2022-23,6,June,306.0
+Tripura,2022-23,7,July,319.0
+Tripura,2022-23,8,August,324.0
+Tripura,2022-23,9,September,333.0
+Tripura,2022-23,10,October,321.0
+Tripura,2022-23,11,November,282.0
+Tripura,2022-23,12,December,241.0
+Tripura,2022-23,1,January,249.0
+Tripura,2022-23,2,February,252.0
+Tripura,2022-23,3,March,264.0
+Tripura,2023-24,4,April,338.0
+Tripura,2023-24,5,May,345.0
+Tripura,2023-24,6,June,362.0
+Tripura,2023-24,7,July,343.0
+Tripura,2023-24,8,August,330.0
+Tripura,2023-24,9,September,346.0
+Tripura,2023-24,10,October,349.0
+Tripura,2023-24,11,November,303.0
+Tripura,2023-24,12,December,240.0
+Tripura,2023-24,1,January,354.0
+Tripura,2023-24,2,February,262.0
+Tripura,2023-24,3,March,288.0
+Tripura,2024-25,4,April,363.0
+Tripura,2024-25,5,May,386.0
+Tripura,2024-25,6,June,353.0
+Tripura,2024-25,7,July,359.0
+Tripura,2024-25,8,August,344.0
+Tripura,2024-25,9,September,376.0
+Tripura,2024-25,10,October,333.0
+Tripura,2024-25,11,November,310.0
+Tripura,2024-25,12,December,239.0
+Tripura,2024-25,1,January,234.0
+Tripura,2024-25,2,February,252.0
+Tripura,2024-25,3,March,318.0
+Tripura,2025-26,4,April,335.0
+Tripura,2025-26,5,May,348.0
+Tripura,2025-26,6,June,366.0
+Tripura,2025-26,7,July,374.0
+Tripura,2025-26,8,August,362.0
+Tripura,2025-26,9,September,377.0
+Tripura,2025-26,10,October,347.0
+Tripura,2025-26,11,November,311.0
+Tripura,2025-26,12,December,241.0
+Tripura,2025-26,1,January,237.0
+Tripura,2025-26,2,February,246.0
+Tripura,2025-26,3,March,289.0
+Tripura,2026-27,4,April,366.0
+Tripura,2026-27,5,May,355.0
+Tripura,2026-27,6,June,366.0
+Tripura,2026-27,7,July,372.0
+Tripura,2026-27,8,August,371.0
+Uttar Pradesh,2014-15,1,January,12024.0
+Uttar Pradesh,2014-15,2,February,12362.0
+Uttar Pradesh,2014-15,3,March,12400.0
+Uttar Pradesh,2015-16,4,April,12967.0
+Uttar Pradesh,2015-16,5,May,14696.0
+Uttar Pradesh,2015-16,6,June,15391.0
+Uttar Pradesh,2015-16,7,July,16438.0
+Uttar Pradesh,2015-16,8,August,16872.0
+Uttar Pradesh,2015-16,9,September,16988.0
+Uttar Pradesh,2015-16,10,October,16759.0
+Uttar Pradesh,2015-16,11,November,14682.0
+Uttar Pradesh,2015-16,12,December,13763.0
+Uttar Pradesh,2015-16,1,January,13862.0
+Uttar Pradesh,2015-16,2,February,13463.0
+Uttar Pradesh,2015-16,3,March,14595.0
+Uttar Pradesh,2016-17,4,April,16341.0
+Uttar Pradesh,2016-17,5,May,16498.0
+Uttar Pradesh,2016-17,7,July,16123.0
+Uttar Pradesh,2016-17,8,August,15614.0
+Uttar Pradesh,2016-17,9,September,17183.0
+Uttar Pradesh,2016-17,10,October,15673.0
+Uttar Pradesh,2016-17,11,November,14424.0
+Uttar Pradesh,2016-17,12,December,13748.0
+Uttar Pradesh,2016-17,1,January,14344.0
+Uttar Pradesh,2016-17,2,February,14133.0
+Uttar Pradesh,2016-17,3,March,16110.0
+Uttar Pradesh,2017-18,4,April,17332.0
+Uttar Pradesh,2017-18,5,May,18646.0
+Uttar Pradesh,2017-18,6,June,18827.0
+Uttar Pradesh,2017-18,7,July,18704.0
+Uttar Pradesh,2017-18,8,August,20274.0
+Uttar Pradesh,2017-18,9,September,20007.0
+Uttar Pradesh,2017-18,10,October,17966.0
+Uttar Pradesh,2017-18,11,November,14292.0
+Uttar Pradesh,2017-18,12,December,14762.0
+Uttar Pradesh,2017-18,1,January,15104.0
+Uttar Pradesh,2017-18,2,February,15388.0
+Uttar Pradesh,2017-18,3,March,15789.0
+Uttar Pradesh,2018-19,4,April,16945.0
+Uttar Pradesh,2018-19,5,May,19456.0
+Uttar Pradesh,2018-19,6,June,20498.0
+Uttar Pradesh,2018-19,7,July,19880.0
+Uttar Pradesh,2018-19,8,August,19086.0
+Uttar Pradesh,2018-19,9,September,18346.0
+Uttar Pradesh,2018-19,10,October,17434.0
+Uttar Pradesh,2018-19,11,November,15627.0
+Uttar Pradesh,2018-19,12,December,14706.0
+Uttar Pradesh,2018-19,1,January,14928.0
+Uttar Pradesh,2018-19,2,February,14908.0
+Uttar Pradesh,2018-19,3,March,16220.0
+Uttar Pradesh,2019-20,4,April,19935.0
+Uttar Pradesh,2019-20,5,May,22487.0
+Uttar Pradesh,2019-20,6,June,21988.0
+Uttar Pradesh,2019-20,7,July,22599.0
+Uttar Pradesh,2019-20,8,August,21812.0
+Uttar Pradesh,2019-20,9,September,21895.0
+Uttar Pradesh,2019-20,10,October,17707.0
+Uttar Pradesh,2019-20,11,November,1818.0
+Uttar Pradesh,2019-20,12,December,2233.0
+Uttar Pradesh,2019-20,1,January,2208.0
+Uttar Pradesh,2019-20,2,February,2233.0
+Uttar Pradesh,2019-20,3,March,1892.0
+Uttar Pradesh,2020-21,4,April,1233.0
+Uttar Pradesh,2020-21,5,May,1797.0
+Uttar Pradesh,2020-21,6,June,1942.0
+Uttar Pradesh,2020-21,7,July,2030.0
+Uttar Pradesh,2020-21,8,August,1997.0
+Uttar Pradesh,2020-21,9,September,2076.0
+Uttar Pradesh,2020-21,10,October,1917.0
+Uttar Pradesh,2020-21,11,November,1988.0
+Uttar Pradesh,2020-21,12,December,2287.0
+Uttar Pradesh,2020-21,1,January,2372.0
+Uttar Pradesh,2020-21,2,February,2340.0
+Uttar Pradesh,2020-21,3,March,2068.0
+Uttar Pradesh,2021-22,4,April,1917.0
+Uttar Pradesh,2021-22,5,May,1798.0
+Uttar Pradesh,2021-22,6,June,2189.0
+Uttar Pradesh,2021-22,7,July,2269.0
+Uttar Pradesh,2021-22,8,August,2269.0
+Uttar Pradesh,2021-22,9,September,2074.0
+Uttar Pradesh,2021-22,10,October,2066.0
+Uttar Pradesh,2021-22,11,November,1967.0
+Uttar Pradesh,2021-22,12,December,2318.0
+Uttar Pradesh,2021-22,1,January,2468.0
+Uttar Pradesh,2021-22,2,February,2379.0
+Uttar Pradesh,2021-22,3,March,2162.0
+Uttar Pradesh,2022-23,4,April,2329.0
+Uttar Pradesh,2022-23,5,May,2354.0
+Uttar Pradesh,2022-23,6,June,2594.0
+Uttar Pradesh,2022-23,7,July,2342.0
+Uttar Pradesh,2022-23,8,August,2339.0
+Uttar Pradesh,2022-23,9,September,2313.0
+Uttar Pradesh,2022-23,10,October,2092.0
+Uttar Pradesh,2022-23,11,November,2141.0
+Uttar Pradesh,2022-23,12,December,2374.0
+Uttar Pradesh,2022-23,1,January,2492.0
+Uttar Pradesh,2022-23,2,February,2368.0
+Uttar Pradesh,2022-23,3,March,2185.0
+Uttar Pradesh,2023-24,4,April,2228.0
+Uttar Pradesh,2023-24,5,May,2415.0
+Uttar Pradesh,2023-24,6,June,2536.0
+Uttar Pradesh,2023-24,7,July,2298.0
+Uttar Pradesh,2023-24,8,August,2303.0
+Uttar Pradesh,2023-24,9,September,2368.0
+Uttar Pradesh,2023-24,10,October,2259.0
+Uttar Pradesh,2023-24,11,November,2141.0
+Uttar Pradesh,2023-24,12,December,2417.0
+Uttar Pradesh,2023-24,1,January,2635.0
+Uttar Pradesh,2023-24,2,February,2523.0
+Uttar Pradesh,2023-24,3,March,2260.0
+Uttar Pradesh,2024-25,4,April,2357.0
+Uttar Pradesh,2024-25,5,May,2781.0
+Uttar Pradesh,2024-25,6,June,2863.0
+Uttar Pradesh,2024-25,7,July,2545.0
+Uttar Pradesh,2024-25,8,August,2482.0
+Uttar Pradesh,2024-25,9,September,2564.0
+Uttar Pradesh,2024-25,10,October,2412.0
+Uttar Pradesh,2024-25,11,November,2249.0
+Uttar Pradesh,2024-25,12,December,2504.0
+Uttar Pradesh,2024-25,1,January,2568.0
+Uttar Pradesh,2024-25,2,February,2477.0
+Uttar Pradesh,2024-25,3,March,2202.0
+Uttar Pradesh,2025-26,4,April,26278.0
+Uttar Pradesh,2025-26,5,May,2668.0
+Uttar Pradesh,2025-26,6,June,2910.0
+Uttar Pradesh,2025-26,7,July,2673.0
+Uttar Pradesh,2025-26,8,August,2510.0
+Uttar Pradesh,2025-26,9,September,2677.0
+Uttar Pradesh,2025-26,10,October,2466.0
+Uttar Pradesh,2025-26,11,November,2297.0
+Uttar Pradesh,2025-26,12,December,2631.0
+Uttar Pradesh,2025-26,1,January,2766.0
+Uttar Pradesh,2025-26,2,February,2594.0
+Uttar Pradesh,2025-26,3,March,2315.0
+Uttar Pradesh,2026-27,4,April,2691.0
+Uttar Pradesh,2026-27,5,May,2982.0
+Uttar Pradesh,2026-27,7,July,2976.0
+Uttar Pradesh,2026-27,8,August,2879.0
+Uttarakhand,2014-15,1,January,1930.0
+Uttarakhand,2014-15,2,February,1910.0
+Uttarakhand,2014-15,3,March,1751.0
+Uttarakhand,2015-16,4,April,1837.0
+Uttarakhand,2015-16,5,May,1965.0
+Uttarakhand,2015-16,6,June,1986.0
+Uttarakhand,2015-16,7,July,1948.0
+Uttarakhand,2015-16,8,August,1928.0
+Uttarakhand,2015-16,9,September,1948.0
+Uttarakhand,2015-16,10,October,1865.0
+Uttarakhand,2015-16,11,November,1805.0
+Uttarakhand,2015-16,12,December,2025.0
+Uttarakhand,2015-16,1,January,2034.0
+Uttarakhand,2015-16,2,February,1964.0
+Uttarakhand,2015-16,3,March,1817.0
+Uttarakhand,2016-17,4,April,1911.0
+Uttarakhand,2016-17,5,May,2013.0
+Uttarakhand,2016-17,7,July,1972.0
+Uttarakhand,2016-17,8,August,1963.0
+Uttarakhand,2016-17,9,September,1942.0
+Uttarakhand,2016-17,10,October,1972.0
+Uttarakhand,2016-17,11,November,1785.0
+Uttarakhand,2016-17,12,December,1857.0
+Uttarakhand,2016-17,1,January,2037.0
+Uttarakhand,2016-17,2,February,1973.0
+Uttarakhand,2016-17,3,March,1843.0
+Uttarakhand,2017-18,4,April,1917.0
+Uttarakhand,2017-18,5,May,1992.0
+Uttarakhand,2017-18,6,June,2027.0
+Uttarakhand,2017-18,7,July,1971.0
+Uttarakhand,2017-18,8,August,1987.0
+Uttarakhand,2017-18,9,September,2033.0
+Uttarakhand,2017-18,10,October,1920.0
+Uttarakhand,2017-18,11,November,1886.0
+Uttarakhand,2017-18,12,December,2025.0
+Uttarakhand,2017-18,1,January,2149.0
+Uttarakhand,2017-18,2,February,2134.0
+Uttarakhand,2017-18,3,March,1886.0
+Uttarakhand,2018-19,4,April,1953.0
+Uttarakhand,2018-19,5,May,2097.0
+Uttarakhand,2018-19,6,June,2134.0
+Uttarakhand,2018-19,7,July,2143.0
+Uttarakhand,2018-19,8,August,2096.0
+Uttarakhand,2018-19,9,September,1996.0
+Uttarakhand,2018-19,10,October,1943.0
+Uttarakhand,2018-19,11,November,1897.0
+Uttarakhand,2018-19,12,December,2158.0
+Uttarakhand,2018-19,1,January,2216.0
+Uttarakhand,2018-19,2,February,2182.0
+Uttarakhand,2018-19,3,March,2002.0
+Uttarakhand,2019-20,4,April,1922.0
+Uttarakhand,2019-20,5,May,2155.0
+Uttarakhand,2019-20,6,June,2164.0
+Uttarakhand,2019-20,7,July,2158.0
+Uttarakhand,2019-20,8,August,2077.0
+Uttarakhand,2019-20,9,September,2048.0
+Uttarakhand,2019-20,10,October,1797.0
+Uttarakhand,2019-20,11,November,44755.0
+Uttarakhand,2019-20,12,December,52234.0
+Uttarakhand,2019-20,1,January,51338.0
+Uttarakhand,2019-20,2,February,51107.0
+Uttarakhand,2019-20,3,March,46133.0
+Uttarakhand,2020-21,4,April,41228.0
+Uttarakhand,2020-21,5,May,57116.0
+Uttarakhand,2020-21,6,June,65336.0
+Uttarakhand,2020-21,7,July,68288.0
+Uttarakhand,2020-21,8,August,64836.0
+Uttarakhand,2020-21,9,September,67891.0
+Uttarakhand,2020-21,10,October,58213.0
+Uttarakhand,2020-21,11,November,48652.0
+Uttarakhand,2020-21,12,December,56500.0
+Uttarakhand,2020-21,1,January,57013.0
+Uttarakhand,2020-21,2,February,57013.0
+Uttarakhand,2020-21,3,March,53076.0
+Uttarakhand,2021-22,4,April,52202.0
+Uttarakhand,2021-22,5,May,53035.0
+Uttarakhand,2021-22,6,June,73116.0
+Uttarakhand,2021-22,7,July,73305.0
+Uttarakhand,2021-22,8,August,73305.0
+Uttarakhand,2021-22,9,September,63731.0
+Uttarakhand,2021-22,10,October,58641.0
+Uttarakhand,2021-22,11,November,50344.0
+Uttarakhand,2021-22,12,December,55696.0
+Uttarakhand,2021-22,1,January,56363.0
+Uttarakhand,2021-22,2,February,56363.0
+Uttarakhand,2021-22,3,March,54940.0
+Uttarakhand,2022-23,4,April,63270.0
+Uttarakhand,2022-23,5,May,68399.0
+Uttarakhand,2022-23,6,June,77337.0
+Uttarakhand,2022-23,7,July,74748.0
+Uttarakhand,2022-23,8,August,74748.0
+Uttarakhand,2022-23,9,September,76474.0
+Uttarakhand,2022-23,10,October,60710.0
+Uttarakhand,2022-23,11,November,54006.0
+Uttarakhand,2022-23,12,December,59995.0
+Uttarakhand,2022-23,1,January,63621.0
+Uttarakhand,2022-23,2,February,59194.0
+Uttarakhand,2022-23,3,March,56200.0
+Uttarakhand,2023-24,4,April,61740.0
+Uttarakhand,2023-24,5,May,72625.0
+Uttarakhand,2023-24,6,June,77341.0
+Uttarakhand,2023-24,7,July,77145.0
+Uttarakhand,2023-24,8,August,80980.0
+Uttarakhand,2023-24,9,September,80680.0
+Uttarakhand,2023-24,10,October,67382.0
+Uttarakhand,2023-24,11,November,56366.0
+Uttarakhand,2023-24,12,December,61380.0
+Uttarakhand,2023-24,1,January,208.0
+Uttarakhand,2023-24,2,February,63481.0
+Uttarakhand,2023-24,3,March,60002.0
+Uttarakhand,2024-25,4,April,62884.0
+Uttarakhand,2024-25,5,May,86305.0
+Uttarakhand,2024-25,6,June,91592.0
+Uttarakhand,2024-25,7,July,87468.0
+Uttarakhand,2024-25,8,August,77380.0
+Uttarakhand,2024-25,9,September,80678.0
+Uttarakhand,2024-25,10,October,73686.0
+Uttarakhand,2024-25,11,November,61028.0
+Uttarakhand,2024-25,12,December,68491.0
+Uttarakhand,2024-25,1,January,228.0
+Uttarakhand,2024-25,2,February,68573.0
+Uttarakhand,2024-25,3,March,65384.0
+Uttarakhand,2025-26,4,April,2460.0
+Uttarakhand,2025-26,5,May,82387.0
+Uttarakhand,2025-26,6,June,91335.0
+Uttarakhand,2025-26,7,July,81583.0
+Uttarakhand,2025-26,8,August,80688.0
+Uttarakhand,2025-26,9,September,81539.0
+Uttarakhand,2025-26,10,October,74215.0
+Uttarakhand,2025-26,11,November,63755.0
+Uttarakhand,2025-26,12,December,71633.0
+Uttarakhand,2025-26,1,January,234.0
+Uttarakhand,2025-26,2,February,227.0
+Uttarakhand,2025-26,3,March,246.0
+Uttarakhand,2026-27,4,April,234.0
+Uttarakhand,2026-27,5,May,87675.0
+Uttarakhand,2026-27,7,July,95048.0
+Uttarakhand,2026-27,8,August,239.0
+West Bengal,2014-15,1,January,6332.0
+West Bengal,2014-15,2,February,6736.0
+West Bengal,2014-15,3,March,7347.0
+West Bengal,2015-16,4,April,7532.0
+West Bengal,2015-16,5,May,7644.0
+West Bengal,2015-16,6,June,7873.0
+West Bengal,2015-16,7,July,7621.0
+West Bengal,2015-16,8,August,7397.0
+West Bengal,2015-16,9,September,7702.0
+West Bengal,2015-16,10,October,7798.0
+West Bengal,2015-16,11,November,6935.0
+West Bengal,2015-16,12,December,6483.0
+West Bengal,2015-16,1,January,6261.0
+West Bengal,2015-16,2,February,6887.0
+West Bengal,2015-16,3,March,7491.0
+West Bengal,2016-17,4,April,7649.0
+West Bengal,2016-17,5,May,7665.0
+West Bengal,2016-17,6,June,7564.0
+West Bengal,2016-17,7,July,7453.0
+West Bengal,2016-17,8,August,7657.0
+West Bengal,2016-17,10,October,7931.0
+West Bengal,2016-17,11,November,7416.0
+West Bengal,2016-17,12,December,6210.0
+West Bengal,2016-17,1,January,6630.0
+West Bengal,2016-17,2,February,7041.0
+West Bengal,2016-17,3,March,7864.0
+West Bengal,2017-18,4,April,7820.0
+West Bengal,2017-18,5,May,7515.0
+West Bengal,2017-18,6,June,7782.0
+West Bengal,2017-18,7,July,7685.0
+West Bengal,2017-18,8,August,7787.0
+West Bengal,2017-18,9,September,8137.0
+West Bengal,2017-18,10,October,7785.0
+West Bengal,2017-18,11,November,6612.0
+West Bengal,2017-18,12,December,6048.0
+West Bengal,2017-18,1,January,6369.0
+West Bengal,2017-18,2,February,6882.0
+West Bengal,2017-18,3,March,8095.0
+West Bengal,2018-19,4,April,8906.0
+West Bengal,2018-19,5,May,8391.0
+West Bengal,2018-19,6,June,8633.0
+West Bengal,2018-19,7,July,9130.0
+West Bengal,2018-19,8,August,8510.0
+West Bengal,2018-19,9,September,8644.0
+West Bengal,2018-19,10,October,8859.0
+West Bengal,2018-19,11,November,7664.0
+West Bengal,2018-19,12,December,6247.0
+West Bengal,2018-19,1,January,6555.0
+West Bengal,2018-19,2,February,7033.0
+West Bengal,2018-19,3,March,6770.0
+West Bengal,2019-20,4,April,8745.0
+West Bengal,2019-20,5,May,9096.0
+West Bengal,2019-20,6,June,9263.0
+West Bengal,2019-20,7,July,9048.0
+West Bengal,2019-20,8,August,8728.0
+West Bengal,2019-20,9,September,8842.0
+West Bengal,2019-20,10,October,8219.0
+West Bengal,2019-20,11,November,6806.0
+West Bengal,2019-20,12,December,6021.0
+West Bengal,2019-20,1,January,6331.0
+West Bengal,2019-20,2,February,6484.0
+West Bengal,2019-20,3,March,7149.0
+West Bengal,2020-21,4,April,7115.0
+West Bengal,2020-21,5,May,7562.0
+West Bengal,2020-21,6,June,8089.0
+West Bengal,2020-21,7,July,8386.0
+West Bengal,2020-21,8,August,8498.0
+West Bengal,2020-21,9,September,8711.0
+West Bengal,2020-21,10,October,8687.0
+West Bengal,2020-21,11,November,7352.0
+West Bengal,2020-21,12,December,6362.0
+West Bengal,2020-21,1,January,6776.0
+West Bengal,2020-21,2,February,7016.0
+West Bengal,2020-21,3,March,8846.0
+West Bengal,2021-22,4,April,9089.0
+West Bengal,2021-22,5,May,8696.0
+West Bengal,2021-22,6,June,8534.0
+West Bengal,2021-22,7,July,8859.0
+West Bengal,2021-22,8,August,8798.0
+West Bengal,2021-22,9,September,8801.0
+West Bengal,2021-22,10,October,8897.0
+West Bengal,2021-22,11,November,6775.0
+West Bengal,2021-22,12,December,6349.0
+West Bengal,2021-22,1,January,6652.0
+West Bengal,2021-22,2,February,6545.0
+West Bengal,2021-22,3,March,8920.0
+West Bengal,2022-23,4,April,10125.0
+West Bengal,2022-23,5,May,8837.0
+West Bengal,2022-23,6,June,9592.0
+West Bengal,2022-23,7,July,9559.0
+West Bengal,2022-23,8,August,9694.0
+West Bengal,2022-23,9,September,9619.0
+West Bengal,2022-23,10,October,9106.0
+West Bengal,2022-23,11,November,7595.0
+West Bengal,2022-23,12,December,6616.0
+West Bengal,2022-23,1,January,7112.0
+West Bengal,2022-23,2,February,7789.0
+West Bengal,2022-23,3,March,8803.0
+West Bengal,2023-24,4,April,11418.0
+West Bengal,2023-24,5,May,10838.0
+West Bengal,2023-24,6,June,11626.0
+West Bengal,2023-24,7,July,10696.0
+West Bengal,2023-24,8,August,11037.0
+West Bengal,2023-24,9,September,10377.0
+West Bengal,2023-24,10,October,9958.0
+West Bengal,2023-24,11,November,8559.0
+West Bengal,2023-24,12,December,6903.0
+West Bengal,2023-24,1,January,7268.0
+West Bengal,2023-24,2,February,7608.0
+West Bengal,2023-24,3,March,9956.0
+West Bengal,2024-25,4,April,12645.0
+West Bengal,2024-25,5,May,12192.0
+West Bengal,2024-25,6,June,12187.0
+West Bengal,2024-25,7,July,11457.0
+West Bengal,2024-25,8,August,10784.0
+West Bengal,2024-25,9,September,11804.0
+West Bengal,2024-25,10,October,11250.0
+West Bengal,2024-25,11,November,8765.0
+West Bengal,2024-25,12,December,7197.0
+West Bengal,2024-25,1,January,7789.0
+West Bengal,2024-25,2,February,8270.0
+West Bengal,2024-25,3,March,10675.0
+West Bengal,2025-26,4,April,12312.0
+West Bengal,2025-26,5,May,12693.0
+West Bengal,2025-26,6,June,13108.0
+West Bengal,2025-26,7,July,12953.0
+West Bengal,2025-26,8,August,11451.0
+West Bengal,2025-26,9,September,11868.0
+West Bengal,2025-26,10,October,10283.0
+West Bengal,2025-26,11,November,9070.0
+West Bengal,2025-26,12,December,7812.0
+West Bengal,2025-26,1,January,8252.0
+West Bengal,2025-26,2,February,8694.0
+West Bengal,2025-26,3,March,10321.0
+West Bengal,2026-27,4,April,13023.0
+West Bengal,2026-27,5,May,13340.0
+West Bengal,2026-27,6,June,13570.0
+West Bengal,2026-27,7,July,12324.0
+West Bengal,2026-27,8,August,12745.0

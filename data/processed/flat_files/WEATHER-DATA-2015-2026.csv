@@ -1,4 +1,4 @@
-state,fyear,month_num,month,temperature_2m_c,solar_irradiance_kwh_m2_day
+state,fyear,month_num,month_name,temperature_2m_c,solar_irradiance_kwh_m2_day
 Andhra Pradesh,2014-15,1,January,23.41,4.764
 Andhra Pradesh,2014-15,2,February,25.74,5.8836
 Andhra Pradesh,2014-15,3,March,29.25,6.0098

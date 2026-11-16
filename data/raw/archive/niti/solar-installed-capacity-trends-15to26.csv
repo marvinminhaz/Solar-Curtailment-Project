@@ -1,0 +1,439 @@
+state,fyear,source,capacity
+Andaman and Nicobar Islands,2015-16,solar,5.34
+Andaman and Nicobar Islands,2016-17,solar,6.8
+Andaman and Nicobar Islands,2017-18,solar,6.8
+Andaman and Nicobar Islands,2018-19,solar,11.97
+Andaman and Nicobar Islands,2019-20,solar,12.43
+Andaman and Nicobar Islands,2020-21,solar,29.46
+Andaman and Nicobar Islands,2021-22,solar,29.49
+Andaman and Nicobar Islands,2022-23,solar,29.91
+Andaman and Nicobar Islands,2023-24,solar,29.91
+Andaman and Nicobar Islands,2024-25,solar,29.91
+Andaman and Nicobar Islands,2025-26,solar,32.12
+Andaman and Nicobar Islands,2026-27,solar,32.82
+Andhra Pradesh,2015-16,solar,588.84
+Andhra Pradesh,2016-17,solar,1891.98
+Andhra Pradesh,2017-18,solar,2257.93
+Andhra Pradesh,2018-19,solar,3173.87
+Andhra Pradesh,2019-20,solar,3698.32
+Andhra Pradesh,2020-21,solar,4291.34
+Andhra Pradesh,2021-22,solar,4386.76
+Andhra Pradesh,2022-23,solar,4534.19
+Andhra Pradesh,2023-24,solar,4584.98
+Andhra Pradesh,2024-25,solar,5370.0
+Andhra Pradesh,2025-26,solar,7494.8
+Andhra Pradesh,2026-27,solar,8144.32
+Arunachal Pradesh,2015-16,solar,2.19
+Arunachal Pradesh,2016-17,solar,2.22
+Arunachal Pradesh,2017-18,solar,7.39
+Arunachal Pradesh,2018-19,solar,9.58
+Arunachal Pradesh,2019-20,solar,9.87
+Arunachal Pradesh,2020-21,solar,10.16
+Arunachal Pradesh,2021-22,solar,11.23
+Arunachal Pradesh,2022-23,solar,11.64
+Arunachal Pradesh,2023-24,solar,11.79
+Arunachal Pradesh,2024-25,solar,14.85
+Arunachal Pradesh,2025-26,solar,15.44
+Arunachal Pradesh,2026-27,solar,15.72
+Assam,2015-16,solar,2.14
+Assam,2016-17,solar,13.92
+Assam,2017-18,solar,19.28
+Assam,2018-19,solar,30.47
+Assam,2019-20,solar,49.75
+Assam,2020-21,solar,51.56
+Assam,2021-22,solar,117.94
+Assam,2022-23,solar,147.92
+Assam,2023-24,solar,156.18
+Assam,2024-25,solar,196.54
+Assam,2025-26,solar,570.17
+Assam,2026-27,solar,736.3
+Bihar,2015-16,solar,10.14
+Bihar,2016-17,solar,116.8
+Bihar,2017-18,solar,153.28
+Bihar,2018-19,solar,159.33
+Bihar,2019-20,solar,172.19
+Bihar,2020-21,solar,180.23
+Bihar,2021-22,solar,190.63
+Bihar,2022-23,solar,192.89
+Bihar,2023-24,solar,239.23
+Bihar,2024-25,solar,328.34
+Bihar,2025-26,solar,435.34
+Bihar,2026-27,solar,493.38
+Chandigarh,2015-16,solar,7.62
+Chandigarh,2016-17,solar,18.13
+Chandigarh,2017-18,solar,26.01
+Chandigarh,2018-19,solar,35.52
+Chandigarh,2019-20,solar,41.36
+Chandigarh,2020-21,solar,45.97
+Chandigarh,2021-22,solar,55.17
+Chandigarh,2022-23,solar,58.69
+Chandigarh,2023-24,solar,65.52
+Chandigarh,2024-25,solar,78.85
+Chandigarh,2025-26,solar,78.85
+Chandigarh,2026-27,solar,78.85
+Chhattisgarh,2015-16,solar,119.83
+Chhattisgarh,2016-17,solar,177.91
+Chhattisgarh,2017-18,solar,358.59
+Chhattisgarh,2018-19,solar,423.94
+Chhattisgarh,2019-20,solar,424.06
+Chhattisgarh,2020-21,solar,445.21
+Chhattisgarh,2021-22,solar,518.08
+Chhattisgarh,2022-23,solar,948.82
+Chhattisgarh,2023-24,solar,1212.39
+Chhattisgarh,2024-25,solar,1347.04
+Chhattisgarh,2025-26,solar,1812.74
+Chhattisgarh,2026-27,solar,2033.81
+Dadra and Nagar Haveli and Daman and Diu,2015-16,solar,4.0
+Dadra and Nagar Haveli and Daman and Diu,2016-17,solar,13.43
+Dadra and Nagar Haveli and Daman and Diu,2017-18,solar,16.07
+Dadra and Nagar Haveli and Daman and Diu,2018-19,solar,19.93
+Dadra and Nagar Haveli and Daman and Diu,2019-20,solar,25.32
+Dadra and Nagar Haveli and Daman and Diu,2020-21,solar,46.01
+Dadra and Nagar Haveli and Daman and Diu,2021-22,solar,46.18
+Dadra and Nagar Haveli and Daman and Diu,2022-23,solar,46.47
+Dadra and Nagar Haveli and Daman and Diu,2023-24,solar,46.47
+Dadra and Nagar Haveli and Daman and Diu,2024-25,solar,48.12
+Dadra and Nagar Haveli and Daman and Diu,2025-26,solar,134.9
+Dadra and Nagar Haveli and Daman and Diu,2026-27,solar,143.4
+Delhi,2015-16,solar,15.74
+Delhi,2016-17,solar,41.73
+Delhi,2017-18,solar,71.03
+Delhi,2018-19,solar,128.35
+Delhi,2019-20,solar,166.62
+Delhi,2020-21,solar,194.43
+Delhi,2021-22,solar,211.12
+Delhi,2022-23,solar,218.26
+Delhi,2023-24,solar,256.51
+Delhi,2024-25,solar,313.4
+Delhi,2025-26,solar,421.2
+Delhi,2026-27,solar,461.3
+Goa,2015-16,solar,0.12
+Goa,2016-17,solar,0.83
+Goa,2017-18,solar,1.03
+Goa,2018-19,solar,4.04
+Goa,2019-20,solar,4.9
+Goa,2020-21,solar,7.56
+Goa,2021-22,solar,19.95
+Goa,2022-23,solar,26.49
+Goa,2023-24,solar,43.48
+Goa,2024-25,solar,56.44
+Goa,2025-26,solar,81.5
+Goa,2026-27,solar,95.71
+Gujarat,2015-16,solar,1137.82
+Gujarat,2016-17,solar,1278.19
+Gujarat,2017-18,solar,1626.19
+Gujarat,2018-19,solar,2478.32
+Gujarat,2019-20,solar,2986.77
+Gujarat,2020-21,solar,4469.87
+Gujarat,2021-22,solar,7180.03
+Gujarat,2022-23,solar,9254.57
+Gujarat,2023-24,solar,13544.88
+Gujarat,2024-25,solar,18496.66
+Gujarat,2025-26,solar,29302.92
+Gujarat,2026-27,solar,33763.97
+Haryana,2015-16,solar,23.42
+Haryana,2016-17,solar,89.43
+Haryana,2017-18,solar,226.9
+Haryana,2018-19,solar,235.52
+Haryana,2019-20,solar,263.14
+Haryana,2020-21,solar,472.26
+Haryana,2021-22,solar,910.63
+Haryana,2022-23,solar,1029.16
+Haryana,2023-24,solar,1475.72
+Haryana,2024-25,solar,2064.97
+Haryana,2025-26,solar,2608.38
+Haryana,2026-27,solar,2856.46
+Himachal Pradesh,2015-16,solar,4.07
+Himachal Pradesh,2016-17,solar,6.46
+Himachal Pradesh,2017-18,solar,7.97
+Himachal Pradesh,2018-19,solar,29.92
+Himachal Pradesh,2019-20,solar,40.18
+Himachal Pradesh,2020-21,solar,50.28
+Himachal Pradesh,2021-22,solar,76.16
+Himachal Pradesh,2022-23,solar,87.49
+Himachal Pradesh,2023-24,solar,95.23
+Himachal Pradesh,2024-25,solar,204.26
+Himachal Pradesh,2025-26,solar,358.28
+Himachal Pradesh,2026-27,solar,385.28
+Jammu and Kashmir,2015-16,solar,13.15
+Jammu and Kashmir,2016-17,solar,13.66
+Jammu and Kashmir,2017-18,solar,22.19
+Jammu and Kashmir,2018-19,solar,36.07
+Jammu and Kashmir,2019-20,solar,40.63
+Jammu and Kashmir,2020-21,solar,42.13
+Jammu and Kashmir,2021-22,solar,46.93
+Jammu and Kashmir,2022-23,solar,49.44
+Jammu and Kashmir,2023-24,solar,65.44
+Jammu and Kashmir,2024-25,solar,74.49
+Jammu and Kashmir,2025-26,solar,79.48
+Jammu and Kashmir,2026-27,solar,167.92
+Jharkhand,2015-16,solar,20.41
+Jharkhand,2016-17,solar,33.26
+Jharkhand,2017-18,solar,38.59
+Jharkhand,2018-19,solar,49.52
+Jharkhand,2019-20,solar,55.45
+Jharkhand,2020-21,solar,69.86
+Jharkhand,2021-22,solar,88.79
+Jharkhand,2022-23,solar,105.84
+Jharkhand,2023-24,solar,162.4
+Jharkhand,2024-25,solar,199.87
+Jharkhand,2025-26,solar,255.4
+Jharkhand,2026-27,solar,318.12
+Karnataka,2015-16,solar,158.41
+Karnataka,2016-17,solar,1045.3
+Karnataka,2017-18,solar,4965.25
+Karnataka,2018-19,solar,6120.76
+Karnataka,2019-20,solar,7306.18
+Karnataka,2020-21,solar,7383.88
+Karnataka,2021-22,solar,7590.81
+Karnataka,2022-23,solar,8241.41
+Karnataka,2023-24,solar,8544.68
+Karnataka,2024-25,solar,9679.66
+Karnataka,2025-26,solar,11101.64
+Karnataka,2026-27,solar,11635.53
+Kerala,2015-16,solar,21.16
+Kerala,2016-17,solar,92.4
+Kerala,2017-18,solar,128.09
+Kerala,2018-19,solar,158.74
+Kerala,2019-20,solar,162.38
+Kerala,2020-21,solar,277.4
+Kerala,2021-22,solar,363.18
+Kerala,2022-23,solar,761.44
+Kerala,2023-24,solar,1022.79
+Kerala,2024-25,solar,1538.94
+Kerala,2025-26,solar,2215.59
+Kerala,2026-27,solar,2626.7
+Ladakh,2021-22,solar,7.8
+Ladakh,2022-23,solar,7.8
+Ladakh,2023-24,solar,7.8
+Ladakh,2024-25,solar,7.8
+Ladakh,2025-26,solar,12.02
+Ladakh,2026-27,solar,18.75
+Lakshadweep,2015-16,solar,3.02
+Lakshadweep,2016-17,solar,2.98
+Lakshadweep,2017-18,solar,3.14
+Lakshadweep,2018-19,solar,3.14
+Lakshadweep,2019-20,solar,3.27
+Lakshadweep,2020-21,solar,3.27
+Lakshadweep,2021-22,solar,3.27
+Lakshadweep,2022-23,solar,3.27
+Lakshadweep,2023-24,solar,4.97
+Lakshadweep,2024-25,solar,4.97
+Lakshadweep,2025-26,solar,6.57
+Lakshadweep,2026-27,solar,9.27
+Madhya Pradesh,2015-16,solar,783.0
+Madhya Pradesh,2016-17,solar,868.21
+Madhya Pradesh,2017-18,solar,1322.6
+Madhya Pradesh,2018-19,solar,1890.93
+Madhya Pradesh,2019-20,solar,2309.29
+Madhya Pradesh,2020-21,solar,2544.71
+Madhya Pradesh,2021-22,solar,2717.95
+Madhya Pradesh,2022-23,solar,2802.14
+Madhya Pradesh,2023-24,solar,3995.43
+Madhya Pradesh,2024-25,solar,5118.38
+Madhya Pradesh,2025-26,solar,5985.32
+Madhya Pradesh,2026-27,solar,6544.1
+Maharashtra,2015-16,solar,390.88
+Maharashtra,2016-17,solar,460.69
+Maharashtra,2017-18,solar,1251.4
+Maharashtra,2018-19,solar,1648.46
+Maharashtra,2019-20,solar,1835.62
+Maharashtra,2020-21,solar,2323.79
+Maharashtra,2021-22,solar,2631.02
+Maharashtra,2022-23,solar,4722.9
+Maharashtra,2023-24,solar,6249.67
+Maharashtra,2024-25,solar,10687.27
+Maharashtra,2025-26,solar,19622.17
+Maharashtra,2026-27,solar,20347.66
+Manipur,2015-16,solar,1.61
+Manipur,2016-17,solar,1.68
+Manipur,2017-18,solar,4.83
+Manipur,2018-19,solar,8.21
+Manipur,2019-20,solar,9.98
+Manipur,2020-21,solar,11.39
+Manipur,2021-22,solar,12.25
+Manipur,2022-23,solar,12.28
+Manipur,2023-24,solar,13.04
+Manipur,2024-25,solar,13.79
+Manipur,2025-26,solar,17.52
+Manipur,2026-27,solar,17.56
+Meghalaya,2015-16,solar,1.53
+Meghalaya,2016-17,solar,1.54
+Meghalaya,2017-18,solar,2.02
+Meghalaya,2018-19,solar,3.85
+Meghalaya,2019-20,solar,3.85
+Meghalaya,2020-21,solar,3.85
+Meghalaya,2021-22,solar,4.15
+Meghalaya,2022-23,solar,4.15
+Meghalaya,2023-24,solar,4.24
+Meghalaya,2024-25,solar,4.28
+Meghalaya,2025-26,solar,4.28
+Meghalaya,2026-27,solar,4.28
+Mizoram,2015-16,solar,1.87
+Mizoram,2016-17,solar,2.55
+Mizoram,2017-18,solar,3.69
+Mizoram,2018-19,solar,4.73
+Mizoram,2019-20,solar,6.05
+Mizoram,2020-21,solar,6.98
+Mizoram,2021-22,solar,7.9
+Mizoram,2022-23,solar,28.01
+Mizoram,2023-24,solar,30.31
+Mizoram,2024-25,solar,30.39
+Mizoram,2025-26,solar,33.69
+Mizoram,2026-27,solar,34.42
+Nagaland,2015-16,solar,1.56
+Nagaland,2016-17,solar,2.34
+Nagaland,2017-18,solar,2.84
+Nagaland,2018-19,solar,2.84
+Nagaland,2019-20,solar,2.84
+Nagaland,2020-21,solar,2.91
+Nagaland,2021-22,solar,3.04
+Nagaland,2022-23,solar,3.04
+Nagaland,2023-24,solar,3.17
+Nagaland,2024-25,solar,3.17
+Nagaland,2025-26,solar,3.34
+Nagaland,2026-27,solar,3.68
+Odisha,2015-16,solar,70.16
+Odisha,2016-17,solar,93.32
+Odisha,2017-18,solar,98.84
+Odisha,2018-19,solar,415.58
+Odisha,2019-20,solar,420.28
+Odisha,2020-21,solar,425.53
+Odisha,2021-22,solar,451.24
+Odisha,2022-23,solar,453.17
+Odisha,2023-24,solar,495.63
+Odisha,2024-25,solar,624.44
+Odisha,2025-26,solar,883.44
+Odisha,2026-27,solar,1132.43
+Others,2015-16,solar,91.84
+Others,2016-17,solar,95.49
+Others,2017-18,solar,43.36
+Others,2018-19,solar,45.01
+Others,2019-20,solar,45.01
+Others,2020-21,solar,45.01
+Others,2021-22,solar,45.01
+Others,2022-23,solar,45.01
+Others,2023-24,solar,45.01
+Others,2024-25,solar,45.01
+Others,2025-26,solar,45.01
+Others,2026-27,solar,45.01
+Puducherry,2015-16,solar,0.21
+Puducherry,2016-17,solar,0.26
+Puducherry,2017-18,solar,0.34
+Puducherry,2018-19,solar,3.32
+Puducherry,2019-20,solar,5.69
+Puducherry,2020-21,solar,9.51
+Puducherry,2021-22,solar,13.69
+Puducherry,2022-23,solar,35.53
+Puducherry,2023-24,solar,49.91
+Puducherry,2024-25,solar,54.51
+Puducherry,2025-26,solar,81.51
+Puducherry,2026-27,solar,92.51
+Punjab,2015-16,solar,411.38
+Punjab,2016-17,solar,801.66
+Punjab,2017-18,solar,913.33
+Punjab,2018-19,solar,918.73
+Punjab,2019-20,solar,961.71
+Punjab,2020-21,solar,982.3
+Punjab,2021-22,solar,1100.07
+Punjab,2022-23,solar,1167.26
+Punjab,2023-24,solar,1324.27
+Punjab,2024-25,solar,1421.43
+Punjab,2025-26,solar,1584.94
+Punjab,2026-27,solar,1603.19
+Rajasthan,2015-16,solar,1346.09
+Rajasthan,2016-17,solar,1907.99
+Rajasthan,2017-18,solar,2431.66
+Rajasthan,2018-19,solar,3364.03
+Rajasthan,2019-20,solar,5275.27
+Rajasthan,2020-21,solar,5925.6
+Rajasthan,2021-22,solar,12564.87
+Rajasthan,2022-23,solar,17055.7
+Rajasthan,2023-24,solar,21347.58
+Rajasthan,2024-25,solar,28286.47
+Rajasthan,2025-26,solar,41012.62
+Rajasthan,2026-27,solar,44135.33
+Sikkim,2015-16,solar,1.87
+Sikkim,2016-17,solar,1.87
+Sikkim,2017-18,solar,1.87
+Sikkim,2018-19,solar,1.88
+Sikkim,2019-20,solar,1.94
+Sikkim,2020-21,solar,1.94
+Sikkim,2021-22,solar,4.68
+Sikkim,2022-23,solar,4.68
+Sikkim,2023-24,solar,7.04
+Sikkim,2024-25,solar,7.56
+Sikkim,2025-26,solar,7.56
+Sikkim,2026-27,solar,7.56
+Tamil Nadu,2015-16,solar,1090.57
+Tamil Nadu,2016-17,solar,1728.52
+Tamil Nadu,2017-18,solar,1950.86
+Tamil Nadu,2018-19,solar,2618.71
+Tamil Nadu,2019-20,solar,3961.56
+Tamil Nadu,2020-21,solar,4527.47
+Tamil Nadu,2021-22,solar,5067.18
+Tamil Nadu,2022-23,solar,6736.43
+Tamil Nadu,2023-24,solar,8211.38
+Tamil Nadu,2024-25,solar,10153.58
+Tamil Nadu,2025-26,solar,13579.67
+Tamil Nadu,2026-27,solar,14121.46
+Telangana,2015-16,solar,531.98
+Telangana,2016-17,solar,1293.13
+Telangana,2017-18,solar,3299.2
+Telangana,2018-19,solar,3600.38
+Telangana,2019-20,solar,3629.1
+Telangana,2020-21,solar,3961.54
+Telangana,2021-22,solar,4520.48
+Telangana,2022-23,solar,4666.03
+Telangana,2023-24,solar,4758.16
+Telangana,2024-25,solar,4842.1
+Telangana,2025-26,solar,5065.1
+Telangana,2026-27,solar,5165.1
+Tripura,2015-16,solar,7.95
+Tripura,2016-17,solar,8.31
+Tripura,2017-18,solar,8.52
+Tripura,2018-19,solar,8.52
+Tripura,2019-20,solar,12.9
+Tripura,2020-21,solar,13.56
+Tripura,2021-22,solar,14.89
+Tripura,2022-23,solar,17.6
+Tripura,2023-24,solar,18.46
+Tripura,2024-25,solar,21.24
+Tripura,2025-26,solar,35.54
+Tripura,2026-27,solar,43.04
+Uttar Pradesh,2015-16,solar,185.09
+Uttar Pradesh,2016-17,solar,388.81
+Uttar Pradesh,2017-18,solar,755.22
+Uttar Pradesh,2018-19,solar,1047.43
+Uttar Pradesh,2019-20,solar,1208.52
+Uttar Pradesh,2020-21,solar,1836.27
+Uttar Pradesh,2021-22,solar,2244.43
+Uttar Pradesh,2022-23,solar,2515.22
+Uttar Pradesh,2023-24,solar,2920.33
+Uttar Pradesh,2024-25,solar,3364.07
+Uttar Pradesh,2025-26,solar,4123.14
+Uttar Pradesh,2026-27,solar,6024.43
+Uttarakhand,2015-16,solar,49.67
+Uttarakhand,2016-17,solar,242.03
+Uttarakhand,2017-18,solar,270.03
+Uttarakhand,2018-19,solar,317.08
+Uttarakhand,2019-20,solar,327.57
+Uttarakhand,2020-21,solar,380.13
+Uttarakhand,2021-22,solar,573.54
+Uttarakhand,2022-23,solar,575.53
+Uttarakhand,2023-24,solar,575.53
+Uttarakhand,2024-25,solar,593.07
+Uttarakhand,2025-26,solar,837.89
+Uttarakhand,2026-27,solar,891.87
+West Bengal,2015-16,solar,19.23
+West Bengal,2016-17,solar,38.69
+West Bengal,2017-18,solar,49.87
+West Bengal,2018-19,solar,88.5
+West Bengal,2019-20,solar,127.24
+West Bengal,2020-21,solar,162.65
+West Bengal,2021-22,solar,166.0
+West Bengal,2022-23,solar,179.98
+West Bengal,2023-24,solar,194.07
+West Bengal,2024-25,solar,320.62
+West Bengal,2025-26,solar,320.62
+West Bengal,2026-27,solar,363.5

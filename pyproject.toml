@@ -29,6 +29,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "selenium>=4.52.0",
     "sqlalchemy>=2.1.8",
+    "toml>=0.10.2",
     "tqdm>=4.70.1",
     "wget>=3.2",
 ]
