@@ -1,7 +1,23 @@
-# Ignore all files in Demand
-data/raw/cea/Demand/*
+# Archived PDFs and legacy files
+/archive/
 
-# Keep the folder itself
-!data/raw/cea/Demand/.gitkeep
+# Python virtual environments & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
 
-!data/raw/cea/cea_csv.gitkeep
+# Jupyter / Positron / VS Code / VSCodium checkpoints & state
+.ipynb_checkpoints/
+.positron/
+.vscode/
+
+
+# OS & environment files
+.DS_Store
+.env
+.env.*

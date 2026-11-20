@@ -7,11 +7,10 @@ Andhra Pradesh,2015-16,1,January,35.3,588.84,6868.0,4.5756,24.9
 Andhra Pradesh,2015-16,7,July,12.03,588.84,6900.0,5.8457,30.87
 Andhra Pradesh,2015-16,6,June,10.76,588.84,6628.0,4.5766,29.85
 Andhra Pradesh,2015-16,3,March,51.64,588.84,7400.0,6.1932,29.9
-Andhra Pradesh,2015-16,5,May,13.35,588.84,6737.0,6.42,34.16
+Andhra Pradesh,2015-16,5,May,13.35,588.84,6732.0,6.42,34.16
 Andhra Pradesh,2015-16,11,November,28.29,588.84,6792.0,3.66,25.49
 Andhra Pradesh,2015-16,10,October,18.65,588.84,6944.0,5.1444,28.39
 Andhra Pradesh,2015-16,9,September,13.45,588.84,6336.0,4.9344,28.49
-Andhra Pradesh,2016-17,4,April,76.12,1891.98,7576.0,7.1119,32.72
 Andhra Pradesh,2016-17,8,August,162.12,1891.98,7969.0,5.2644,29.72
 Andhra Pradesh,2016-17,12,December,179.13,1891.98,7141.0,4.2521,24.34
 Andhra Pradesh,2016-17,2,February,202.57,1891.98,7541.0,5.9712,26.78
@@ -113,7 +112,6 @@ Andhra Pradesh,2024-25,12,December,514.99,5370.0,10526.0,3.3499,24.69
 Andhra Pradesh,2024-25,2,February,758.41,5370.0,12737.0,5.8198,27.37
 Andhra Pradesh,2024-25,1,January,714.51,5370.0,12087.0,4.6339,23.84
 Andhra Pradesh,2024-25,7,July,580.95,5370.0,10901.0,3.871,29.46
-Andhra Pradesh,2024-25,6,June,621.11,5370.0,12578.0,4.871,30.32
 Andhra Pradesh,2024-25,3,March,851.2,5370.0,13108.0,6.4032,30.04
 Andhra Pradesh,2024-25,5,May,738.3,5370.0,13712.0,5.9796,32.71
 Andhra Pradesh,2024-25,11,November,559.41,5370.0,11024.0,4.0234,24.88
@@ -136,11 +134,10 @@ Arunachal Pradesh,2015-16,1,January,0.02,2.19,118.0,2.963,12.95
 Arunachal Pradesh,2015-16,7,July,0.02,2.19,110.0,4.9562,26.15
 Arunachal Pradesh,2015-16,6,June,0.02,2.19,110.0,3.5618,24.51
 Arunachal Pradesh,2015-16,3,March,0.02,2.19,115.0,3.0446,18.66
-Arunachal Pradesh,2015-16,5,May,0.02,2.19,138.0,3.4315,23.39
+Arunachal Pradesh,2015-16,5,May,0.02,2.19,109.0,3.4315,23.39
 Arunachal Pradesh,2015-16,11,November,0.02,2.19,120.0,3.4378,17.75
 Arunachal Pradesh,2015-16,10,October,0.02,2.19,129.0,4.2737,21.72
 Arunachal Pradesh,2015-16,9,September,0.02,2.19,122.0,3.2794,24.37
-Arunachal Pradesh,2016-17,4,April,0.01,2.22,141.0,2.9525,21.11
 Arunachal Pradesh,2016-17,8,August,0.01,2.22,148.0,5.2128,27.46
 Arunachal Pradesh,2016-17,12,December,0.01,2.22,131.0,3.444,16.28
 Arunachal Pradesh,2016-17,2,February,0.01,2.22,139.0,3.0262,16.6
@@ -152,7 +149,6 @@ Arunachal Pradesh,2016-17,5,May,0.0,2.22,119.0,3.9583,23.35
 Arunachal Pradesh,2016-17,11,November,0.01,2.22,127.0,3.9919,18.61
 Arunachal Pradesh,2016-17,10,October,0.01,2.22,128.0,3.8554,22.44
 Arunachal Pradesh,2016-17,9,September,0.01,2.22,143.0,2.9239,24.56
-Arunachal Pradesh,2017-18,4,April,0.01,7.39,133.0,3.2652,21.21
 Arunachal Pradesh,2017-18,8,August,0.01,7.39,132.0,3.8885,26.58
 Arunachal Pradesh,2017-18,12,December,0.08,7.39,141.0,3.2635,16.04
 Arunachal Pradesh,2017-18,2,February,0.01,7.39,133.0,2.5015,15.61
@@ -164,7 +160,6 @@ Arunachal Pradesh,2017-18,5,May,0.01,7.39,145.0,3.7829,23.95
 Arunachal Pradesh,2017-18,11,November,0.01,7.39,144.0,3.7392,18.19
 Arunachal Pradesh,2017-18,10,October,0.01,7.39,145.0,3.325,22.71
 Arunachal Pradesh,2017-18,9,September,0.01,7.39,135.0,3.312,24.96
-Arunachal Pradesh,2018-19,4,April,0.09,9.58,130.0,3.7975,21.52
 Arunachal Pradesh,2018-19,8,August,0.1,9.58,136.0,4.0961,26.63
 Arunachal Pradesh,2018-19,12,December,0.1,9.58,133.0,3.1397,14.65
 Arunachal Pradesh,2018-19,2,February,0.1,9.58,150.0,2.586,15.26
@@ -242,7 +237,6 @@ Arunachal Pradesh,2024-25,12,December,0.12,14.85,167.0,3.0298,13.82
 Arunachal Pradesh,2024-25,2,February,0.12,14.85,218.0,2.0261,14.15
 Arunachal Pradesh,2024-25,1,January,0.12,14.85,196.0,2.9018,13.98
 Arunachal Pradesh,2024-25,7,July,0.06,14.85,186.0,3.6662,26.26
-Arunachal Pradesh,2024-25,6,June,0.06,14.85,170.0,3.0209,25.67
 Arunachal Pradesh,2024-25,3,March,0.17,14.85,180.0,2.4106,17.33
 Arunachal Pradesh,2024-25,5,May,0.1,14.85,198.0,3.7738,23.98
 Arunachal Pradesh,2024-25,11,November,0.12,14.85,167.0,3.4668,17.96
@@ -265,7 +259,7 @@ Assam,2015-16,1,January,3.65,2.14,1339.0,3.2033,16.89
 Assam,2015-16,7,July,2.35,2.14,1487.0,4.9188,27.84
 Assam,2015-16,6,June,2.98,2.14,1395.0,4.2019,28.24
 Assam,2015-16,3,March,4.51,2.14,1343.0,4.6238,25.22
-Assam,2015-16,5,May,0.67,2.14,1382.0,4.6908,28.25
+Assam,2015-16,5,May,0.67,2.14,1260.0,4.6908,28.25
 Assam,2015-16,11,November,0.0,2.14,1379.0,4.0426,21.72
 Assam,2015-16,10,October,3.09,2.14,1491.0,4.7215,25.29
 Assam,2015-16,9,September,2.99,2.14,1435.0,4.482,27.37
@@ -394,7 +388,7 @@ Bihar,2015-16,1,January,1.5,10.14,3634.0,2.8639,17.52
 Bihar,2015-16,7,July,0.0,10.14,3159.0,4.7618,29.53
 Bihar,2015-16,6,June,0.0,10.14,2967.0,5.6455,34.85
 Bihar,2015-16,3,March,1.91,10.14,3488.0,5.4173,28.15
-Bihar,2015-16,5,May,0.0,10.14,2710.0,6.3864,35.21
+Bihar,2015-16,5,May,0.0,10.14,2630.0,6.3864,35.21
 Bihar,2015-16,11,November,0.0,10.14,3463.0,3.642,23.67
 Bihar,2015-16,10,October,0.0,10.14,3735.0,4.8773,26.1
 Bihar,2015-16,9,September,0.0,10.14,3609.0,5.1617,28.04
@@ -587,7 +581,6 @@ Chandigarh,2020-21,5,May,0.21,45.97,297.0,6.9072,30.33
 Chandigarh,2020-21,11,November,0.29,45.97,205.0,3.9002,18.36
 Chandigarh,2020-21,10,October,0.29,45.97,227.0,5.515,24.7
 Chandigarh,2020-21,9,September,0.29,45.97,318.0,5.8589,27.34
-Chandigarh,2021-22,4,April,1.71,55.17,228.0,6.5129,27.18
 Chandigarh,2021-22,8,August,2.53,55.17,356.0,5.4876,28.08
 Chandigarh,2021-22,12,December,1.68,55.17,251.0,3.3998,13.65
 Chandigarh,2021-22,2,February,0.99,55.17,260.0,4.4659,13.79
@@ -599,7 +592,6 @@ Chandigarh,2021-22,5,May,0.27,55.17,282.0,6.4382,30.53
 Chandigarh,2021-22,11,November,0.22,55.17,194.0,4.3505,17.88
 Chandigarh,2021-22,10,October,2.04,55.17,273.0,4.9082,23.39
 Chandigarh,2021-22,9,September,0.22,55.17,334.0,4.692,26.4
-Chandigarh,2022-23,4,April,2.81,58.69,308.0,6.9067,30.66
 Chandigarh,2022-23,8,August,2.16,58.69,381.0,5.6897,27.61
 Chandigarh,2022-23,12,December,1.0,58.69,282.0,3.2578,14.6
 Chandigarh,2022-23,2,February,1.43,58.69,295.0,4.6915,17.87
@@ -652,11 +644,10 @@ Chhattisgarh,2015-16,1,January,7.13,119.83,3472.0,4.4426,19.39
 Chhattisgarh,2015-16,7,July,3.15,119.83,3741.0,4.4285,27.36
 Chhattisgarh,2015-16,6,June,2.33,119.83,3394.0,5.2178,31.28
 Chhattisgarh,2015-16,3,March,10.69,119.83,3700.0,5.8723,29.8
-Chhattisgarh,2015-16,5,May,1.33,119.83,3748.0,6.7649,36.63
+Chhattisgarh,2015-16,5,May,1.33,119.83,3466.0,6.7649,36.63
 Chhattisgarh,2015-16,11,November,4.57,119.83,3284.0,4.4489,21.96
 Chhattisgarh,2015-16,10,October,4.81,119.83,3912.0,5.185,24.99
 Chhattisgarh,2015-16,9,September,4.76,119.83,3929.0,5.2056,26.71
-Chhattisgarh,2016-17,4,April,11.04,177.91,3875.0,6.9461,35.41
 Chhattisgarh,2016-17,8,August,7.39,177.91,3848.0,3.8995,26.52
 Chhattisgarh,2016-17,12,December,10.69,177.91,3502.0,4.4441,16.8
 Chhattisgarh,2016-17,2,February,11.19,177.91,3397.0,5.6398,22.81
@@ -773,134 +764,132 @@ Chhattisgarh,2025-26,5,May,152.92,1812.74,5720.0,5.479,32.48
 Chhattisgarh,2025-26,11,November,170.32,1812.74,4805.0,4.5886,18.55
 Chhattisgarh,2025-26,10,October,127.55,1812.74,5288.0,4.0721,24.58
 Chhattisgarh,2025-26,9,September,152.62,1812.74,6017.0,4.1506,26.69
-Dadra and Nagar Haveli and Daman and Diu,2015-16,4,April,0.1,4.0,301.0,6.9125,29.65
-Dadra and Nagar Haveli and Daman and Diu,2015-16,8,August,0.28,4.0,307.0,4.0586,26.03
+Dadra and Nagar Haveli and Daman and Diu,2015-16,4,April,0.1,4.0,1041.0,6.9125,29.65
+Dadra and Nagar Haveli and Daman and Diu,2015-16,8,August,0.28,4.0,1026.0,4.0586,26.03
 Dadra and Nagar Haveli and Daman and Diu,2015-16,12,December,0.53,4.0,296.0,4.6265,25.07
 Dadra and Nagar Haveli and Daman and Diu,2015-16,2,February,0.68,4.0,304.0,5.5891,25.18
 Dadra and Nagar Haveli and Daman and Diu,2015-16,1,January,0.63,4.0,301.0,4.7748,23.92
-Dadra and Nagar Haveli and Daman and Diu,2015-16,7,July,0.28,4.0,281.0,4.1186,26.58
-Dadra and Nagar Haveli and Daman and Diu,2015-16,6,June,0.19,4.0,281.0,4.9932,28.14
+Dadra and Nagar Haveli and Daman and Diu,2015-16,7,July,0.28,4.0,1006.0,4.1186,26.58
+Dadra and Nagar Haveli and Daman and Diu,2015-16,6,June,0.19,4.0,1006.0,4.9932,28.14
 Dadra and Nagar Haveli and Daman and Diu,2015-16,3,March,0.7,4.0,304.0,6.4258,29.17
-Dadra and Nagar Haveli and Daman and Diu,2015-16,5,May,0.11,4.0,278.0,7.2682,31.61
-Dadra and Nagar Haveli and Daman and Diu,2015-16,11,November,0.52,4.0,307.0,4.4969,25.92
-Dadra and Nagar Haveli and Daman and Diu,2015-16,10,October,0.37,4.0,307.0,5.0002,26.8
-Dadra and Nagar Haveli and Daman and Diu,2015-16,9,September,0.36,4.0,307.0,4.6411,25.87
-Dadra and Nagar Haveli and Daman and Diu,2016-17,4,April,1.05,13.43,304.0,7.1954,30.49
-Dadra and Nagar Haveli and Daman and Diu,2016-17,8,August,0.99,13.43,327.0,3.3794,25.53
-Dadra and Nagar Haveli and Daman and Diu,2016-17,12,December,1.63,13.43,296.0,4.7952,24.58
-Dadra and Nagar Haveli and Daman and Diu,2016-17,2,February,1.75,13.43,281.0,5.7703,26.67
-Dadra and Nagar Haveli and Daman and Diu,2016-17,1,January,1.65,13.43,312.0,4.7054,23.68
-Dadra and Nagar Haveli and Daman and Diu,2016-17,7,July,0.92,13.43,327.0,2.8925,25.97
-Dadra and Nagar Haveli and Daman and Diu,2016-17,6,June,0.61,13.43,327.0,5.3993,29.46
-Dadra and Nagar Haveli and Daman and Diu,2016-17,3,March,2.08,13.43,334.0,6.7279,28.2
-Dadra and Nagar Haveli and Daman and Diu,2016-17,5,May,0.6,13.43,304.0,7.139,31.38
-Dadra and Nagar Haveli and Daman and Diu,2016-17,11,November,1.64,13.43,314.0,5.083,23.2
-Dadra and Nagar Haveli and Daman and Diu,2016-17,10,October,1.4,13.43,327.0,4.9342,24.31
-Dadra and Nagar Haveli and Daman and Diu,2017-18,4,April,2.25,16.07,334.0,7.5048,30.16
-Dadra and Nagar Haveli and Daman and Diu,2017-18,8,August,1.62,16.07,336.0,3.7373,25.79
-Dadra and Nagar Haveli and Daman and Diu,2017-18,12,December,1.75,16.07,362.0,3.9017,22.31
-Dadra and Nagar Haveli and Daman and Diu,2017-18,2,February,2.32,16.07,353.0,5.3904,26.62
-Dadra and Nagar Haveli and Daman and Diu,2017-18,1,January,2.1,16.07,339.0,4.7066,23.7
-Dadra and Nagar Haveli and Daman and Diu,2017-18,7,July,1.32,16.07,322.0,3.2974,26.16
-Dadra and Nagar Haveli and Daman and Diu,2017-18,6,June,1.84,16.07,342.0,4.919,28.27
-Dadra and Nagar Haveli and Daman and Diu,2017-18,3,March,2.49,16.07,350.0,6.2441,29.1
-Dadra and Nagar Haveli and Daman and Diu,2017-18,5,May,2.37,16.07,339.0,7.2403,31.63
-Dadra and Nagar Haveli and Daman and Diu,2017-18,11,November,2.07,16.07,336.0,4.7971,23.5
-Dadra and Nagar Haveli and Daman and Diu,2017-18,10,October,2.1,16.07,349.0,5.106,26.05
-Dadra and Nagar Haveli and Daman and Diu,2017-18,9,September,1.84,16.07,351.0,4.7218,26.25
-Dadra and Nagar Haveli and Daman and Diu,2018-19,4,April,2.56,19.93,347.0,7.199,30.74
-Dadra and Nagar Haveli and Daman and Diu,2018-19,8,August,1.38,19.93,347.0,3.2537,25.37
-Dadra and Nagar Haveli and Daman and Diu,2018-19,12,December,1.97,19.93,328.0,4.5113,23.53
-Dadra and Nagar Haveli and Daman and Diu,2018-19,2,February,2.43,19.93,331.0,5.5752,24.46
-Dadra and Nagar Haveli and Daman and Diu,2018-19,1,January,2.33,19.93,339.0,4.9042,22.61
-Dadra and Nagar Haveli and Daman and Diu,2018-19,7,July,0.81,19.93,351.0,2.7662,25.91
-Dadra and Nagar Haveli and Daman and Diu,2018-19,6,June,1.8,19.93,351.0,5.0669,28.74
-Dadra and Nagar Haveli and Daman and Diu,2018-19,3,March,2.95,19.93,336.0,6.7812,27.64
-Dadra and Nagar Haveli and Daman and Diu,2018-19,5,May,2.36,19.93,310.0,7.2058,31.43
-Dadra and Nagar Haveli and Daman and Diu,2018-19,11,November,1.98,19.93,329.0,4.8658,27.41
-Dadra and Nagar Haveli and Daman and Diu,2018-19,10,October,2.12,19.93,342.0,5.4372,27.35
-Dadra and Nagar Haveli and Daman and Diu,2018-19,9,September,2.01,19.93,357.0,4.9841,25.37
+Dadra and Nagar Haveli and Daman and Diu,2015-16,5,May,0.11,4.0,998.0,7.2682,31.61
+Dadra and Nagar Haveli and Daman and Diu,2015-16,11,November,0.52,4.0,1023.0,4.4969,25.92
+Dadra and Nagar Haveli and Daman and Diu,2015-16,10,October,0.37,4.0,1036.0,5.0002,26.8
+Dadra and Nagar Haveli and Daman and Diu,2015-16,9,September,0.36,4.0,1034.0,4.6411,25.87
+Dadra and Nagar Haveli and Daman and Diu,2016-17,8,August,0.99,13.43,1086.0,3.3794,25.53
+Dadra and Nagar Haveli and Daman and Diu,2016-17,12,December,1.63,13.43,1017.0,4.7952,24.58
+Dadra and Nagar Haveli and Daman and Diu,2016-17,2,February,1.75,13.43,952.0,5.7703,26.67
+Dadra and Nagar Haveli and Daman and Diu,2016-17,1,January,1.65,13.43,1055.0,4.7054,23.68
+Dadra and Nagar Haveli and Daman and Diu,2016-17,7,July,0.92,13.43,1072.0,2.8925,25.97
+Dadra and Nagar Haveli and Daman and Diu,2016-17,6,June,0.61,13.43,1108.0,5.3993,29.46
+Dadra and Nagar Haveli and Daman and Diu,2016-17,3,March,2.08,13.43,1087.0,6.7279,28.2
+Dadra and Nagar Haveli and Daman and Diu,2016-17,5,May,0.6,13.43,1057.0,7.139,31.38
+Dadra and Nagar Haveli and Daman and Diu,2016-17,11,November,1.64,13.43,1075.0,5.083,23.2
+Dadra and Nagar Haveli and Daman and Diu,2016-17,10,October,1.4,13.43,1111.0,4.9342,24.31
+Dadra and Nagar Haveli and Daman and Diu,2016-17,9,September,1.4,13.43,1103.0,3.8016,25.21
+Dadra and Nagar Haveli and Daman and Diu,2017-18,8,August,1.62,16.07,1126.0,3.7373,25.79
+Dadra and Nagar Haveli and Daman and Diu,2017-18,12,December,1.75,16.07,1128.0,3.9017,22.31
+Dadra and Nagar Haveli and Daman and Diu,2017-18,2,February,2.32,16.07,1119.0,5.3904,26.62
+Dadra and Nagar Haveli and Daman and Diu,2017-18,1,January,2.1,16.07,1105.0,4.7066,23.7
+Dadra and Nagar Haveli and Daman and Diu,2017-18,7,July,1.32,16.07,1112.0,3.2974,26.16
+Dadra and Nagar Haveli and Daman and Diu,2017-18,6,June,1.84,16.07,1113.0,4.919,28.27
+Dadra and Nagar Haveli and Daman and Diu,2017-18,3,March,2.49,16.07,1116.0,6.2441,29.1
+Dadra and Nagar Haveli and Daman and Diu,2017-18,5,May,2.37,16.07,1107.0,7.2403,31.63
+Dadra and Nagar Haveli and Daman and Diu,2017-18,11,November,2.07,16.07,1117.0,4.7971,23.5
+Dadra and Nagar Haveli and Daman and Diu,2017-18,10,October,2.1,16.07,1139.0,5.106,26.05
+Dadra and Nagar Haveli and Daman and Diu,2017-18,9,September,1.84,16.07,1141.0,4.7218,26.25
+Dadra and Nagar Haveli and Daman and Diu,2018-19,8,August,1.38,19.93,1154.0,3.2537,25.37
+Dadra and Nagar Haveli and Daman and Diu,2018-19,12,December,1.97,19.93,1133.0,4.5113,23.53
+Dadra and Nagar Haveli and Daman and Diu,2018-19,2,February,2.43,19.93,1131.0,5.5752,24.46
+Dadra and Nagar Haveli and Daman and Diu,2018-19,1,January,2.33,19.93,1138.0,4.9042,22.61
+Dadra and Nagar Haveli and Daman and Diu,2018-19,7,July,0.81,19.93,1129.0,2.7662,25.91
+Dadra and Nagar Haveli and Daman and Diu,2018-19,6,June,1.8,19.93,1129.0,5.0669,28.74
+Dadra and Nagar Haveli and Daman and Diu,2018-19,3,March,2.95,19.93,1136.0,6.7812,27.64
+Dadra and Nagar Haveli and Daman and Diu,2018-19,5,May,2.36,19.93,1088.0,7.2058,31.43
+Dadra and Nagar Haveli and Daman and Diu,2018-19,11,November,1.98,19.93,1033.0,4.8658,27.41
+Dadra and Nagar Haveli and Daman and Diu,2018-19,10,October,2.12,19.93,1126.0,5.4372,27.35
+Dadra and Nagar Haveli and Daman and Diu,2018-19,9,September,2.01,19.93,1173.0,4.9841,25.37
 Dadra and Nagar Haveli and Daman and Diu,2019-20,4,April,2.82,25.32,341.0,7.2278,30.94
-Dadra and Nagar Haveli and Daman and Diu,2019-20,8,August,1.71,25.32,350.0,3.3367,25.85
-Dadra and Nagar Haveli and Daman and Diu,2019-20,12,December,2.7,25.32,339.0,3.8645,23.42
-Dadra and Nagar Haveli and Daman and Diu,2019-20,2,February,2.69,25.32,346.0,5.4701,25.86
-Dadra and Nagar Haveli and Daman and Diu,2019-20,1,January,2.57,25.32,347.0,4.5571,21.91
-Dadra and Nagar Haveli and Daman and Diu,2019-20,7,July,1.73,25.32,350.0,3.5438,26.68
-Dadra and Nagar Haveli and Daman and Diu,2019-20,6,June,1.84,25.32,351.0,5.4487,29.5
-Dadra and Nagar Haveli and Daman and Diu,2019-20,3,March,2.79,25.32,343.0,6.3898,27.0
-Dadra and Nagar Haveli and Daman and Diu,2019-20,5,May,2.78,25.32,344.0,7.7009,30.89
-Dadra and Nagar Haveli and Daman and Diu,2019-20,11,November,2.29,25.32,332.0,4.415,24.31
-Dadra and Nagar Haveli and Daman and Diu,2019-20,10,October,2.42,25.32,347.0,4.5278,25.5
-Dadra and Nagar Haveli and Daman and Diu,2019-20,9,September,1.69,25.32,340.0,3.474,25.91
+Dadra and Nagar Haveli and Daman and Diu,2019-20,8,August,1.71,25.32,1163.0,3.3367,25.85
+Dadra and Nagar Haveli and Daman and Diu,2019-20,12,December,2.7,25.32,1160.0,3.8645,23.42
+Dadra and Nagar Haveli and Daman and Diu,2019-20,2,February,2.69,25.32,1161.0,5.4701,25.86
+Dadra and Nagar Haveli and Daman and Diu,2019-20,1,January,2.57,25.32,1163.0,4.5571,21.91
+Dadra and Nagar Haveli and Daman and Diu,2019-20,7,July,1.73,25.32,1176.0,3.5438,26.68
+Dadra and Nagar Haveli and Daman and Diu,2019-20,6,June,1.84,25.32,1175.0,5.4487,29.5
+Dadra and Nagar Haveli and Daman and Diu,2019-20,3,March,2.79,25.32,1166.0,6.3898,27.0
+Dadra and Nagar Haveli and Daman and Diu,2019-20,5,May,2.78,25.32,1144.0,7.7009,30.89
+Dadra and Nagar Haveli and Daman and Diu,2019-20,11,November,2.29,25.32,1137.0,4.415,24.31
+Dadra and Nagar Haveli and Daman and Diu,2019-20,10,October,2.42,25.32,1153.0,4.5278,25.5
+Dadra and Nagar Haveli and Daman and Diu,2019-20,9,September,1.69,25.32,1151.0,3.474,25.91
 Dadra and Nagar Haveli and Daman and Diu,2020-21,4,April,3.21,46.01,159.0,7.2086,31.47
-Dadra and Nagar Haveli and Daman and Diu,2020-21,8,August,1.85,46.01,303.0,2.9124,26.07
-Dadra and Nagar Haveli and Daman and Diu,2020-21,12,December,2.95,46.01,344.0,4.1244,23.63
-Dadra and Nagar Haveli and Daman and Diu,2020-21,2,February,6.72,46.01,349.0,5.431,25.93
-Dadra and Nagar Haveli and Daman and Diu,2020-21,1,January,6.09,46.01,350.0,4.4208,24.64
-Dadra and Nagar Haveli and Daman and Diu,2020-21,7,July,2.09,46.01,259.0,4.5739,26.7
-Dadra and Nagar Haveli and Daman and Diu,2020-21,6,June,2.23,46.01,255.0,4.9788,27.82
-Dadra and Nagar Haveli and Daman and Diu,2020-21,3,March,5.34,46.01,356.0,6.451,29.52
-Dadra and Nagar Haveli and Daman and Diu,2020-21,5,May,2.92,46.01,226.0,7.4801,32.26
-Dadra and Nagar Haveli and Daman and Diu,2020-21,11,November,2.93,46.01,346.0,4.704,24.27
-Dadra and Nagar Haveli and Daman and Diu,2020-21,10,October,2.8,46.01,352.0,4.8377,26.32
-Dadra and Nagar Haveli and Daman and Diu,2020-21,9,September,2.33,46.01,334.0,4.2662,26.29
+Dadra and Nagar Haveli and Daman and Diu,2020-21,8,August,1.85,46.01,1031.0,2.9124,26.07
+Dadra and Nagar Haveli and Daman and Diu,2020-21,12,December,2.95,46.01,1179.0,4.1244,23.63
+Dadra and Nagar Haveli and Daman and Diu,2020-21,2,February,6.72,46.01,1224.0,5.431,25.93
+Dadra and Nagar Haveli and Daman and Diu,2020-21,1,January,6.09,46.01,1204.0,4.4208,24.64
+Dadra and Nagar Haveli and Daman and Diu,2020-21,7,July,2.09,46.01,909.0,4.5739,26.7
+Dadra and Nagar Haveli and Daman and Diu,2020-21,6,June,2.23,46.01,844.0,4.9788,27.82
+Dadra and Nagar Haveli and Daman and Diu,2020-21,3,March,5.34,46.01,1245.0,6.451,29.52
+Dadra and Nagar Haveli and Daman and Diu,2020-21,5,May,2.92,46.01,641.0,7.4801,32.26
+Dadra and Nagar Haveli and Daman and Diu,2020-21,11,November,2.93,46.01,1148.0,4.704,24.27
+Dadra and Nagar Haveli and Daman and Diu,2020-21,10,October,2.8,46.01,1164.0,4.8377,26.32
+Dadra and Nagar Haveli and Daman and Diu,2020-21,9,September,2.33,46.01,1125.0,4.2662,26.29
 Dadra and Nagar Haveli and Daman and Diu,2021-22,4,April,4.24,46.18,344.0,6.8237,30.74
-Dadra and Nagar Haveli and Daman and Diu,2021-22,8,August,5.1,46.18,344.0,3.4831,25.72
-Dadra and Nagar Haveli and Daman and Diu,2021-22,12,December,8.16,46.18,339.0,3.8484,21.79
-Dadra and Nagar Haveli and Daman and Diu,2021-22,2,February,7.74,46.18,352.0,5.8135,24.14
-Dadra and Nagar Haveli and Daman and Diu,2021-22,1,January,7.37,46.18,340.0,4.5295,21.22
-Dadra and Nagar Haveli and Daman and Diu,2021-22,7,July,7.38,46.18,351.0,3.9826,26.69
-Dadra and Nagar Haveli and Daman and Diu,2021-22,6,June,8.33,46.18,333.0,4.8773,27.61
-Dadra and Nagar Haveli and Daman and Diu,2021-22,3,March,9.01,46.18,366.0,6.0019,29.99
-Dadra and Nagar Haveli and Daman and Diu,2021-22,5,May,7.47,46.18,300.0,5.9794,30.52
-Dadra and Nagar Haveli and Daman and Diu,2021-22,11,November,7.73,46.18,371.0,4.2802,24.82
-Dadra and Nagar Haveli and Daman and Diu,2021-22,10,October,6.96,46.18,357.0,5.0695,25.33
-Dadra and Nagar Haveli and Daman and Diu,2021-22,9,September,5.01,46.18,350.0,3.2381,25.79
-Dadra and Nagar Haveli and Daman and Diu,2022-23,4,April,6.72,46.47,360.0,6.9161,31.68
-Dadra and Nagar Haveli and Daman and Diu,2022-23,8,August,1.0,46.47,622.0,3.8551,25.67
-Dadra and Nagar Haveli and Daman and Diu,2022-23,12,December,1.26,46.47,689.0,4.3166,24.4
-Dadra and Nagar Haveli and Daman and Diu,2022-23,2,February,1.44,46.47,689.0,6.0206,26.78
-Dadra and Nagar Haveli and Daman and Diu,2022-23,1,January,1.29,46.47,677.0,4.6786,22.75
-Dadra and Nagar Haveli and Daman and Diu,2022-23,7,July,2.26,46.47,624.0,3.077,25.92
-Dadra and Nagar Haveli and Daman and Diu,2022-23,6,June,4.63,46.47,663.0,5.435,28.73
-Dadra and Nagar Haveli and Daman and Diu,2022-23,3,March,1.51,46.47,718.0,5.5879,27.94
-Dadra and Nagar Haveli and Daman and Diu,2022-23,5,May,4.87,46.47,367.0,6.8722,30.92
-Dadra and Nagar Haveli and Daman and Diu,2022-23,11,November,1.36,46.47,679.0,4.9325,22.82
-Dadra and Nagar Haveli and Daman and Diu,2022-23,10,October,1.36,46.47,655.0,4.9171,24.63
-Dadra and Nagar Haveli and Daman and Diu,2022-23,9,September,1.25,46.47,647.0,3.7812,25.79
-Dadra and Nagar Haveli and Daman and Diu,2023-24,4,April,1.64,46.47,718.0,6.521,30.22
-Dadra and Nagar Haveli and Daman and Diu,2023-24,8,August,1.06,46.47,667.0,3.7236,25.88
-Dadra and Nagar Haveli and Daman and Diu,2023-24,12,December,1.14,46.47,704.0,4.1321,24.78
-Dadra and Nagar Haveli and Daman and Diu,2023-24,2,February,1.49,46.47,749.0,5.5327,26.17
-Dadra and Nagar Haveli and Daman and Diu,2023-24,1,January,1.39,46.47,721.0,4.5931,24.21
-Dadra and Nagar Haveli and Daman and Diu,2023-24,7,July,0.65,46.47,647.0,2.9472,26.37
-Dadra and Nagar Haveli and Daman and Diu,2023-24,6,June,1.16,46.47,776.0,5.3119,29.27
-Dadra and Nagar Haveli and Daman and Diu,2023-24,3,March,1.76,46.47,767.0,6.4872,28.05
-Dadra and Nagar Haveli and Daman and Diu,2023-24,5,May,1.6,46.47,755.0,7.1786,31.09
-Dadra and Nagar Haveli and Daman and Diu,2023-24,11,November,1.28,46.47,733.0,4.2775,25.27
-Dadra and Nagar Haveli and Daman and Diu,2023-24,10,October,1.42,46.47,734.0,5.3395,26.0
-Dadra and Nagar Haveli and Daman and Diu,2023-24,9,September,1.16,46.47,704.0,3.8184,26.27
-Dadra and Nagar Haveli and Daman and Diu,2024-25,4,April,1.79,48.12,803.0,6.6751,31.95
-Dadra and Nagar Haveli and Daman and Diu,2024-25,8,August,0.94,48.12,690.0,3.2184,26.4
-Dadra and Nagar Haveli and Daman and Diu,2024-25,12,December,1.37,48.12,749.0,4.0898,22.77
-Dadra and Nagar Haveli and Daman and Diu,2024-25,2,February,1.58,48.12,766.0,5.6153,27.26
-Dadra and Nagar Haveli and Daman and Diu,2024-25,1,January,1.37,48.12,754.0,4.615,24.6
-Dadra and Nagar Haveli and Daman and Diu,2024-25,7,July,0.7,48.12,697.0,2.8404,26.68
-Dadra and Nagar Haveli and Daman and Diu,2024-25,6,June,1.25,48.12,799.0,4.9668,29.49
-Dadra and Nagar Haveli and Daman and Diu,2024-25,3,March,1.58,48.12,810.0,6.4802,29.68
-Dadra and Nagar Haveli and Daman and Diu,2024-25,5,May,1.69,48.12,803.0,6.8717,32.66
-Dadra and Nagar Haveli and Daman and Diu,2024-25,11,November,1.23,48.12,743.0,4.6162,22.98
-Dadra and Nagar Haveli and Daman and Diu,2024-25,10,October,1.23,48.12,741.0,4.8168,26.44
-Dadra and Nagar Haveli and Daman and Diu,2024-25,9,September,1.14,48.12,718.0,3.575,25.88
-Dadra and Nagar Haveli and Daman and Diu,2025-26,4,April,1.58,134.9,71.0,6.923,31.52
-Dadra and Nagar Haveli and Daman and Diu,2025-26,8,August,1.69,134.9,718.0,3.2551,25.77
-Dadra and Nagar Haveli and Daman and Diu,2025-26,12,December,1.69,134.9,744.0,4.6387,22.67
-Dadra and Nagar Haveli and Daman and Diu,2025-26,7,July,1.69,134.9,719.0,3.0156,26.24
-Dadra and Nagar Haveli and Daman and Diu,2025-26,6,June,1.69,134.9,755.0,4.1165,27.61
-Dadra and Nagar Haveli and Daman and Diu,2025-26,5,May,1.69,134.9,864.0,5.4403,29.28
-Dadra and Nagar Haveli and Daman and Diu,2025-26,11,November,1.69,134.9,742.0,4.7544,22.48
-Dadra and Nagar Haveli and Daman and Diu,2025-26,10,October,1.69,134.9,750.0,4.6008,25.52
-Dadra and Nagar Haveli and Daman and Diu,2025-26,9,September,1.69,134.9,730.0,3.1073,25.39
+Dadra and Nagar Haveli and Daman and Diu,2021-22,8,August,5.1,46.18,1215.0,3.4831,25.72
+Dadra and Nagar Haveli and Daman and Diu,2021-22,12,December,8.16,46.18,1190.0,3.8484,21.79
+Dadra and Nagar Haveli and Daman and Diu,2021-22,2,February,7.74,46.18,1228.0,5.8135,24.14
+Dadra and Nagar Haveli and Daman and Diu,2021-22,1,January,7.37,46.18,1201.0,4.5295,21.22
+Dadra and Nagar Haveli and Daman and Diu,2021-22,7,July,7.38,46.18,1205.0,3.9826,26.69
+Dadra and Nagar Haveli and Daman and Diu,2021-22,6,June,8.33,46.18,1156.0,4.8773,27.61
+Dadra and Nagar Haveli and Daman and Diu,2021-22,3,March,9.01,46.18,1257.0,6.0019,29.99
+Dadra and Nagar Haveli and Daman and Diu,2021-22,5,May,7.47,46.18,1027.0,5.9794,30.52
+Dadra and Nagar Haveli and Daman and Diu,2021-22,11,November,7.73,46.18,1232.0,4.2802,24.82
+Dadra and Nagar Haveli and Daman and Diu,2021-22,10,October,6.96,46.18,1224.0,5.0695,25.33
+Dadra and Nagar Haveli and Daman and Diu,2021-22,9,September,5.01,46.18,1213.0,3.2381,25.79
+Dadra and Nagar Haveli and Daman and Diu,2022-23,4,April,6.72,46.47,1252.0,6.9161,31.68
+Dadra and Nagar Haveli and Daman and Diu,2022-23,8,August,1.0,46.47,1216.0,3.8551,25.67
+Dadra and Nagar Haveli and Daman and Diu,2022-23,12,December,1.26,46.47,1228.0,4.3166,24.4
+Dadra and Nagar Haveli and Daman and Diu,2022-23,2,February,1.44,46.47,1278.0,6.0206,26.78
+Dadra and Nagar Haveli and Daman and Diu,2022-23,1,January,1.29,46.47,1240.0,4.6786,22.75
+Dadra and Nagar Haveli and Daman and Diu,2022-23,7,July,2.26,46.47,1198.0,3.077,25.92
+Dadra and Nagar Haveli and Daman and Diu,2022-23,6,June,4.63,46.47,1243.0,5.435,28.73
+Dadra and Nagar Haveli and Daman and Diu,2022-23,3,March,1.51,46.47,1272.0,5.5879,27.94
+Dadra and Nagar Haveli and Daman and Diu,2022-23,5,May,4.87,46.47,1252.0,6.8722,30.92
+Dadra and Nagar Haveli and Daman and Diu,2022-23,11,November,1.36,46.47,1205.0,4.9325,22.82
+Dadra and Nagar Haveli and Daman and Diu,2022-23,10,October,1.36,46.47,1243.0,4.9171,24.63
+Dadra and Nagar Haveli and Daman and Diu,2022-23,9,September,1.25,46.47,1233.0,3.7812,25.79
+Dadra and Nagar Haveli and Daman and Diu,2023-24,4,April,1.64,46.47,1272.0,6.521,30.22
+Dadra and Nagar Haveli and Daman and Diu,2023-24,8,August,1.06,46.47,1327.0,3.7236,25.88
+Dadra and Nagar Haveli and Daman and Diu,2023-24,12,December,1.14,46.47,1281.0,4.1321,24.78
+Dadra and Nagar Haveli and Daman and Diu,2023-24,2,February,1.49,46.47,1304.0,5.5327,26.17
+Dadra and Nagar Haveli and Daman and Diu,2023-24,1,January,1.39,46.47,1294.0,4.5931,24.21
+Dadra and Nagar Haveli and Daman and Diu,2023-24,7,July,0.65,46.47,1307.0,2.9472,26.37
+Dadra and Nagar Haveli and Daman and Diu,2023-24,6,June,1.16,46.47,1311.0,5.3119,29.27
+Dadra and Nagar Haveli and Daman and Diu,2023-24,3,March,1.76,46.47,1283.0,6.4872,28.05
+Dadra and Nagar Haveli and Daman and Diu,2023-24,5,May,1.6,46.47,1265.0,7.1786,31.09
+Dadra and Nagar Haveli and Daman and Diu,2023-24,11,November,1.28,46.47,1267.0,4.2775,25.27
+Dadra and Nagar Haveli and Daman and Diu,2023-24,10,October,1.42,46.47,1316.0,5.3395,26.0
+Dadra and Nagar Haveli and Daman and Diu,2023-24,9,September,1.16,46.47,1306.0,3.8184,26.27
+Dadra and Nagar Haveli and Daman and Diu,2024-25,4,April,1.79,48.12,1292.0,6.6751,31.95
+Dadra and Nagar Haveli and Daman and Diu,2024-25,8,August,0.94,48.12,1321.0,3.2184,26.4
+Dadra and Nagar Haveli and Daman and Diu,2024-25,12,December,1.37,48.12,1362.0,4.0898,22.77
+Dadra and Nagar Haveli and Daman and Diu,2024-25,2,February,1.58,48.12,1356.0,5.6153,27.26
+Dadra and Nagar Haveli and Daman and Diu,2024-25,1,January,1.37,48.12,1353.0,4.615,24.6
+Dadra and Nagar Haveli and Daman and Diu,2024-25,7,July,0.7,48.12,1343.0,2.8404,26.68
+Dadra and Nagar Haveli and Daman and Diu,2024-25,6,June,1.25,48.12,1353.0,4.9668,29.49
+Dadra and Nagar Haveli and Daman and Diu,2024-25,3,March,1.58,48.12,1377.0,6.4802,29.68
+Dadra and Nagar Haveli and Daman and Diu,2024-25,5,May,1.69,48.12,1348.0,6.8717,32.66
+Dadra and Nagar Haveli and Daman and Diu,2024-25,11,November,1.23,48.12,1343.0,4.6162,22.98
+Dadra and Nagar Haveli and Daman and Diu,2024-25,10,October,1.23,48.12,1390.0,4.8168,26.44
+Dadra and Nagar Haveli and Daman and Diu,2024-25,9,September,1.14,48.12,1356.0,3.575,25.88
+Dadra and Nagar Haveli and Daman and Diu,2025-26,4,April,1.58,134.9,1373.0,6.923,31.52
+Dadra and Nagar Haveli and Daman and Diu,2025-26,8,August,1.69,134.9,1396.0,3.2551,25.77
+Dadra and Nagar Haveli and Daman and Diu,2025-26,12,December,1.69,134.9,1364.0,4.6387,22.67
+Dadra and Nagar Haveli and Daman and Diu,2025-26,7,July,1.69,134.9,1411.0,3.0156,26.24
+Dadra and Nagar Haveli and Daman and Diu,2025-26,6,June,1.69,134.9,1406.0,4.1165,27.61
+Dadra and Nagar Haveli and Daman and Diu,2025-26,5,May,1.69,134.9,1384.0,5.4403,29.28
+Dadra and Nagar Haveli and Daman and Diu,2025-26,11,November,1.69,134.9,1373.0,4.7544,22.48
+Dadra and Nagar Haveli and Daman and Diu,2025-26,10,October,1.69,134.9,1394.0,4.6008,25.52
+Dadra and Nagar Haveli and Daman and Diu,2025-26,9,September,1.69,134.9,1377.0,3.1073,25.39
 Delhi,2015-16,4,April,0.83,15.74,4517.0,6.3576,27.85
 Delhi,2015-16,8,August,0.19,15.74,5434.0,5.0242,30.17
 Delhi,2015-16,12,December,0.1,15.74,3944.0,3.089,15.76
@@ -1031,40 +1020,41 @@ Delhi,2025-26,11,November,17.21,421.2,4486.0,3.5916,18.2
 Delhi,2025-26,10,October,17.21,421.2,5956.0,4.1114,24.0
 Delhi,2025-26,9,September,17.21,421.2,7064.0,4.8377,27.58
 Goa,2015-16,4,April,0.0,0.12,583.0,6.7596,28.61
-Goa,2015-16,8,August,0.0,0.12,42024.0,4.3764,24.23
-Goa,2015-16,12,December,0.0,0.12,45110.0,4.9195,24.9
-Goa,2015-16,2,February,0.0,0.12,45110.0,5.8325,26.54
-Goa,2015-16,1,January,0.0,0.12,45267.0,5.0875,24.4
-Goa,2015-16,7,July,0.0,0.12,43333.0,4.3682,24.38
-Goa,2015-16,6,June,0.0,0.12,42608.0,4.2658,25.06
-Goa,2015-16,3,March,0.0,0.12,44424.0,6.4459,28.73
-Goa,2015-16,5,May,0.0,0.12,43538.0,6.2076,28.35
-Goa,2015-16,11,November,0.0,0.12,45108.0,4.6574,24.64
-Goa,2015-16,10,October,0.0,0.12,48640.0,5.1151,24.64
-Goa,2015-16,9,September,0.0,0.12,43946.0,4.9932,24.13
-Goa,2016-17,4,April,0.0,0.83,45022.0,6.8858,29.83
-Goa,2016-17,8,August,0.0,0.83,40122.0,3.9218,23.72
-Goa,2016-17,12,December,0.0,0.83,47837.0,5.0016,23.45
-Goa,2016-17,2,February,0.0,0.83,47994.0,6.3338,26.5
-Goa,2016-17,1,January,0.0,0.83,47881.0,5.2661,24.35
-Goa,2016-17,7,July,0.0,0.83,38999.0,3.3545,23.84
-Goa,2016-17,6,June,0.0,0.83,44714.0,3.7258,25.18
-Goa,2016-17,3,March,0.0,0.83,48531.0,6.7951,27.45
-Goa,2016-17,5,May,0.0,0.83,45369.0,6.5316,29.25
-Goa,2016-17,11,November,0.0,0.83,46898.0,5.2267,22.3
-Goa,2016-17,10,October,0.0,0.83,46123.0,5.25,22.86
+Goa,2015-16,8,August,0.0,0.12,422.0,4.3764,24.23
+Goa,2015-16,12,December,0.0,0.12,493.0,4.9195,24.9
+Goa,2015-16,2,February,0.0,0.12,726.0,5.8325,26.54
+Goa,2015-16,1,January,0.0,0.12,729.0,5.0875,24.4
+Goa,2015-16,7,July,0.0,0.12,409.0,4.3682,24.38
+Goa,2015-16,6,June,0.0,0.12,450.0,4.2658,25.06
+Goa,2015-16,3,March,0.0,0.12,726.0,6.4459,28.73
+Goa,2015-16,5,May,0.0,0.12,467.0,6.2076,28.35
+Goa,2015-16,11,November,0.0,0.12,441.0,4.6574,24.64
+Goa,2015-16,10,October,0.0,0.12,448.0,5.1151,24.64
+Goa,2015-16,9,September,0.0,0.12,455.0,4.9932,24.13
+Goa,2016-17,4,April,0.0,0.83,446.0,6.8858,29.83
+Goa,2016-17,8,August,0.0,0.83,493.0,3.9218,23.72
+Goa,2016-17,12,December,0.0,0.83,462.0,5.0016,23.45
+Goa,2016-17,2,February,0.0,0.83,515.0,6.3338,26.5
+Goa,2016-17,1,January,0.0,0.83,482.0,5.2661,24.35
+Goa,2016-17,7,July,0.0,0.83,456.0,3.3545,23.84
+Goa,2016-17,6,June,0.0,0.83,497.0,3.7258,25.18
+Goa,2016-17,3,March,0.0,0.83,546.0,6.7951,27.45
+Goa,2016-17,5,May,0.0,0.83,473.0,6.5316,29.25
+Goa,2016-17,11,November,0.0,0.83,531.0,5.2267,22.3
+Goa,2016-17,10,October,0.0,0.83,487.0,5.25,22.86
+Goa,2016-17,9,September,0.0,0.83,468.0,4.1995,23.39
 Goa,2017-18,4,April,0.0,1.03,558.0,6.9847,29.53
-Goa,2017-18,8,August,0.0,1.03,45228.0,4.1875,24.18
+Goa,2017-18,8,August,0.0,1.03,558.0,4.1875,24.18
 Goa,2017-18,12,December,0.0,1.03,515.0,4.7947,22.3
 Goa,2017-18,2,February,0.0,1.03,486.0,5.8447,26.08
 Goa,2017-18,1,January,0.0,1.03,523.0,5.0698,23.66
-Goa,2017-18,7,July,0.0,1.03,41325.0,3.967,24.3
-Goa,2017-18,6,June,0.0,1.03,47324.0,4.2046,25.29
+Goa,2017-18,7,July,0.0,1.03,559.0,3.967,24.3
+Goa,2017-18,6,June,0.0,1.03,465.0,4.2046,25.29
 Goa,2017-18,3,March,0.0,1.03,522.0,6.2066,28.13
-Goa,2017-18,5,May,0.0,1.03,49208.0,6.1826,28.88
+Goa,2017-18,5,May,0.0,1.03,505.0,6.1826,28.88
 Goa,2017-18,11,November,0.0,1.03,519.0,4.9514,22.09
 Goa,2017-18,10,October,0.0,1.03,542.0,4.5439,24.1
-Goa,2017-18,9,September,0.0,1.03,46382.0,4.3152,24.49
+Goa,2017-18,9,September,0.0,1.03,509.0,4.3152,24.49
 Goa,2018-19,4,April,0.0,4.04,562.0,6.5395,29.84
 Goa,2018-19,8,August,0.0,4.04,538.0,3.3542,23.51
 Goa,2018-19,12,December,0.0,4.04,513.0,4.7419,23.97
@@ -1114,50 +1104,50 @@ Goa,2021-22,11,November,0.11,19.95,629.0,3.8623,23.64
 Goa,2021-22,10,October,0.1,19.95,639.0,4.8756,24.46
 Goa,2021-22,9,September,0.1,19.95,614.0,3.9614,24.02
 Goa,2022-23,4,April,0.42,26.49,718.0,5.9767,29.05
-Goa,2022-23,8,August,1.51,26.49,56976.0,3.6557,23.8
-Goa,2022-23,12,December,1.51,26.49,71677.0,4.5998,23.91
-Goa,2022-23,2,February,1.51,26.49,69777.0,6.1757,27.19
-Goa,2022-23,1,January,1.51,26.49,71227.0,5.333,23.69
-Goa,2022-23,7,July,0.0,26.49,53550.0,3.3456,24.03
-Goa,2022-23,6,June,0.42,26.49,65826.0,4.5166,25.23
-Goa,2022-23,3,March,1.51,26.49,70223.0,6.6055,27.6
+Goa,2022-23,8,August,1.51,26.49,622.0,3.6557,23.8
+Goa,2022-23,12,December,1.51,26.49,689.0,4.5998,23.91
+Goa,2022-23,2,February,1.51,26.49,689.0,6.1757,27.19
+Goa,2022-23,1,January,1.51,26.49,677.0,5.333,23.69
+Goa,2022-23,7,July,0.0,26.49,624.0,3.3456,24.03
+Goa,2022-23,6,June,0.42,26.49,663.0,4.5166,25.23
+Goa,2022-23,3,March,1.51,26.49,718.0,6.6055,27.6
 Goa,2022-23,5,May,0.42,26.49,711.0,5.3748,27.77
-Goa,2022-23,11,November,1.51,26.49,66879.0,4.6757,22.58
-Goa,2022-23,10,October,1.51,26.49,58367.0,4.7117,23.42
-Goa,2022-23,9,September,1.51,26.49,57709.0,4.4674,23.82
-Goa,2023-24,4,April,1.51,43.48,70223.0,6.7531,29.15
-Goa,2023-24,8,August,6.29,43.48,76050.0,4.6332,24.26
-Goa,2023-24,12,December,4.76,43.48,74483.0,4.5768,24.33
-Goa,2023-24,2,February,4.76,43.48,73830.0,6.1752,27.0
-Goa,2023-24,1,January,4.76,43.48,1615.0,4.8742,24.45
-Goa,2023-24,7,July,6.29,43.48,58165.0,2.9314,24.24
-Goa,2023-24,6,June,6.29,43.48,69366.0,5.3638,26.95
-Goa,2023-24,3,March,4.76,43.48,70528.0,6.3401,28.79
-Goa,2023-24,5,May,6.29,43.48,68767.0,6.684,29.29
-Goa,2023-24,11,November,4.76,43.48,73288.0,4.2602,24.32
-Goa,2023-24,10,October,4.76,43.48,71411.0,4.8391,24.56
-Goa,2023-24,9,September,4.76,43.48,75027.0,4.3186,24.29
-Goa,2024-25,4,April,4.76,56.44,73511.0,6.1999,30.27
-Goa,2024-25,8,August,4.76,56.44,67019.0,3.6643,24.75
-Goa,2024-25,12,December,4.76,56.44,77574.0,4.1875,23.25
-Goa,2024-25,2,February,4.76,56.44,80861.0,5.9316,27.2
-Goa,2024-25,1,January,4.76,56.44,1342.0,5.0861,23.47
-Goa,2024-25,7,July,4.76,56.44,62168.0,2.7602,24.5
-Goa,2024-25,6,June,4.76,56.44,74933.0,4.0178,25.41
-Goa,2024-25,3,March,4.76,56.44,78082.0,6.4202,29.45
-Goa,2024-25,5,May,4.76,56.44,74829.0,5.891,29.06
-Goa,2024-25,11,November,4.76,56.44,72959.0,4.7806,22.31
-Goa,2024-25,10,October,4.76,56.44,68640.0,4.3174,24.77
-Goa,2024-25,9,September,4.76,56.44,69843.0,4.2979,24.23
+Goa,2022-23,11,November,1.51,26.49,679.0,4.6757,22.58
+Goa,2022-23,10,October,1.51,26.49,655.0,4.7117,23.42
+Goa,2022-23,9,September,1.51,26.49,647.0,4.4674,23.82
+Goa,2023-24,4,April,1.51,43.48,718.0,6.7531,29.15
+Goa,2023-24,8,August,6.29,43.48,667.0,4.6332,24.26
+Goa,2023-24,12,December,4.76,43.48,704.0,4.5768,24.33
+Goa,2023-24,2,February,4.76,43.48,749.0,6.1752,27.0
+Goa,2023-24,1,January,4.76,43.48,721.0,4.8742,24.45
+Goa,2023-24,7,July,6.29,43.48,647.0,2.9314,24.24
+Goa,2023-24,6,June,6.29,43.48,776.0,5.3638,26.95
+Goa,2023-24,3,March,4.76,43.48,767.0,6.3401,28.79
+Goa,2023-24,5,May,6.29,43.48,755.0,6.684,29.29
+Goa,2023-24,11,November,4.76,43.48,733.0,4.2602,24.32
+Goa,2023-24,10,October,4.76,43.48,734.0,4.8391,24.56
+Goa,2023-24,9,September,4.76,43.48,704.0,4.3186,24.29
+Goa,2024-25,4,April,4.76,56.44,803.0,6.1999,30.27
+Goa,2024-25,8,August,4.76,56.44,690.0,3.6643,24.75
+Goa,2024-25,12,December,4.76,56.44,749.0,4.1875,23.25
+Goa,2024-25,2,February,4.76,56.44,766.0,5.9316,27.2
+Goa,2024-25,1,January,4.76,56.44,754.0,5.0861,23.47
+Goa,2024-25,7,July,4.76,56.44,697.0,2.7602,24.5
+Goa,2024-25,6,June,4.76,56.44,799.0,4.0178,25.41
+Goa,2024-25,3,March,4.76,56.44,810.0,6.4202,29.45
+Goa,2024-25,5,May,4.76,56.44,803.0,5.891,29.06
+Goa,2024-25,11,November,4.76,56.44,743.0,4.7806,22.31
+Goa,2024-25,10,October,4.76,56.44,741.0,4.3174,24.77
+Goa,2024-25,9,September,4.76,56.44,718.0,4.2979,24.23
 Goa,2025-26,4,April,4.76,81.5,824.0,6.2542,30.04
-Goa,2025-26,8,August,4.76,81.5,70779.0,3.3732,23.6
-Goa,2025-26,12,December,4.76,81.5,80307.0,4.849,20.28
-Goa,2025-26,7,July,4.76,81.5,65375.0,3.3545,24.11
-Goa,2025-26,6,June,4.76,81.5,71603.0,4.0615,24.94
-Goa,2025-26,5,May,4.76,81.5,76126.0,5.0621,27.23
-Goa,2025-26,11,November,4.76,81.5,75153.0,4.9771,21.06
-Goa,2025-26,10,October,4.76,81.5,68618.0,4.4882,23.88
-Goa,2025-26,9,September,4.76,81.5,68591.0,3.6871,23.62
+Goa,2025-26,8,August,4.76,81.5,718.0,3.3732,23.6
+Goa,2025-26,12,December,4.76,81.5,744.0,4.849,20.28
+Goa,2025-26,7,July,4.76,81.5,719.0,3.3545,24.11
+Goa,2025-26,6,June,4.76,81.5,755.0,4.0615,24.94
+Goa,2025-26,5,May,4.76,81.5,864.0,5.0621,27.23
+Goa,2025-26,11,November,4.76,81.5,742.0,4.9771,21.06
+Goa,2025-26,10,October,4.76,81.5,750.0,4.4882,23.88
+Goa,2025-26,9,September,4.76,81.5,730.0,3.6871,23.62
 Gujarat,2015-16,4,April,152.45,1137.82,13207.0,6.8765,31.76
 Gujarat,2015-16,8,August,103.89,1137.82,14422.0,5.1533,28.38
 Gujarat,2015-16,12,December,138.69,1137.82,12348.0,4.5437,20.69
@@ -1166,7 +1156,7 @@ Gujarat,2015-16,1,January,0.0,1137.82,12892.0,4.6562,20.98
 Gujarat,2015-16,7,July,95.12,1137.82,14443.0,4.6656,28.94
 Gujarat,2015-16,6,June,125.86,1137.82,13266.0,5.8138,31.1
 Gujarat,2015-16,3,March,169.93,1137.82,13312.0,6.4058,28.61
-Gujarat,2015-16,5,May,160.88,1137.82,13314.0,7.5324,33.61
+Gujarat,2015-16,5,May,160.88,1137.82,13188.0,7.5324,33.61
 Gujarat,2015-16,11,November,127.39,1137.82,13280.0,4.5125,26.05
 Gujarat,2015-16,10,October,149.79,1137.82,14092.0,5.3698,29.2
 Gujarat,2015-16,9,September,130.37,1137.82,14495.0,5.465,28.59
@@ -1181,6 +1171,7 @@ Gujarat,2016-17,3,March,176.44,1278.19,14724.0,6.6401,27.33
 Gujarat,2016-17,5,May,165.63,1278.19,14701.0,7.3178,33.91
 Gujarat,2016-17,11,November,147.56,1278.19,12915.0,4.8605,23.67
 Gujarat,2016-17,10,October,147.39,1278.19,14134.0,5.0033,26.24
+Gujarat,2016-17,9,September,140.88,1278.19,14666.0,5.4955,27.66
 Gujarat,2017-18,4,April,186.25,1626.19,15285.0,7.4285,31.15
 Gujarat,2017-18,8,August,131.04,1626.19,14689.0,4.5607,27.29
 Gujarat,2017-18,12,December,161.68,1626.19,14723.0,3.6444,20.38
@@ -1427,7 +1418,6 @@ Himachal Pradesh,2015-16,5,May,0.0,4.07,1311.0,6.702,29.3
 Himachal Pradesh,2015-16,11,November,0.0,4.07,1361.0,3.563,17.69
 Himachal Pradesh,2015-16,10,October,0.0,4.07,1338.0,5.0246,21.79
 Himachal Pradesh,2015-16,9,September,0.0,4.07,1300.0,5.6148,24.23
-Himachal Pradesh,2016-17,4,April,0.0,6.46,1272.0,5.9575,25.48
 Himachal Pradesh,2016-17,8,August,0.0,6.46,1293.0,4.2552,25.46
 Himachal Pradesh,2016-17,12,December,0.0,6.46,1408.0,3.5213,14.41
 Himachal Pradesh,2016-17,2,February,0.0,6.46,1479.0,3.9739,14.73
@@ -1439,7 +1429,6 @@ Himachal Pradesh,2016-17,5,May,0.0,6.46,1270.0,6.4985,29.59
 Himachal Pradesh,2016-17,11,November,0.0,6.46,1410.0,4.2252,17.73
 Himachal Pradesh,2016-17,10,October,0.0,6.46,1342.0,5.2394,22.2
 Himachal Pradesh,2016-17,9,September,0.0,6.46,1329.0,5.5553,24.67
-Himachal Pradesh,2017-18,4,April,0.0,7.97,1329.0,6.3422,25.68
 Himachal Pradesh,2017-18,8,August,0.0,7.97,1369.0,4.6927,25.32
 Himachal Pradesh,2017-18,12,December,0.0,7.97,1560.0,3.0725,13.49
 Himachal Pradesh,2017-18,2,February,0.0,7.97,1555.0,4.146,14.59
@@ -1451,7 +1440,6 @@ Himachal Pradesh,2017-18,5,May,0.0,7.97,1349.0,6.1764,29.24
 Himachal Pradesh,2017-18,11,November,0.0,7.97,1491.0,3.696,16.14
 Himachal Pradesh,2017-18,10,October,0.0,7.97,1425.0,5.3328,21.49
 Himachal Pradesh,2017-18,9,September,0.0,7.97,1413.0,5.0023,23.78
-Himachal Pradesh,2018-19,4,April,0.0,29.92,1424.0,5.8474,24.75
 Himachal Pradesh,2018-19,8,August,0.0,29.92,1479.0,4.4158,25.03
 Himachal Pradesh,2018-19,12,December,0.0,29.92,1700.0,3.27,10.58
 Himachal Pradesh,2018-19,2,February,0.0,29.92,1679.0,2.9446,11.0
@@ -1529,7 +1517,6 @@ Himachal Pradesh,2024-25,12,December,8.24,204.26,2254.0,3.0898,11.81
 Himachal Pradesh,2024-25,2,February,12.98,204.26,2193.0,3.469,13.6
 Himachal Pradesh,2024-25,1,January,8.33,204.26,2273.0,3.059,12.58
 Himachal Pradesh,2024-25,7,July,7.63,204.26,1888.0,5.0318,28.25
-Himachal Pradesh,2024-25,6,June,7.76,204.26,1919.0,6.1135,32.14
 Himachal Pradesh,2024-25,3,March,16.39,204.26,2075.0,4.8144,18.14
 Himachal Pradesh,2024-25,5,May,8.46,204.26,1827.0,6.7622,29.44
 Himachal Pradesh,2024-25,11,November,9.91,204.26,2107.0,4.0471,17.62
@@ -1552,11 +1539,10 @@ Jammu and Kashmir,2015-16,1,January,0.0,13.15,2544.0,2.904,-16.89
 Jammu and Kashmir,2015-16,7,July,0.0,13.15,2318.0,6.7366,10.18
 Jammu and Kashmir,2015-16,6,June,0.0,13.15,2437.0,6.083,4.08
 Jammu and Kashmir,2015-16,3,March,0.0,13.15,2439.0,4.0903,-8.69
-Jammu and Kashmir,2015-16,5,May,0.0,13.15,2285.0,6.6046,1.35
+Jammu and Kashmir,2015-16,5,May,0.0,13.15,1987.0,6.6046,1.35
 Jammu and Kashmir,2015-16,11,November,0.0,13.15,2433.0,2.97,-6.79
 Jammu and Kashmir,2015-16,10,October,0.0,13.15,2362.0,4.355,-1.67
 Jammu and Kashmir,2015-16,9,September,0.0,13.15,2388.0,5.551,3.37
-Jammu and Kashmir,2016-17,4,April,0.0,13.66,2412.0,5.2445,-3.01
 Jammu and Kashmir,2016-17,8,August,0.0,13.66,2367.0,5.5586,9.04
 Jammu and Kashmir,2016-17,12,December,0.0,13.66,2591.0,3.0456,-8.3
 Jammu and Kashmir,2016-17,2,February,0.0,13.66,2622.0,3.4457,-14.67
@@ -1568,7 +1554,6 @@ Jammu and Kashmir,2016-17,5,May,0.0,13.66,2478.0,6.715,2.3
 Jammu and Kashmir,2016-17,11,November,0.0,13.66,2480.0,3.4416,-5.72
 Jammu and Kashmir,2016-17,10,October,0.0,13.66,2480.0,5.1924,-0.86
 Jammu and Kashmir,2016-17,9,September,0.0,13.66,2469.0,5.838,5.76
-Jammu and Kashmir,2017-18,4,April,0.0,22.19,2577.0,6.2364,-3.51
 Jammu and Kashmir,2017-18,8,August,0.0,22.19,2671.0,6.0485,9.14
 Jammu and Kashmir,2017-18,12,December,0.0,22.19,2758.0,2.5118,-14.49
 Jammu and Kashmir,2017-18,2,February,0.0,22.19,2748.0,4.0601,-13.71
@@ -1580,7 +1565,6 @@ Jammu and Kashmir,2017-18,5,May,0.0,22.19,2668.0,7.7539,2.03
 Jammu and Kashmir,2017-18,11,November,0.0,22.19,2485.0,3.5705,-6.68
 Jammu and Kashmir,2017-18,10,October,0.0,22.19,2579.0,5.3506,-0.68
 Jammu and Kashmir,2017-18,9,September,0.0,22.19,2704.0,5.6669,4.44
-Jammu and Kashmir,2018-19,4,April,0.0,36.07,2729.0,6.7027,-1.93
 Jammu and Kashmir,2018-19,8,August,0.0,36.07,2845.0,6.1128,10.19
 Jammu and Kashmir,2018-19,12,December,0.0,36.07,3080.0,3.139,-19.1
 Jammu and Kashmir,2018-19,2,February,0.0,36.07,3041.0,2.8603,-16.91
@@ -1594,84 +1578,80 @@ Jammu and Kashmir,2018-19,10,October,0.0,36.07,2856.0,4.3176,-3.14
 Jammu and Kashmir,2018-19,9,September,0.0,36.07,2951.0,5.2464,4.31
 Jammu and Kashmir,2019-20,4,April,0.0,40.63,2885.0,7.0668,-2.85
 Jammu and Kashmir,2019-20,8,August,0.0,40.63,2734.0,5.7334,9.11
-Jammu and Kashmir,2019-20,12,December,0.0,40.63,6767.0,2.8898,-22.15
-Jammu and Kashmir,2019-20,2,February,0.0,40.63,7078.0,4.3822,-17.5
-Jammu and Kashmir,2019-20,1,January,0.0,40.63,6327.0,2.4713,-20.66
+Jammu and Kashmir,2019-20,12,December,0.0,40.63,3104.0,2.8898,-22.15
+Jammu and Kashmir,2019-20,2,February,0.0,40.63,3158.0,4.3822,-17.5
+Jammu and Kashmir,2019-20,1,January,0.0,40.63,3218.0,2.4713,-20.66
 Jammu and Kashmir,2019-20,7,July,0.0,40.63,2904.0,6.2102,9.41
 Jammu and Kashmir,2019-20,6,June,0.0,40.63,2362.0,6.5714,3.1
-Jammu and Kashmir,2019-20,3,March,0.0,40.63,5758.0,5.0676,-11.99
+Jammu and Kashmir,2019-20,3,March,0.0,40.63,3405.0,5.0676,-11.99
 Jammu and Kashmir,2019-20,5,May,0.0,40.63,3033.0,7.2718,-0.13
-Jammu and Kashmir,2019-20,11,November,0.0,40.63,5503.0,2.6935,-12.68
+Jammu and Kashmir,2019-20,11,November,0.0,40.63,2742.0,2.6935,-12.68
 Jammu and Kashmir,2019-20,10,October,0.0,40.63,3042.0,4.7304,-1.98
 Jammu and Kashmir,2019-20,9,September,0.0,40.63,2928.0,6.0341,5.5
-Jammu and Kashmir,2020-21,4,April,0.0,42.13,5113.0,6.5712,-6.19
-Jammu and Kashmir,2020-21,8,August,0.97,42.13,12815.0,6.0965,9.54
-Jammu and Kashmir,2020-21,12,December,1.23,42.13,6707.0,2.9362,-19.27
-Jammu and Kashmir,2020-21,2,February,1.23,42.13,7118.0,4.0385,-15.42
-Jammu and Kashmir,2020-21,1,January,1.23,42.13,7017.0,3.2141,-19.87
-Jammu and Kashmir,2020-21,7,July,0.95,42.13,13148.0,6.9007,7.71
-Jammu and Kashmir,2020-21,6,June,0.0,42.13,12683.0,7.2511,4.17
-Jammu and Kashmir,2020-21,3,March,1.59,42.13,7440.0,4.8828,-11.48
-Jammu and Kashmir,2020-21,5,May,0.0,42.13,8201.0,6.2659,0.13
-Jammu and Kashmir,2020-21,11,November,1.2,42.13,6002.0,3.3794,-10.9
-Jammu and Kashmir,2020-21,10,October,0.0,42.13,8940.0,5.5061,-1.85
-Jammu and Kashmir,2020-21,9,September,1.02,42.13,12433.0,6.247,4.34
-Jammu and Kashmir,2021-22,4,April,1.71,46.93,6860.0,6.1274,-7.34
-Jammu and Kashmir,2021-22,8,August,0.0,46.93,13215.0,5.9806,8.28
-Jammu and Kashmir,2021-22,12,December,0.0,46.93,7337.0,2.6993,-14.55
-Jammu and Kashmir,2021-22,2,February,0.0,46.93,7076.0,4.1098,-17.07
-Jammu and Kashmir,2021-22,1,January,0.0,46.93,7105.0,2.7732,-18.33
-Jammu and Kashmir,2021-22,7,July,0.0,46.93,13556.0,6.019,9.72
-Jammu and Kashmir,2021-22,6,June,0.0,46.93,13359.0,6.9055,4.6
-Jammu and Kashmir,2021-22,3,March,0.0,46.93,8475.0,5.9479,-9.22
-Jammu and Kashmir,2021-22,5,May,0.0,46.93,8195.0,6.1843,0.12
-Jammu and Kashmir,2021-22,11,November,0.0,46.93,6405.0,4.1542,-9.68
-Jammu and Kashmir,2021-22,10,October,0.0,46.93,9625.0,4.6848,-3.4
-Jammu and Kashmir,2021-22,9,September,0.0,46.93,12002.0,5.6705,6.72
-Jammu and Kashmir,2022-23,4,April,0.0,49.44,9889.0,7.3214,-0.87
-Jammu and Kashmir,2022-23,8,August,0.0,49.44,14298.0,5.9359,9.38
-Jammu and Kashmir,2022-23,12,December,0.0,49.44,7989.0,3.2287,-14.2
-Jammu and Kashmir,2022-23,2,February,0.0,49.44,8864.0,4.099,-15.03
-Jammu and Kashmir,2022-23,1,January,0.0,49.44,9063.0,3.0974,-17.42
-Jammu and Kashmir,2022-23,7,July,0.0,49.44,14069.0,5.8195,10.34
-Jammu and Kashmir,2022-23,6,June,0.0,49.44,14311.0,6.9595,5.32
-Jammu and Kashmir,2022-23,3,March,0.0,49.44,8840.0,5.5169,-9.75
-Jammu and Kashmir,2022-23,5,May,0.0,49.44,10887.0,6.2887,2.45
-Jammu and Kashmir,2022-23,11,November,0.0,49.44,7267.0,3.7246,-12.04
-Jammu and Kashmir,2022-23,10,October,0.0,49.44,11479.0,4.8024,-2.09
-Jammu and Kashmir,2022-23,9,September,0.0,49.44,14187.0,5.3539,5.9
-Jammu and Kashmir,2023-24,4,April,0.0,65.44,8187.0,5.5253,-5.59
-Jammu and Kashmir,2023-24,8,August,0.0,65.44,15132.0,6.1786,9.44
-Jammu and Kashmir,2023-24,12,December,0.0,65.44,8041.0,3.5983,-11.22
-Jammu and Kashmir,2023-24,2,February,0.0,65.44,10180.0,4.1618,-18.09
-Jammu and Kashmir,2023-24,1,January,0.0,65.44,9370.0,3.6732,-12.13
-Jammu and Kashmir,2023-24,7,July,0.0,65.44,14665.0,5.3453,8.35
-Jammu and Kashmir,2023-24,6,June,0.0,65.44,15293.0,6.6336,5.24
-Jammu and Kashmir,2023-24,3,March,0.0,65.44,10112.0,5.1559,-12.17
-Jammu and Kashmir,2023-24,5,May,0.0,65.44,11725.0,5.5486,-1.42
-Jammu and Kashmir,2023-24,11,November,0.0,65.44,7380.0,3.6686,-6.79
-Jammu and Kashmir,2023-24,10,October,0.0,65.44,12213.0,4.6759,-2.07
-Jammu and Kashmir,2023-24,9,September,0.0,65.44,14964.0,6.025,5.29
-Jammu and Kashmir,2024-25,4,April,0.0,74.49,9914.0,5.2596,-5.74
-Jammu and Kashmir,2024-25,8,August,0.0,74.49,15307.0,5.3892,10.12
-Jammu and Kashmir,2024-25,12,December,0.0,74.49,9381.0,2.8538,-13.22
-Jammu and Kashmir,2024-25,2,February,0.0,74.49,10165.0,3.7954,-15.89
-Jammu and Kashmir,2024-25,1,January,0.0,74.49,9869.0,2.8154,-17.05
-Jammu and Kashmir,2024-25,7,July,0.0,74.49,16006.0,6.9533,9.95
-Jammu and Kashmir,2024-25,6,June,0.0,74.49,16058.0,6.6953,4.84
-Jammu and Kashmir,2024-25,3,March,0.0,74.49,10083.0,5.1494,-13.14
-Jammu and Kashmir,2024-25,5,May,0.0,74.49,14366.0,8.0314,1.59
-Jammu and Kashmir,2024-25,11,November,0.0,74.49,8755.0,3.8969,-4.95
-Jammu and Kashmir,2024-25,10,October,0.0,74.49,14311.0,5.0282,0.27
-Jammu and Kashmir,2024-25,9,September,0.0,74.49,15310.0,5.6258,6.16
-Jammu and Kashmir,2025-26,8,August,0.0,79.48,16310.0,4.9786,10.1
-Jammu and Kashmir,2025-26,12,December,0.0,79.48,10172.0,2.5519,-9.51
-Jammu and Kashmir,2025-26,7,July,0.0,79.48,16670.0,5.9124,11.07
-Jammu and Kashmir,2025-26,6,June,0.0,79.48,16428.0,7.2751,7.62
-Jammu and Kashmir,2025-26,5,May,0.0,79.48,13969.0,6.3626,3.24
-Jammu and Kashmir,2025-26,11,November,0.0,79.48,9647.0,4.3699,-6.92
-Jammu and Kashmir,2025-26,10,October,0.0,79.48,12989.0,4.7009,-1.58
-Jammu and Kashmir,2025-26,9,September,0.0,79.48,14440.0,5.519,6.01
+Jammu and Kashmir,2020-21,4,April,0.0,42.13,2940.0,6.5712,-6.19
+Jammu and Kashmir,2020-21,8,August,0.97,42.13,2393.0,6.0965,9.54
+Jammu and Kashmir,2020-21,7,July,0.95,42.13,2427.0,6.9007,7.71
+Jammu and Kashmir,2020-21,6,June,0.0,42.13,2834.0,7.2511,4.17
+Jammu and Kashmir,2020-21,3,March,1.59,42.13,3007.0,4.8828,-11.48
+Jammu and Kashmir,2020-21,5,May,0.0,42.13,2932.0,6.2659,0.13
+Jammu and Kashmir,2020-21,10,October,0.0,42.13,2460.0,5.5061,-1.85
+Jammu and Kashmir,2021-22,4,April,1.71,46.93,3018.0,6.1274,-7.34
+Jammu and Kashmir,2021-22,8,August,0.0,46.93,2662.0,5.9806,8.28
+Jammu and Kashmir,2021-22,12,December,0.0,46.93,2993.0,2.6993,-14.55
+Jammu and Kashmir,2021-22,2,February,0.0,46.93,3076.0,4.1098,-17.07
+Jammu and Kashmir,2021-22,1,January,0.0,46.93,3020.0,2.7732,-18.33
+Jammu and Kashmir,2021-22,7,July,0.0,46.93,2712.0,6.019,9.72
+Jammu and Kashmir,2021-22,6,June,0.0,46.93,2733.0,6.9055,4.6
+Jammu and Kashmir,2021-22,3,March,0.0,46.93,3004.0,5.9479,-9.22
+Jammu and Kashmir,2021-22,5,May,0.0,46.93,2812.0,6.1843,0.12
+Jammu and Kashmir,2021-22,11,November,0.0,46.93,2841.0,4.1542,-9.68
+Jammu and Kashmir,2021-22,10,October,0.0,46.93,2643.0,4.6848,-3.4
+Jammu and Kashmir,2021-22,9,September,0.0,46.93,2659.0,5.6705,6.72
+Jammu and Kashmir,2022-23,4,April,0.0,49.44,2603.0,7.3214,-0.87
+Jammu and Kashmir,2022-23,8,August,0.0,49.44,2782.0,5.9359,9.38
+Jammu and Kashmir,2022-23,12,December,0.0,49.44,2831.0,3.2287,-14.2
+Jammu and Kashmir,2022-23,2,February,0.0,49.44,3044.0,4.099,-15.03
+Jammu and Kashmir,2022-23,1,January,0.0,49.44,3019.0,3.0974,-17.42
+Jammu and Kashmir,2022-23,7,July,0.0,49.44,2718.0,5.8195,10.34
+Jammu and Kashmir,2022-23,6,June,0.0,49.44,2723.0,6.9595,5.32
+Jammu and Kashmir,2022-23,3,March,0.0,49.44,2859.0,5.5169,-9.75
+Jammu and Kashmir,2022-23,5,May,0.0,49.44,2678.0,6.2887,2.45
+Jammu and Kashmir,2022-23,11,November,0.0,49.44,3074.0,3.7246,-12.04
+Jammu and Kashmir,2022-23,10,October,0.0,49.44,2823.0,4.8024,-2.09
+Jammu and Kashmir,2022-23,9,September,0.0,49.44,3137.0,5.3539,5.9
+Jammu and Kashmir,2023-24,4,April,0.0,65.44,2890.0,5.5253,-5.59
+Jammu and Kashmir,2023-24,8,August,0.0,65.44,2735.0,6.1786,9.44
+Jammu and Kashmir,2023-24,12,December,0.0,65.44,2904.0,3.5983,-11.22
+Jammu and Kashmir,2023-24,2,February,0.0,65.44,3071.0,4.1618,-18.09
+Jammu and Kashmir,2023-24,1,January,0.0,65.44,3181.0,3.6732,-12.13
+Jammu and Kashmir,2023-24,7,July,0.0,65.44,2628.0,5.3453,8.35
+Jammu and Kashmir,2023-24,6,June,0.0,65.44,2542.0,6.6336,5.24
+Jammu and Kashmir,2023-24,3,March,0.0,65.44,2896.0,5.1559,-12.17
+Jammu and Kashmir,2023-24,5,May,0.0,65.44,2823.0,5.5486,-1.42
+Jammu and Kashmir,2023-24,11,November,0.0,65.44,2710.0,3.6686,-6.79
+Jammu and Kashmir,2023-24,10,October,0.0,65.44,2735.0,4.6759,-2.07
+Jammu and Kashmir,2023-24,9,September,0.0,65.44,2805.0,6.025,5.29
+Jammu and Kashmir,2024-25,4,April,0.0,74.49,2924.0,5.2596,-5.74
+Jammu and Kashmir,2024-25,8,August,0.0,74.49,2726.0,5.3892,10.12
+Jammu and Kashmir,2024-25,12,December,0.0,74.49,3157.0,2.8538,-13.22
+Jammu and Kashmir,2024-25,2,February,0.0,74.49,3057.0,3.7954,-15.89
+Jammu and Kashmir,2024-25,1,January,0.0,74.49,3148.0,2.8154,-17.05
+Jammu and Kashmir,2024-25,7,July,0.0,74.49,2635.0,6.9533,9.95
+Jammu and Kashmir,2024-25,6,June,0.0,74.49,2902.0,6.6953,4.84
+Jammu and Kashmir,2024-25,3,March,0.0,74.49,3095.0,5.1494,-13.14
+Jammu and Kashmir,2024-25,5,May,0.0,74.49,2878.0,8.0314,1.59
+Jammu and Kashmir,2024-25,11,November,0.0,74.49,2836.0,3.8969,-4.95
+Jammu and Kashmir,2024-25,10,October,0.0,74.49,3068.0,5.0282,0.27
+Jammu and Kashmir,2024-25,9,September,0.0,74.49,3236.0,5.6258,6.16
+Jammu and Kashmir,2025-26,4,April,0.0,79.48,2875.0,5.9246,-2.9
+Jammu and Kashmir,2025-26,8,August,0.0,79.48,2726.0,4.9786,10.1
+Jammu and Kashmir,2025-26,12,December,0.0,79.48,3271.0,2.5519,-9.51
+Jammu and Kashmir,2025-26,7,July,0.0,79.48,2731.0,5.9124,11.07
+Jammu and Kashmir,2025-26,6,June,0.0,79.48,2906.0,7.2751,7.62
+Jammu and Kashmir,2025-26,5,May,0.0,79.48,2797.0,6.3626,3.24
+Jammu and Kashmir,2025-26,11,November,0.0,79.48,3016.0,4.3699,-6.92
+Jammu and Kashmir,2025-26,10,October,0.0,79.48,2723.0,4.7009,-1.58
+Jammu and Kashmir,2025-26,9,September,0.0,79.48,2726.0,5.519,6.01
 Jharkhand,2015-16,4,April,1.66,20.41,1061.0,5.5946,27.91
 Jharkhand,2015-16,8,August,1.39,20.41,1115.0,4.6639,25.45
 Jharkhand,2015-16,12,December,1.21,20.41,1151.0,2.8802,17.05
@@ -1680,11 +1660,10 @@ Jharkhand,2015-16,1,January,1.33,20.41,1117.0,3.5189,16.45
 Jharkhand,2015-16,7,July,1.11,20.41,1101.0,3.9266,25.67
 Jharkhand,2015-16,6,June,1.48,20.41,1101.0,4.9807,29.57
 Jharkhand,2015-16,3,March,3.63,20.41,1153.0,5.3774,25.55
-Jharkhand,2015-16,5,May,1.74,20.41,1085.0,6.0372,31.46
+Jharkhand,2015-16,5,May,1.74,20.41,1067.0,6.0372,31.46
 Jharkhand,2015-16,11,November,1.49,20.41,1127.0,3.925,20.35
 Jharkhand,2015-16,10,October,1.75,20.41,1103.0,4.789,22.98
 Jharkhand,2015-16,9,September,1.6,20.41,1085.0,5.0518,25.05
-Jharkhand,2016-17,4,April,1.94,33.26,1177.0,6.6163,32.27
 Jharkhand,2016-17,8,August,3.12,33.26,1142.0,4.3874,25.26
 Jharkhand,2016-17,12,December,2.93,33.26,1194.0,3.7524,14.38
 Jharkhand,2016-17,2,February,3.25,33.26,1165.0,4.9102,19.6
@@ -1809,7 +1788,7 @@ Karnataka,2015-16,1,January,18.58,158.41,9734.0,5.071,23.54
 Karnataka,2015-16,7,July,13.32,158.41,9184.0,5.0462,25.85
 Karnataka,2015-16,6,June,10.5,158.41,8428.0,5.0988,25.93
 Karnataka,2015-16,3,March,20.66,158.41,10202.0,6.4608,30.12
-Karnataka,2015-16,5,May,12.13,158.41,8930.0,6.4534,29.64
+Karnataka,2015-16,5,May,12.13,158.41,8746.0,6.4534,29.64
 Karnataka,2015-16,11,November,13.96,158.41,8273.0,4.5622,24.45
 Karnataka,2015-16,10,October,18.49,158.41,9255.0,5.2277,24.94
 Karnataka,2015-16,9,September,16.64,158.41,9000.0,5.0597,24.57
@@ -1938,7 +1917,7 @@ Kerala,2015-16,1,January,1.74,21.16,3537.0,5.2798,24.98
 Kerala,2015-16,7,July,0.0,21.16,3510.0,4.6294,24.57
 Kerala,2015-16,6,June,0.0,21.16,3672.0,4.397,25.19
 Kerala,2015-16,3,March,1.86,21.16,3977.0,6.2071,29.19
-Kerala,2015-16,5,May,0.0,21.16,3723.0,4.9394,26.49
+Kerala,2015-16,5,May,0.0,21.16,3632.0,4.9394,26.49
 Kerala,2015-16,11,November,0.82,21.16,3545.0,4.3018,24.26
 Kerala,2015-16,10,October,0.12,21.16,3469.0,4.9034,25.21
 Kerala,2015-16,9,September,0.0,21.16,3597.0,5.4096,24.89
@@ -2071,7 +2050,6 @@ Lakshadweep,2015-16,5,May,0.15,3.02,8.0,5.339,29.36
 Lakshadweep,2015-16,11,November,0.07,3.02,8.0,4.3901,28.39
 Lakshadweep,2015-16,10,October,0.08,3.02,8.0,4.913,28.4
 Lakshadweep,2015-16,9,September,0.0,3.02,8.0,5.4197,27.89
-Lakshadweep,2016-17,4,April,0.07,2.98,8.0,6.6161,29.51
 Lakshadweep,2016-17,8,August,0.06,2.98,8.0,6.0043,28.02
 Lakshadweep,2016-17,12,December,0.19,2.98,8.0,4.9584,27.86
 Lakshadweep,2016-17,2,February,0.2,2.98,8.0,6.0547,27.61
@@ -2196,11 +2174,10 @@ Madhya Pradesh,2015-16,1,January,110.65,783.0,10796.0,4.4309,19.53
 Madhya Pradesh,2015-16,7,July,57.31,783.0,7130.0,4.1136,27.13
 Madhya Pradesh,2015-16,6,June,101.48,783.0,7127.0,5.6364,32.11
 Madhya Pradesh,2015-16,3,March,131.05,783.0,9056.0,6.0461,28.48
-Madhya Pradesh,2015-16,5,May,95.71,783.0,7159.0,7.0541,36.36
+Madhya Pradesh,2015-16,5,May,95.71,783.0,7158.0,7.0541,36.36
 Madhya Pradesh,2015-16,11,November,89.63,783.0,10160.0,4.385,23.83
 Madhya Pradesh,2015-16,10,October,108.9,783.0,9975.0,5.1156,26.01
 Madhya Pradesh,2015-16,9,September,104.17,783.0,8377.0,5.3758,25.93
-Madhya Pradesh,2016-17,4,April,131.28,868.21,8145.0,7.0572,33.65
 Madhya Pradesh,2016-17,8,August,74.24,868.21,6759.0,3.2294,25.53
 Madhya Pradesh,2016-17,12,December,132.87,868.21,11512.0,4.547,18.27
 Madhya Pradesh,2016-17,2,February,134.53,868.21,10915.0,5.609,22.86
@@ -2211,6 +2188,7 @@ Madhya Pradesh,2016-17,3,March,156.83,868.21,9848.0,6.6979,27.42
 Madhya Pradesh,2016-17,5,May,133.94,868.21,7980.0,7.2516,36.37
 Madhya Pradesh,2016-17,11,November,128.09,868.21,10894.0,4.9138,20.42
 Madhya Pradesh,2016-17,10,October,126.46,868.21,8832.0,5.3323,23.73
+Madhya Pradesh,2016-17,9,September,115.43,868.21,7910.0,4.6894,25.9
 Madhya Pradesh,2017-18,4,April,155.65,1322.6,8402.0,7.5624,32.99
 Madhya Pradesh,2017-18,8,August,148.76,1322.6,8249.0,3.871,26.6
 Madhya Pradesh,2017-18,12,December,182.48,1322.6,12338.0,4.2122,19.81
@@ -2324,7 +2302,7 @@ Maharashtra,2015-16,1,January,55.25,390.88,18188.0,4.8456,21.61
 Maharashtra,2015-16,7,July,40.25,390.88,19734.0,4.9397,26.89
 Maharashtra,2015-16,6,June,40.26,390.88,19290.0,5.4545,28.37
 Maharashtra,2015-16,3,March,57.46,390.88,19218.0,6.4068,28.64
-Maharashtra,2015-16,5,May,48.28,390.88,19886.0,6.8983,33.06
+Maharashtra,2015-16,5,May,48.28,390.88,19722.0,6.8983,33.06
 Maharashtra,2015-16,11,November,51.02,390.88,20213.0,4.4899,24.77
 Maharashtra,2015-16,10,October,112.25,390.88,20973.0,5.0417,25.95
 Maharashtra,2015-16,9,September,43.78,390.88,19247.0,5.0945,25.38
@@ -2339,6 +2317,7 @@ Maharashtra,2016-17,3,March,60.35,460.69,22516.0,6.8146,27.73
 Maharashtra,2016-17,5,May,55.06,460.69,19916.0,7.1678,33.25
 Maharashtra,2016-17,11,November,52.07,460.69,20305.0,5.0882,19.78
 Maharashtra,2016-17,10,October,48.94,460.69,20499.0,5.1708,22.57
+Maharashtra,2016-17,9,September,37.6,460.69,20240.0,4.1693,24.52
 Maharashtra,2017-18,4,April,58.99,1251.4,22542.0,7.4652,31.47
 Maharashtra,2017-18,8,August,69.65,1251.4,20015.0,4.2401,25.7
 Maharashtra,2017-18,12,December,104.37,1251.4,19971.0,4.2161,20.17
@@ -2452,7 +2431,7 @@ Manipur,2015-16,1,January,0.0,1.61,168.0,3.9886,13.94
 Manipur,2015-16,7,July,0.0,1.61,139.0,4.0282,23.83
 Manipur,2015-16,6,June,0.0,1.61,149.0,4.7434,25.35
 Manipur,2015-16,3,March,0.0,1.61,155.0,5.1696,21.73
-Manipur,2015-16,5,May,0.0,1.61,160.0,4.9742,24.44
+Manipur,2015-16,5,May,0.0,1.61,153.0,4.9742,24.44
 Manipur,2015-16,11,November,0.0,1.61,164.0,4.5187,18.68
 Manipur,2015-16,10,October,0.0,1.61,146.0,4.6234,21.47
 Manipur,2015-16,9,September,0.0,1.61,146.0,4.4182,23.81
@@ -2581,7 +2560,7 @@ Meghalaya,2015-16,1,January,0.0,1.53,379.0,3.3989,12.17
 Meghalaya,2015-16,7,July,0.0,1.53,316.0,4.0342,23.2
 Meghalaya,2015-16,6,June,0.0,1.53,302.0,3.9302,23.17
 Meghalaya,2015-16,3,March,0.0,1.53,315.0,4.968,19.14
-Meghalaya,2015-16,5,May,0.0,1.53,400.0,4.4875,22.11
+Meghalaya,2015-16,5,May,0.0,1.53,295.0,4.4875,22.11
 Meghalaya,2015-16,11,November,0.0,1.53,336.0,4.2293,17.45
 Meghalaya,2015-16,10,October,0.0,1.53,323.0,4.6044,20.67
 Meghalaya,2015-16,9,September,0.0,1.53,285.0,3.8988,22.66
@@ -2710,7 +2689,7 @@ Mizoram,2015-16,1,January,0.0,1.87,102.0,3.9866,13.77
 Mizoram,2015-16,7,July,0.0,1.87,78.0,3.929,23.11
 Mizoram,2015-16,6,June,0.0,1.87,82.0,4.4916,24.04
 Mizoram,2015-16,3,March,0.0,1.87,86.0,5.1581,21.67
-Mizoram,2015-16,5,May,0.0,1.87,85.0,4.9399,23.71
+Mizoram,2015-16,5,May,0.0,1.87,84.0,4.9399,23.71
 Mizoram,2015-16,11,November,0.0,1.87,90.0,4.6286,17.94
 Mizoram,2015-16,10,October,0.0,1.87,81.0,4.6087,21.14
 Mizoram,2015-16,9,September,0.0,1.87,90.0,4.4174,23.25
@@ -2839,7 +2818,7 @@ Nagaland,2015-16,1,January,0.0,1.56,122.0,3.3228,12.67
 Nagaland,2015-16,7,July,0.0,1.56,140.0,4.8036,24.13
 Nagaland,2015-16,6,June,0.0,1.56,123.0,4.3411,24.94
 Nagaland,2015-16,3,March,0.0,1.56,114.0,4.4957,19.81
-Nagaland,2015-16,5,May,0.0,1.56,120.0,4.5038,24.21
+Nagaland,2015-16,5,May,0.0,1.56,112.0,4.5038,24.21
 Nagaland,2015-16,11,November,0.0,1.56,121.0,4.1206,17.78
 Nagaland,2015-16,10,October,0.0,1.56,122.0,4.693,21.28
 Nagaland,2015-16,9,September,0.0,1.56,121.0,4.5259,23.9
@@ -2968,7 +2947,7 @@ Odisha,2015-16,1,January,16.35,70.16,3739.0,3.9665,20.35
 Odisha,2015-16,7,July,12.77,70.16,3866.0,3.883,27.2
 Odisha,2015-16,6,June,9.25,70.16,3846.0,4.9109,29.85
 Odisha,2015-16,3,March,18.21,70.16,4091.0,5.351,29.36
-Odisha,2015-16,5,May,6.39,70.16,3902.0,6.3586,33.47
+Odisha,2015-16,5,May,6.39,70.16,3880.0,6.3586,33.47
 Odisha,2015-16,11,November,19.04,70.16,3884.0,4.1916,22.3
 Odisha,2015-16,10,October,17.77,70.16,4015.0,4.8134,25.33
 Odisha,2015-16,9,September,14.18,70.16,3770.0,4.6128,26.75
@@ -3097,7 +3076,7 @@ Puducherry,2015-16,1,January,0.0,0.21,320.0,4.937,25.04
 Puducherry,2015-16,7,July,0.0,0.21,352.0,5.9935,30.29
 Puducherry,2015-16,6,June,0.0,0.21,357.0,5.7878,29.98
 Puducherry,2015-16,3,March,0.0,0.21,353.0,6.4068,28.18
-Puducherry,2015-16,5,May,0.0,0.21,343.0,5.3959,29.98
+Puducherry,2015-16,5,May,0.0,0.21,342.0,5.3959,29.98
 Puducherry,2015-16,11,November,0.0,0.21,319.0,3.3641,26.82
 Puducherry,2015-16,10,October,0.0,0.21,342.0,5.1622,28.26
 Puducherry,2015-16,9,September,0.0,0.21,368.0,5.5807,28.91
@@ -3268,85 +3247,85 @@ Punjab,2018-19,10,October,117.84,918.73,7990.0,4.7422,23.92
 Punjab,2018-19,9,September,119.88,918.73,11405.0,4.8305,28.03
 Punjab,2019-20,4,April,141.73,961.71,7087.0,6.3002,28.81
 Punjab,2019-20,8,August,124.46,961.71,12009.0,5.2411,29.64
-Punjab,2019-20,12,December,55.39,961.71,13850.0,2.1672,12.1
-Punjab,2019-20,2,February,114.06,961.71,14277.0,4.038,14.87
-Punjab,2019-20,1,January,82.46,961.71,14017.0,2.6501,10.82
+Punjab,2019-20,12,December,55.39,961.71,6767.0,2.1672,12.1
+Punjab,2019-20,2,February,114.06,961.71,7078.0,4.038,14.87
+Punjab,2019-20,1,January,82.46,961.71,6327.0,2.6501,10.82
 Punjab,2019-20,7,July,118.3,961.71,13606.0,4.8626,33.03
 Punjab,2019-20,6,June,145.13,961.71,13149.0,6.984,36.85
-Punjab,2019-20,3,March,115.63,961.71,13599.0,4.5593,18.89
+Punjab,2019-20,3,March,115.63,961.71,5758.0,4.5593,18.89
 Punjab,2019-20,5,May,152.2,961.71,8850.0,6.8482,32.77
-Punjab,2019-20,11,November,83.77,961.71,11980.0,2.8834,19.07
+Punjab,2019-20,11,November,83.77,961.71,5503.0,2.8834,19.07
 Punjab,2019-20,10,October,109.38,961.71,7348.0,4.3445,23.87
 Punjab,2019-20,9,September,115.72,961.71,11825.0,4.7674,28.72
-Punjab,2020-21,4,April,137.98,982.3,9304.0,6.1855,25.58
-Punjab,2020-21,8,August,116.86,982.3,12211.0,4.9795,30.72
-Punjab,2020-21,12,December,81.52,982.3,14335.0,2.7156,13.36
-Punjab,2020-21,2,February,105.24,982.3,14441.0,3.906,17.69
-Punjab,2020-21,1,January,74.1,982.3,14364.0,2.514,11.96
-Punjab,2020-21,7,July,130.92,982.3,13079.0,5.8805,33.28
-Punjab,2020-21,6,June,128.87,982.3,12755.0,6.281,34.31
-Punjab,2020-21,3,March,126.22,982.3,14040.0,5.0866,24.26
-Punjab,2020-21,5,May,135.24,982.3,12050.0,6.4973,31.77
-Punjab,2020-21,11,November,78.31,982.3,13050.0,3.3926,18.02
-Punjab,2020-21,10,October,122.08,982.3,12718.0,5.0222,25.5
-Punjab,2020-21,9,September,119.15,982.3,12742.0,5.4434,29.73
-Punjab,2021-22,4,April,144.27,1100.07,11570.0,6.0247,27.24
-Punjab,2021-22,8,August,132.95,1100.07,14690.0,5.4643,30.95
-Punjab,2021-22,12,December,108.59,1100.07,15752.0,3.0046,13.21
-Punjab,2021-22,2,February,82.02,1100.07,15784.0,4.0416,14.35
-Punjab,2021-22,1,January,82.02,1100.07,15634.0,2.0232,11.7
-Punjab,2021-22,7,July,125.02,1100.07,13974.0,4.8948,33.43
-Punjab,2021-22,6,June,137.92,1100.07,12787.0,6.4068,34.67
-Punjab,2021-22,3,March,169.36,1100.07,15749.0,5.5824,23.67
-Punjab,2021-22,5,May,129.36,1100.07,11531.0,6.1733,32.73
-Punjab,2021-22,11,November,125.01,1100.07,14253.0,3.8131,18.19
-Punjab,2021-22,10,October,125.01,1100.07,12767.0,4.5857,24.69
-Punjab,2021-22,9,September,111.89,1100.07,12047.0,4.4659,28.8
-Punjab,2022-23,4,April,165.42,1167.26,14291.0,6.5117,31.59
-Punjab,2022-23,8,August,181.95,1167.26,13808.0,5.4974,29.0
-Punjab,2022-23,12,December,240.87,1167.26,16777.0,2.801,14.49
-Punjab,2022-23,2,February,285.01,1167.26,16754.0,4.1172,17.72
-Punjab,2022-23,1,January,245.95,1167.26,17399.0,2.5092,11.47
-Punjab,2022-23,7,July,157.78,1167.26,12332.0,4.4126,31.03
-Punjab,2022-23,6,June,198.87,1167.26,16012.0,6.355,35.84
-Punjab,2022-23,3,March,327.91,1167.26,15833.0,4.8305,22.15
-Punjab,2022-23,5,May,188.22,1167.26,15949.0,6.379,34.74
-Punjab,2022-23,11,November,283.48,1167.26,16023.0,3.5119,18.87
-Punjab,2022-23,10,October,283.48,1167.26,14072.0,4.7009,23.95
-Punjab,2022-23,9,September,219.73,1167.26,15843.0,5.0141,28.46
-Punjab,2023-24,4,April,338.65,1324.27,13776.0,6.2033,26.3
-Punjab,2023-24,8,August,323.14,1324.27,17420.0,5.4331,29.39
-Punjab,2023-24,12,December,73.7,1324.27,17570.0,2.8553,13.84
-Punjab,2023-24,2,February,99.87,1324.27,17867.0,4.0534,14.28
-Punjab,2023-24,1,January,38.65,1324.27,18128.0,1.818,11.42
-Punjab,2023-24,7,July,301.99,1324.27,14204.0,4.3591,29.95
-Punjab,2023-24,6,June,326.67,1324.27,15840.0,6.3708,33.2
-Punjab,2023-24,3,March,132.1,1324.27,17030.0,4.9942,20.61
-Punjab,2023-24,5,May,351.81,1324.27,16470.0,6.2935,30.11
-Punjab,2023-24,11,November,69.99,1324.27,16409.0,3.1294,18.88
-Punjab,2023-24,10,October,303.59,1324.27,15641.0,4.5504,23.05
-Punjab,2023-24,9,September,313.84,1324.27,17956.0,4.95,27.66
-Punjab,2024-25,4,April,127.54,1421.43,14283.0,6.0653,27.46
-Punjab,2024-25,8,August,120.12,1421.43,13409.0,4.9178,29.98
-Punjab,2024-25,12,December,80.13,1421.43,18643.0,2.8397,13.44
-Punjab,2024-25,2,February,109.21,1421.43,19165.0,3.6473,16.84
-Punjab,2024-25,1,January,90.25,1421.43,18752.0,2.9234,13.56
-Punjab,2024-25,7,July,135.02,1421.43,16371.0,5.1281,34.24
-Punjab,2024-25,6,June,120.67,1421.43,17774.0,6.4879,37.94
-Punjab,2024-25,3,March,142.3,1421.43,17763.0,5.681,22.06
-Punjab,2024-25,5,May,136.17,1421.43,17567.0,7.0469,34.99
-Punjab,2024-25,11,November,71.0,1421.43,17434.0,3.0746,21.02
-Punjab,2024-25,10,October,123.58,1421.43,16206.0,4.7844,26.53
-Punjab,2024-25,9,September,116.74,1421.43,16292.0,4.9524,28.86
+Punjab,2020-21,4,April,137.98,982.3,5113.0,6.1855,25.58
+Punjab,2020-21,8,August,116.86,982.3,12815.0,4.9795,30.72
+Punjab,2020-21,12,December,81.52,982.3,6707.0,2.7156,13.36
+Punjab,2020-21,2,February,105.24,982.3,7118.0,3.906,17.69
+Punjab,2020-21,1,January,74.1,982.3,7017.0,2.514,11.96
+Punjab,2020-21,7,July,130.92,982.3,13148.0,5.8805,33.28
+Punjab,2020-21,6,June,128.87,982.3,12683.0,6.281,34.31
+Punjab,2020-21,3,March,126.22,982.3,7440.0,5.0866,24.26
+Punjab,2020-21,5,May,135.24,982.3,8201.0,6.4973,31.77
+Punjab,2020-21,11,November,78.31,982.3,6002.0,3.3926,18.02
+Punjab,2020-21,10,October,122.08,982.3,8940.0,5.0222,25.5
+Punjab,2020-21,9,September,119.15,982.3,12433.0,5.4434,29.73
+Punjab,2021-22,4,April,144.27,1100.07,6860.0,6.0247,27.24
+Punjab,2021-22,8,August,132.95,1100.07,13215.0,5.4643,30.95
+Punjab,2021-22,12,December,108.59,1100.07,7337.0,3.0046,13.21
+Punjab,2021-22,2,February,82.02,1100.07,7076.0,4.0416,14.35
+Punjab,2021-22,1,January,82.02,1100.07,7105.0,2.0232,11.7
+Punjab,2021-22,7,July,125.02,1100.07,13556.0,4.8948,33.43
+Punjab,2021-22,6,June,137.92,1100.07,13359.0,6.4068,34.67
+Punjab,2021-22,3,March,169.36,1100.07,8475.0,5.5824,23.67
+Punjab,2021-22,5,May,129.36,1100.07,8195.0,6.1733,32.73
+Punjab,2021-22,11,November,125.01,1100.07,6405.0,3.8131,18.19
+Punjab,2021-22,10,October,125.01,1100.07,9625.0,4.5857,24.69
+Punjab,2021-22,9,September,111.89,1100.07,12002.0,4.4659,28.8
+Punjab,2022-23,4,April,165.42,1167.26,9889.0,6.5117,31.59
+Punjab,2022-23,8,August,181.95,1167.26,14298.0,5.4974,29.0
+Punjab,2022-23,12,December,240.87,1167.26,7989.0,2.801,14.49
+Punjab,2022-23,2,February,285.01,1167.26,8864.0,4.1172,17.72
+Punjab,2022-23,1,January,245.95,1167.26,9063.0,2.5092,11.47
+Punjab,2022-23,7,July,157.78,1167.26,14069.0,4.4126,31.03
+Punjab,2022-23,6,June,198.87,1167.26,14311.0,6.355,35.84
+Punjab,2022-23,3,March,327.91,1167.26,8840.0,4.8305,22.15
+Punjab,2022-23,5,May,188.22,1167.26,10887.0,6.379,34.74
+Punjab,2022-23,11,November,283.48,1167.26,7267.0,3.5119,18.87
+Punjab,2022-23,10,October,283.48,1167.26,11479.0,4.7009,23.95
+Punjab,2022-23,9,September,219.73,1167.26,14187.0,5.0141,28.46
+Punjab,2023-24,4,April,338.65,1324.27,8187.0,6.2033,26.3
+Punjab,2023-24,8,August,323.14,1324.27,15132.0,5.4331,29.39
+Punjab,2023-24,12,December,73.7,1324.27,8041.0,2.8553,13.84
+Punjab,2023-24,2,February,99.87,1324.27,10180.0,4.0534,14.28
+Punjab,2023-24,1,January,38.65,1324.27,9370.0,1.818,11.42
+Punjab,2023-24,7,July,301.99,1324.27,14665.0,4.3591,29.95
+Punjab,2023-24,6,June,326.67,1324.27,15293.0,6.3708,33.2
+Punjab,2023-24,3,March,132.1,1324.27,10112.0,4.9942,20.61
+Punjab,2023-24,5,May,351.81,1324.27,11725.0,6.2935,30.11
+Punjab,2023-24,11,November,69.99,1324.27,7380.0,3.1294,18.88
+Punjab,2023-24,10,October,303.59,1324.27,12213.0,4.5504,23.05
+Punjab,2023-24,9,September,313.84,1324.27,14964.0,4.95,27.66
+Punjab,2024-25,4,April,127.54,1421.43,9914.0,6.0653,27.46
+Punjab,2024-25,8,August,120.12,1421.43,15307.0,4.9178,29.98
+Punjab,2024-25,12,December,80.13,1421.43,9381.0,2.8397,13.44
+Punjab,2024-25,2,February,109.21,1421.43,10165.0,3.6473,16.84
+Punjab,2024-25,1,January,90.25,1421.43,9869.0,2.9234,13.56
+Punjab,2024-25,7,July,135.02,1421.43,16006.0,5.1281,34.24
+Punjab,2024-25,6,June,120.67,1421.43,16058.0,6.4879,37.94
+Punjab,2024-25,3,March,142.3,1421.43,10083.0,5.681,22.06
+Punjab,2024-25,5,May,136.17,1421.43,14366.0,7.0469,34.99
+Punjab,2024-25,11,November,71.0,1421.43,8755.0,3.0746,21.02
+Punjab,2024-25,10,October,123.58,1421.43,14311.0,4.7844,26.53
+Punjab,2024-25,9,September,116.74,1421.43,15310.0,4.9524,28.86
 Punjab,2025-26,4,April,139.89,1584.94,10919.0,6.3576,30.91
-Punjab,2025-26,8,August,102.16,1584.94,17607.0,4.2571,28.74
-Punjab,2025-26,12,December,84.86,1584.94,19100.0,2.725,14.18
-Punjab,2025-26,7,July,109.89,1584.94,14685.0,4.2758,30.02
-Punjab,2025-26,6,June,121.14,1584.94,18509.0,5.3921,34.49
-Punjab,2025-26,5,May,142.98,1584.94,17336.0,6.1958,33.8
-Punjab,2025-26,11,November,110.74,1584.94,17859.0,3.8251,17.12
-Punjab,2025-26,10,October,110.74,1584.94,14165.0,4.5566,23.64
-Punjab,2025-26,9,September,122.11,1584.94,16020.0,5.1084,27.47
+Punjab,2025-26,8,August,102.16,1584.94,16310.0,4.2571,28.74
+Punjab,2025-26,12,December,84.86,1584.94,10172.0,2.725,14.18
+Punjab,2025-26,7,July,109.89,1584.94,16670.0,4.2758,30.02
+Punjab,2025-26,6,June,121.14,1584.94,16428.0,5.3921,34.49
+Punjab,2025-26,5,May,142.98,1584.94,13969.0,6.1958,33.8
+Punjab,2025-26,11,November,110.74,1584.94,9647.0,3.8251,17.12
+Punjab,2025-26,10,October,110.74,1584.94,12989.0,4.5566,23.64
+Punjab,2025-26,9,September,122.11,1584.94,14440.0,5.1084,27.47
 Rajasthan,2015-16,4,April,111.89,1346.09,7798.0,6.9326,28.89
 Rajasthan,2015-16,8,August,150.97,1346.09,10080.0,5.7797,29.37
 Rajasthan,2015-16,12,December,148.17,1346.09,10123.0,3.7133,16.23
@@ -3359,7 +3338,6 @@ Rajasthan,2015-16,5,May,128.48,1346.09,8577.0,7.4021,34.02
 Rajasthan,2015-16,11,November,136.19,1346.09,9780.0,3.864,21.52
 Rajasthan,2015-16,10,October,172.87,1346.09,9453.0,5.3594,27.14
 Rajasthan,2015-16,9,September,169.8,1346.09,10961.0,6.0794,29.4
-Rajasthan,2016-17,4,April,201.36,1907.99,9027.0,7.0306,30.89
 Rajasthan,2016-17,8,August,156.16,1907.99,7807.0,5.4778,28.26
 Rajasthan,2016-17,12,December,164.19,1907.99,10613.0,3.9005,18.73
 Rajasthan,2016-17,2,February,195.21,1907.99,10527.0,5.1706,18.82
@@ -3397,85 +3375,85 @@ Rajasthan,2018-19,10,October,393.88,3364.03,11450.0,5.0798,26.19
 Rajasthan,2018-19,9,September,403.45,3364.03,10612.0,5.051,27.69
 Rajasthan,2019-20,4,April,527.89,5275.27,10560.0,6.8986,31.26
 Rajasthan,2019-20,8,August,529.64,5275.27,10699.0,5.3234,28.44
-Rajasthan,2019-20,12,December,657.74,5275.27,17712.0,3.3026,13.47
-Rajasthan,2019-20,2,February,839.22,5275.27,16777.0,4.7998,17.79
-Rajasthan,2019-20,1,January,701.08,5275.27,16987.0,3.5928,13.15
+Rajasthan,2019-20,12,December,657.74,5275.27,13850.0,3.3026,13.47
+Rajasthan,2019-20,2,February,839.22,5275.27,14277.0,4.7998,17.79
+Rajasthan,2019-20,1,January,701.08,5275.27,14017.0,3.5928,13.15
 Rajasthan,2019-20,7,July,525.37,5275.27,12351.0,5.3587,31.72
 Rajasthan,2019-20,6,June,609.74,5275.27,12620.0,6.9192,36.42
-Rajasthan,2019-20,3,March,893.35,5275.27,14592.0,5.4168,21.83
+Rajasthan,2019-20,3,March,893.35,5275.27,13599.0,5.4168,21.83
 Rajasthan,2019-20,5,May,609.27,5275.27,11791.0,7.2216,33.53
-Rajasthan,2019-20,11,November,563.77,5275.27,15271.0,3.3283,21.75
+Rajasthan,2019-20,11,November,563.77,5275.27,11980.0,3.3283,21.75
 Rajasthan,2019-20,10,October,702.47,5275.27,10533.0,4.7969,25.31
 Rajasthan,2019-20,9,September,617.03,5275.27,11553.0,5.3318,28.23
-Rajasthan,2020-21,4,April,899.43,5925.6,16889.0,6.6192,29.41
-Rajasthan,2020-21,8,August,791.56,5925.6,23020.0,5.0801,30.08
-Rajasthan,2020-21,12,December,797.88,5925.6,18185.0,3.7241,16.78
-Rajasthan,2020-21,2,February,867.5,5925.6,18308.0,5.1646,20.62
-Rajasthan,2020-21,1,January,801.05,5925.6,18995.0,3.5839,14.91
-Rajasthan,2020-21,7,July,887.27,5925.6,23419.0,5.9134,32.67
-Rajasthan,2020-21,6,June,905.55,5925.6,22110.0,6.81,34.41
-Rajasthan,2020-21,3,March,987.16,5925.6,18593.0,5.9832,26.75
-Rajasthan,2020-21,5,May,962.36,5925.6,21331.0,7.2,34.07
-Rajasthan,2020-21,11,November,762.65,5925.6,15496.0,3.8933,19.99
-Rajasthan,2020-21,10,October,886.46,5925.6,21029.0,5.0494,26.88
-Rajasthan,2020-21,9,September,835.37,5925.6,23797.0,5.3933,29.34
-Rajasthan,2021-22,4,April,1031.09,12564.87,19837.0,7.0819,30.28
-Rajasthan,2021-22,8,August,1279.34,12564.87,23963.0,5.6914,30.54
-Rajasthan,2021-22,12,December,1294.77,12564.87,18587.0,3.2714,15.71
-Rajasthan,2021-22,2,February,2013.7,12564.87,19088.0,5.0126,18.45
-Rajasthan,2021-22,1,January,1756.63,12564.87,19840.0,3.4296,13.83
-Rajasthan,2021-22,7,July,1121.04,12564.87,24965.0,5.3911,32.39
-Rajasthan,2021-22,6,June,1119.77,12564.87,24574.0,6.6686,33.99
-Rajasthan,2021-22,3,March,2469.9,12564.87,20479.0,6.2868,26.96
-Rajasthan,2021-22,5,May,1036.04,12564.87,20604.0,6.2117,32.44
-Rajasthan,2021-22,11,November,1375.56,12564.87,16119.0,3.8818,20.63
-Rajasthan,2021-22,10,October,1555.77,12564.87,20174.0,5.0854,25.79
-Rajasthan,2021-22,9,September,1166.27,12564.87,22990.0,4.4669,28.23
-Rajasthan,2022-23,4,April,2589.56,17055.7,21146.0,7.104,32.86
-Rajasthan,2022-23,8,August,2555.92,17055.7,25437.0,4.921,27.7
-Rajasthan,2022-23,12,December,2840.35,17055.7,19970.0,3.8798,17.06
-Rajasthan,2022-23,2,February,2999.11,17055.7,18602.0,5.1432,20.84
-Rajasthan,2022-23,1,January,2983.92,17055.7,21342.0,3.7565,13.64
-Rajasthan,2022-23,7,July,2431.45,17055.7,25951.0,5.0479,29.61
-Rajasthan,2022-23,6,June,2822.97,17055.7,25456.0,6.51,34.16
-Rajasthan,2022-23,3,March,3371.18,17055.7,19572.0,5.2666,23.97
-Rajasthan,2022-23,5,May,2920.32,17055.7,25046.0,6.9158,35.21
-Rajasthan,2022-23,11,November,2739.45,17055.7,17387.0,4.1614,21.96
-Rajasthan,2022-23,10,October,3170.3,17055.7,22631.0,5.1029,25.72
-Rajasthan,2022-23,9,September,3049.9,17055.7,27369.0,5.5361,28.64
-Rajasthan,2023-24,4,April,3395.19,21347.58,23473.0,6.517,28.38
-Rajasthan,2023-24,8,August,3063.64,21347.58,27689.0,5.5337,28.11
-Rajasthan,2023-24,12,December,2900.31,21347.58,19874.0,3.6125,17.06
-Rajasthan,2023-24,2,February,3292.16,21347.58,20346.0,4.6121,17.74
-Rajasthan,2023-24,1,January,2767.32,21347.58,22703.0,3.3955,14.53
-Rajasthan,2023-24,7,July,3152.47,21347.58,28704.0,5.364,29.35
-Rajasthan,2023-24,6,June,3324.99,21347.58,27611.0,6.4536,30.57
-Rajasthan,2023-24,3,March,4030.83,21347.58,21243.0,5.9786,24.08
-Rajasthan,2023-24,5,May,3499.54,21347.58,26386.0,6.7706,30.95
-Rajasthan,2023-24,11,November,2405.77,21347.58,19033.0,3.2539,21.66
-Rajasthan,2023-24,10,October,3267.98,21347.58,24096.0,5.0532,26.52
-Rajasthan,2023-24,9,September,3265.01,21347.58,27389.0,5.4756,29.39
-Rajasthan,2024-25,4,April,3956.09,28286.47,25462.0,6.132,29.69
-Rajasthan,2024-25,8,August,3290.37,28286.47,29126.0,4.3901,28.09
-Rajasthan,2024-25,12,December,3702.04,28286.47,20666.0,3.3869,15.45
-Rajasthan,2024-25,2,February,3769.24,28286.47,20456.0,4.7074,20.21
-Rajasthan,2024-25,1,January,3854.0,28286.47,22034.0,3.8198,15.54
-Rajasthan,2024-25,7,July,4147.31,28286.47,30298.0,5.1703,32.22
-Rajasthan,2024-25,6,June,4239.95,28286.47,30618.0,6.2256,35.53
-Rajasthan,2024-25,3,March,5529.16,28286.47,21869.0,6.2633,25.12
-Rajasthan,2024-25,5,May,4511.61,28286.47,29727.0,7.0831,35.9
-Rajasthan,2024-25,11,November,3853.68,28286.47,19929.0,3.8899,22.68
-Rajasthan,2024-25,10,October,4278.62,28286.47,26756.0,4.9531,27.26
-Rajasthan,2024-25,9,September,3969.55,28286.47,29347.0,4.9894,28.24
+Rajasthan,2020-21,4,April,899.43,5925.6,9304.0,6.6192,29.41
+Rajasthan,2020-21,8,August,791.56,5925.6,12211.0,5.0801,30.08
+Rajasthan,2020-21,12,December,797.88,5925.6,14335.0,3.7241,16.78
+Rajasthan,2020-21,2,February,867.5,5925.6,14441.0,5.1646,20.62
+Rajasthan,2020-21,1,January,801.05,5925.6,14364.0,3.5839,14.91
+Rajasthan,2020-21,7,July,887.27,5925.6,13079.0,5.9134,32.67
+Rajasthan,2020-21,6,June,905.55,5925.6,12755.0,6.81,34.41
+Rajasthan,2020-21,3,March,987.16,5925.6,14040.0,5.9832,26.75
+Rajasthan,2020-21,5,May,962.36,5925.6,12050.0,7.2,34.07
+Rajasthan,2020-21,11,November,762.65,5925.6,13050.0,3.8933,19.99
+Rajasthan,2020-21,10,October,886.46,5925.6,12718.0,5.0494,26.88
+Rajasthan,2020-21,9,September,835.37,5925.6,12742.0,5.3933,29.34
+Rajasthan,2021-22,4,April,1031.09,12564.87,11570.0,7.0819,30.28
+Rajasthan,2021-22,8,August,1279.34,12564.87,14690.0,5.6914,30.54
+Rajasthan,2021-22,12,December,1294.77,12564.87,15752.0,3.2714,15.71
+Rajasthan,2021-22,2,February,2013.7,12564.87,15784.0,5.0126,18.45
+Rajasthan,2021-22,1,January,1756.63,12564.87,15634.0,3.4296,13.83
+Rajasthan,2021-22,7,July,1121.04,12564.87,13974.0,5.3911,32.39
+Rajasthan,2021-22,6,June,1119.77,12564.87,12787.0,6.6686,33.99
+Rajasthan,2021-22,3,March,2469.9,12564.87,15749.0,6.2868,26.96
+Rajasthan,2021-22,5,May,1036.04,12564.87,11531.0,6.2117,32.44
+Rajasthan,2021-22,11,November,1375.56,12564.87,14253.0,3.8818,20.63
+Rajasthan,2021-22,10,October,1555.77,12564.87,12767.0,5.0854,25.79
+Rajasthan,2021-22,9,September,1166.27,12564.87,12047.0,4.4669,28.23
+Rajasthan,2022-23,4,April,2589.56,17055.7,14291.0,7.104,32.86
+Rajasthan,2022-23,8,August,2555.92,17055.7,13808.0,4.921,27.7
+Rajasthan,2022-23,12,December,2840.35,17055.7,16777.0,3.8798,17.06
+Rajasthan,2022-23,2,February,2999.11,17055.7,16754.0,5.1432,20.84
+Rajasthan,2022-23,1,January,2983.92,17055.7,17399.0,3.7565,13.64
+Rajasthan,2022-23,7,July,2431.45,17055.7,12332.0,5.0479,29.61
+Rajasthan,2022-23,6,June,2822.97,17055.7,16012.0,6.51,34.16
+Rajasthan,2022-23,3,March,3371.18,17055.7,15833.0,5.2666,23.97
+Rajasthan,2022-23,5,May,2920.32,17055.7,15949.0,6.9158,35.21
+Rajasthan,2022-23,11,November,2739.45,17055.7,16023.0,4.1614,21.96
+Rajasthan,2022-23,10,October,3170.3,17055.7,14072.0,5.1029,25.72
+Rajasthan,2022-23,9,September,3049.9,17055.7,15843.0,5.5361,28.64
+Rajasthan,2023-24,4,April,3395.19,21347.58,13776.0,6.517,28.38
+Rajasthan,2023-24,8,August,3063.64,21347.58,17420.0,5.5337,28.11
+Rajasthan,2023-24,12,December,2900.31,21347.58,17570.0,3.6125,17.06
+Rajasthan,2023-24,2,February,3292.16,21347.58,17867.0,4.6121,17.74
+Rajasthan,2023-24,1,January,2767.32,21347.58,18128.0,3.3955,14.53
+Rajasthan,2023-24,7,July,3152.47,21347.58,14204.0,5.364,29.35
+Rajasthan,2023-24,6,June,3324.99,21347.58,15840.0,6.4536,30.57
+Rajasthan,2023-24,3,March,4030.83,21347.58,17030.0,5.9786,24.08
+Rajasthan,2023-24,5,May,3499.54,21347.58,16470.0,6.7706,30.95
+Rajasthan,2023-24,11,November,2405.77,21347.58,16409.0,3.2539,21.66
+Rajasthan,2023-24,10,October,3267.98,21347.58,15641.0,5.0532,26.52
+Rajasthan,2023-24,9,September,3265.01,21347.58,17956.0,5.4756,29.39
+Rajasthan,2024-25,4,April,3956.09,28286.47,14283.0,6.132,29.69
+Rajasthan,2024-25,8,August,3290.37,28286.47,13409.0,4.3901,28.09
+Rajasthan,2024-25,12,December,3702.04,28286.47,18643.0,3.3869,15.45
+Rajasthan,2024-25,2,February,3769.24,28286.47,19165.0,4.7074,20.21
+Rajasthan,2024-25,1,January,3854.0,28286.47,18752.0,3.8198,15.54
+Rajasthan,2024-25,7,July,4147.31,28286.47,16371.0,5.1703,32.22
+Rajasthan,2024-25,6,June,4239.95,28286.47,17774.0,6.2256,35.53
+Rajasthan,2024-25,3,March,5529.16,28286.47,17763.0,6.2633,25.12
+Rajasthan,2024-25,5,May,4511.61,28286.47,17567.0,7.0831,35.9
+Rajasthan,2024-25,11,November,3853.68,28286.47,17434.0,3.8899,22.68
+Rajasthan,2024-25,10,October,4278.62,28286.47,16206.0,4.9531,27.26
+Rajasthan,2024-25,9,September,3969.55,28286.47,16292.0,4.9894,28.24
 Rajasthan,2025-26,4,April,5687.92,41012.62,15800.0,7.0219,32.11
-Rajasthan,2025-26,8,August,4790.67,41012.62,30292.0,5.0638,28.38
-Rajasthan,2025-26,12,December,4564.38,41012.62,23070.0,3.8638,17.36
-Rajasthan,2025-26,7,July,4631.38,41012.62,30818.0,4.4935,29.06
-Rajasthan,2025-26,6,June,4875.69,41012.62,31486.0,5.845,33.71
-Rajasthan,2025-26,5,May,5351.68,41012.62,29873.0,6.5234,34.67
-Rajasthan,2025-26,11,November,4418.51,41012.62,19341.0,4.163,19.35
-Rajasthan,2025-26,10,October,4597.43,41012.62,26269.0,4.5794,23.94
-Rajasthan,2025-26,9,September,4953.92,41012.62,30260.0,5.4283,27.17
+Rajasthan,2025-26,8,August,4790.67,41012.62,17607.0,5.0638,28.38
+Rajasthan,2025-26,12,December,4564.38,41012.62,19100.0,3.8638,17.36
+Rajasthan,2025-26,7,July,4631.38,41012.62,14685.0,4.4935,29.06
+Rajasthan,2025-26,6,June,4875.69,41012.62,18509.0,5.845,33.71
+Rajasthan,2025-26,5,May,5351.68,41012.62,17336.0,6.5234,34.67
+Rajasthan,2025-26,11,November,4418.51,41012.62,17859.0,4.163,19.35
+Rajasthan,2025-26,10,October,4597.43,41012.62,14165.0,4.5794,23.94
+Rajasthan,2025-26,9,September,4953.92,41012.62,16020.0,5.4283,27.17
 Sikkim,2015-16,4,April,0.0,1.87,77.0,4.2456,6.6
 Sikkim,2015-16,8,August,0.0,1.87,83.0,3.8297,13.13
 Sikkim,2015-16,12,December,0.0,1.87,108.0,3.246,0.62
@@ -3488,7 +3466,6 @@ Sikkim,2015-16,5,May,0.0,1.87,77.0,4.6421,10.65
 Sikkim,2015-16,11,November,0.0,1.87,95.0,3.6775,5.47
 Sikkim,2015-16,10,October,0.0,1.87,95.0,4.2643,8.54
 Sikkim,2015-16,9,September,0.0,1.87,83.0,4.0094,12.35
-Sikkim,2016-17,4,April,0.0,1.87,112.0,5.2949,8.39
 Sikkim,2016-17,8,August,0.0,1.87,97.0,4.5041,13.5
 Sikkim,2016-17,12,December,0.0,1.87,91.0,3.8203,4.06
 Sikkim,2016-17,2,February,0.0,1.87,91.0,4.0526,2.77
@@ -3499,6 +3476,7 @@ Sikkim,2016-17,3,March,0.0,1.87,91.0,3.9792,2.84
 Sikkim,2016-17,5,May,0.0,1.87,93.0,4.2478,9.79
 Sikkim,2016-17,11,November,0.0,1.87,92.0,4.487,5.81
 Sikkim,2016-17,10,October,0.0,1.87,92.0,3.8993,9.23
+Sikkim,2016-17,9,September,0.0,1.87,97.0,3.313,11.67
 Sikkim,2017-18,4,April,0.0,1.87,91.0,4.8053,7.52
 Sikkim,2017-18,8,August,0.0,1.87,86.0,3.8402,13.42
 Sikkim,2017-18,12,December,0.0,1.87,94.0,4.0378,3.96
@@ -3612,11 +3590,10 @@ Tamil Nadu,2015-16,1,January,57.11,1090.57,13207.0,5.0378,22.65
 Tamil Nadu,2015-16,7,July,19.46,1090.57,13455.0,5.916,29.46
 Tamil Nadu,2015-16,6,June,18.5,1090.57,13580.0,5.687,28.31
 Tamil Nadu,2015-16,3,March,149.31,1090.57,14168.0,6.5126,29.92
-Tamil Nadu,2015-16,5,May,17.18,1090.57,13010.0,5.5678,28.87
+Tamil Nadu,2015-16,5,May,17.18,1090.57,12744.0,5.5678,28.87
 Tamil Nadu,2015-16,11,November,34.99,1090.57,12188.0,3.4178,24.77
 Tamil Nadu,2015-16,10,October,35.34,1090.57,12965.0,5.3465,26.8
 Tamil Nadu,2015-16,9,September,21.25,1090.57,13533.0,5.6462,28.91
-Tamil Nadu,2016-17,4,April,130.04,1728.52,14823.0,6.8215,32.97
 Tamil Nadu,2016-17,8,August,143.48,1728.52,14237.0,5.9306,29.12
 Tamil Nadu,2016-17,12,December,168.17,1728.52,13319.0,4.4844,25.4
 Tamil Nadu,2016-17,2,February,196.87,1728.52,13647.0,6.3391,25.43
@@ -3718,7 +3695,6 @@ Tamil Nadu,2024-25,12,December,1165.04,10153.58,15997.0,3.6679,24.69
 Tamil Nadu,2024-25,2,February,1705.46,10153.58,18322.0,6.2995,25.17
 Tamil Nadu,2024-25,1,January,1223.51,10153.58,16992.0,4.5686,22.96
 Tamil Nadu,2024-25,7,July,1241.93,10153.58,18197.0,4.627,28.69
-Tamil Nadu,2024-25,6,June,1220.11,10153.58,18501.0,5.4542,28.53
 Tamil Nadu,2024-25,3,March,1603.08,10153.58,19679.0,6.3043,28.51
 Tamil Nadu,2024-25,5,May,1163.64,10153.58,20784.0,5.135,30.82
 Tamil Nadu,2024-25,11,November,1007.56,10153.58,16570.0,3.781,25.12
@@ -3741,7 +3717,7 @@ Telangana,2015-16,1,January,42.56,531.98,6370.0,4.6546,22.81
 Telangana,2015-16,7,July,29.38,531.98,6468.0,5.5529,28.51
 Telangana,2015-16,6,June,21.91,531.98,5923.0,4.6625,28.88
 Telangana,2015-16,3,March,58.4,531.98,6656.0,5.9455,30.22
-Telangana,2015-16,5,May,28.54,531.98,6116.0,6.8429,34.01
+Telangana,2015-16,5,May,28.54,531.98,5947.0,6.8429,34.01
 Telangana,2015-16,11,November,35.78,531.98,6484.0,4.6205,25.57
 Telangana,2015-16,10,October,36.42,531.98,6854.0,5.3911,27.06
 Telangana,2015-16,9,September,33.01,531.98,6588.0,5.0458,26.47
@@ -3870,7 +3846,7 @@ Tripura,2015-16,1,January,0.54,7.95,219.0,3.9449,18.27
 Tripura,2015-16,7,July,0.35,7.95,250.0,3.769,27.05
 Tripura,2015-16,6,June,0.42,7.95,249.0,4.3862,27.56
 Tripura,2015-16,3,March,0.59,7.95,251.0,5.0935,26.74
-Tripura,2015-16,5,May,0.55,7.95,300.0,5.2428,27.25
+Tripura,2015-16,5,May,0.55,7.95,254.0,5.2428,27.25
 Tripura,2015-16,11,November,0.63,7.95,243.0,4.6272,22.1
 Tripura,2015-16,10,October,0.57,7.95,269.0,4.6942,25.32
 Tripura,2015-16,9,September,0.57,7.95,269.0,4.4054,27.07
@@ -3880,6 +3856,7 @@ Tripura,2016-17,12,December,0.64,8.31,230.0,4.2612,19.72
 Tripura,2016-17,2,February,0.62,8.31,223.0,5.1442,21.65
 Tripura,2016-17,1,January,0.69,8.31,224.0,4.6766,18.47
 Tripura,2016-17,7,July,0.39,8.31,259.0,4.3783,27.38
+Tripura,2016-17,6,June,0.58,8.31,275.0,5.1713,27.7
 Tripura,2016-17,3,March,0.62,8.31,228.0,4.8845,23.43
 Tripura,2016-17,5,May,0.5,8.31,252.0,5.0155,27.48
 Tripura,2016-17,11,November,0.64,8.31,266.0,4.415,22.19
@@ -3998,16 +3975,16 @@ Uttar Pradesh,2015-16,1,January,12.86,185.09,13862.0,3.1675,17.01
 Uttar Pradesh,2015-16,7,July,6.98,185.09,16438.0,5.4854,30.85
 Uttar Pradesh,2015-16,6,June,6.51,185.09,15391.0,6.2234,36.65
 Uttar Pradesh,2015-16,3,March,19.07,185.09,14595.0,5.6227,27.14
-Uttar Pradesh,2015-16,5,May,8.72,185.09,14696.0,6.9732,35.42
+Uttar Pradesh,2015-16,5,May,8.72,185.09,12991.0,6.9732,35.42
 Uttar Pradesh,2015-16,11,November,8.33,185.09,14682.0,3.5102,23.97
 Uttar Pradesh,2015-16,10,October,9.69,185.09,16759.0,4.7189,27.84
 Uttar Pradesh,2015-16,9,September,8.07,185.09,16988.0,5.6436,30.08
-Uttar Pradesh,2016-17,4,April,18.99,388.81,16341.0,6.6326,33.96
 Uttar Pradesh,2016-17,8,August,10.98,388.81,15614.0,4.921,28.79
 Uttar Pradesh,2016-17,12,December,19.96,388.81,13748.0,2.5831,16.34
 Uttar Pradesh,2016-17,2,February,30.13,388.81,14133.0,4.7806,19.62
 Uttar Pradesh,2016-17,1,January,27.09,388.81,14344.0,3.0602,15.72
 Uttar Pradesh,2016-17,7,July,11.61,388.81,16123.0,4.3162,29.57
+Uttar Pradesh,2016-17,6,June,16.62,388.81,16450.0,5.8618,34.92
 Uttar Pradesh,2016-17,3,March,38.97,388.81,16110.0,5.9306,24.94
 Uttar Pradesh,2016-17,5,May,18.93,388.81,16498.0,6.4279,35.31
 Uttar Pradesh,2016-17,11,November,26.47,388.81,14424.0,3.7402,19.43
@@ -4039,85 +4016,85 @@ Uttar Pradesh,2018-19,10,October,120.34,1047.43,17434.0,5.0693,24.44
 Uttar Pradesh,2018-19,9,September,98.81,1047.43,18346.0,4.5893,27.07
 Uttar Pradesh,2019-20,4,April,123.89,1208.52,19935.0,6.5623,31.89
 Uttar Pradesh,2019-20,8,August,107.02,1208.52,21812.0,4.6464,28.9
-Uttar Pradesh,2019-20,12,December,93.35,1208.52,2233.0,2.1662,13.2
-Uttar Pradesh,2019-20,2,February,149.28,1208.52,2233.0,4.333,15.78
-Uttar Pradesh,2019-20,1,January,118.16,1208.52,2208.0,2.7502,12.84
+Uttar Pradesh,2019-20,12,December,93.35,1208.52,17712.0,2.1662,13.2
+Uttar Pradesh,2019-20,2,February,149.28,1208.52,16777.0,4.333,15.78
+Uttar Pradesh,2019-20,1,January,118.16,1208.52,16987.0,2.7502,12.84
 Uttar Pradesh,2019-20,7,July,107.48,1208.52,22599.0,4.5415,30.54
 Uttar Pradesh,2019-20,6,June,131.06,1208.52,21988.0,5.9626,36.95
-Uttar Pradesh,2019-20,3,March,153.67,1208.52,1892.0,5.1197,22.68
+Uttar Pradesh,2019-20,3,March,153.67,1208.52,14592.0,5.1197,22.68
 Uttar Pradesh,2019-20,5,May,145.87,1208.52,22487.0,7.1945,36.18
-Uttar Pradesh,2019-20,11,November,108.9,1208.52,1818.0,3.1505,19.74
+Uttar Pradesh,2019-20,11,November,108.9,1208.52,15271.0,3.1505,19.74
 Uttar Pradesh,2019-20,10,October,115.22,1208.52,17707.0,4.0416,23.59
 Uttar Pradesh,2019-20,9,September,93.17,1208.52,21895.0,3.7481,27.35
-Uttar Pradesh,2020-21,4,April,154.69,1836.27,1233.0,6.3881,29.32
-Uttar Pradesh,2020-21,8,August,123.35,1836.27,1997.0,4.6075,28.84
-Uttar Pradesh,2020-21,12,December,128.05,1836.27,2287.0,3.048,16.43
-Uttar Pradesh,2020-21,2,February,214.8,1836.27,2340.0,4.6212,20.79
-Uttar Pradesh,2020-21,1,January,133.05,1836.27,2372.0,2.6251,16.51
-Uttar Pradesh,2020-21,7,July,130.02,1836.27,2030.0,4.5718,29.47
-Uttar Pradesh,2020-21,6,June,127.57,1836.27,1942.0,5.1012,32.24
-Uttar Pradesh,2020-21,3,March,257.81,1836.27,2068.0,5.7883,27.67
-Uttar Pradesh,2020-21,5,May,169.45,1836.27,1797.0,6.8146,33.51
-Uttar Pradesh,2020-21,11,November,134.61,1836.27,1988.0,3.5215,20.7
-Uttar Pradesh,2020-21,10,October,148.13,1836.27,1917.0,4.6733,26.63
-Uttar Pradesh,2020-21,9,September,134.65,1836.27,2076.0,4.7314,28.57
-Uttar Pradesh,2021-22,4,April,267.46,2244.43,1917.0,6.7526,31.22
-Uttar Pradesh,2021-22,8,August,216.68,2244.43,2269.0,4.2814,28.58
-Uttar Pradesh,2021-22,12,December,202.55,2244.43,2318.0,2.7785,14.28
-Uttar Pradesh,2021-22,2,February,277.87,2244.43,2379.0,4.5586,15.76
-Uttar Pradesh,2021-22,1,January,190.88,2244.43,2468.0,2.5505,12.52
-Uttar Pradesh,2021-22,7,July,217.26,2244.43,2269.0,4.674,30.54
-Uttar Pradesh,2021-22,6,June,195.61,2244.43,2189.0,5.207,31.1
-Uttar Pradesh,2021-22,3,March,348.38,2244.43,2162.0,5.8512,25.43
-Uttar Pradesh,2021-22,5,May,259.5,2244.43,1798.0,5.6266,31.48
-Uttar Pradesh,2021-22,11,November,215.16,2244.43,1967.0,3.4651,17.5
-Uttar Pradesh,2021-22,10,October,276.35,2244.43,2066.0,4.6169,24.38
-Uttar Pradesh,2021-22,9,September,232.72,2244.43,2074.0,4.4993,27.78
-Uttar Pradesh,2022-23,4,April,332.97,2515.22,2329.0,6.8328,33.32
-Uttar Pradesh,2022-23,8,August,276.99,2515.22,2339.0,4.5715,29.78
-Uttar Pradesh,2022-23,12,December,285.47,2515.22,2374.0,3.191,14.35
-Uttar Pradesh,2022-23,2,February,354.58,2515.22,2368.0,5.01,19.25
-Uttar Pradesh,2022-23,1,January,248.38,2515.22,2492.0,2.557,13.84
-Uttar Pradesh,2022-23,7,July,293.09,2515.22,2342.0,5.1394,32.67
-Uttar Pradesh,2022-23,6,June,307.57,2515.22,2594.0,5.8406,36.2
-Uttar Pradesh,2022-23,3,March,373.45,2515.22,2185.0,5.0818,24.74
-Uttar Pradesh,2022-23,5,May,331.02,2515.22,2354.0,6.2621,34.32
-Uttar Pradesh,2022-23,11,November,291.58,2515.22,2141.0,3.701,18.55
-Uttar Pradesh,2022-23,10,October,305.79,2515.22,2092.0,4.1986,23.94
-Uttar Pradesh,2022-23,9,September,273.12,2515.22,2313.0,4.2972,28.14
-Uttar Pradesh,2023-24,4,April,376.83,2920.33,2228.0,6.1721,29.32
-Uttar Pradesh,2023-24,8,August,304.35,2920.33,2303.0,4.3294,28.8
-Uttar Pradesh,2023-24,12,December,255.67,2920.33,2417.0,2.6086,16.81
-Uttar Pradesh,2023-24,2,February,340.29,2920.33,2523.0,4.0915,18.0
-Uttar Pradesh,2023-24,1,January,205.22,2920.33,2635.0,1.9781,14.01
-Uttar Pradesh,2023-24,7,July,313.04,2920.33,2298.0,4.8557,30.61
-Uttar Pradesh,2023-24,6,June,357.4,2920.33,2536.0,5.9606,35.44
-Uttar Pradesh,2023-24,3,March,458.82,2920.33,2260.0,5.6518,24.22
-Uttar Pradesh,2023-24,5,May,414.58,2920.33,2415.0,6.839,32.43
-Uttar Pradesh,2023-24,11,November,267.04,2920.33,2141.0,3.0562,21.68
-Uttar Pradesh,2023-24,10,October,368.24,2920.33,2259.0,4.7964,25.42
-Uttar Pradesh,2023-24,9,September,309.84,2920.33,2368.0,4.56,28.0
-Uttar Pradesh,2024-25,4,April,466.01,3364.07,2357.0,6.3708,32.43
-Uttar Pradesh,2024-25,8,August,376.64,3364.07,2482.0,4.26,28.62
-Uttar Pradesh,2024-25,12,December,356.36,3364.07,2504.0,2.8337,15.66
-Uttar Pradesh,2024-25,2,February,447.37,3364.07,2477.0,4.7165,19.72
-Uttar Pradesh,2024-25,1,January,353.8,3364.07,2568.0,2.8471,15.59
-Uttar Pradesh,2024-25,7,July,368.01,3364.07,2545.0,4.3519,29.66
-Uttar Pradesh,2024-25,6,June,422.6,3364.07,2863.0,5.9038,37.56
-Uttar Pradesh,2024-25,3,March,564.83,3364.07,2202.0,6.1226,26.16
-Uttar Pradesh,2024-25,5,May,476.76,3364.07,2781.0,6.4476,35.52
-Uttar Pradesh,2024-25,11,November,351.86,3364.07,2249.0,3.2945,20.45
-Uttar Pradesh,2024-25,10,October,420.87,3364.07,2412.0,4.5694,25.49
-Uttar Pradesh,2024-25,9,September,360.95,3364.07,2564.0,4.2665,27.88
+Uttar Pradesh,2020-21,4,April,154.69,1836.27,16889.0,6.3881,29.32
+Uttar Pradesh,2020-21,8,August,123.35,1836.27,23020.0,4.6075,28.84
+Uttar Pradesh,2020-21,12,December,128.05,1836.27,18185.0,3.048,16.43
+Uttar Pradesh,2020-21,2,February,214.8,1836.27,18308.0,4.6212,20.79
+Uttar Pradesh,2020-21,1,January,133.05,1836.27,18995.0,2.6251,16.51
+Uttar Pradesh,2020-21,7,July,130.02,1836.27,23419.0,4.5718,29.47
+Uttar Pradesh,2020-21,6,June,127.57,1836.27,22110.0,5.1012,32.24
+Uttar Pradesh,2020-21,3,March,257.81,1836.27,18593.0,5.7883,27.67
+Uttar Pradesh,2020-21,5,May,169.45,1836.27,21331.0,6.8146,33.51
+Uttar Pradesh,2020-21,11,November,134.61,1836.27,15496.0,3.5215,20.7
+Uttar Pradesh,2020-21,10,October,148.13,1836.27,21029.0,4.6733,26.63
+Uttar Pradesh,2020-21,9,September,134.65,1836.27,23797.0,4.7314,28.57
+Uttar Pradesh,2021-22,4,April,267.46,2244.43,19837.0,6.7526,31.22
+Uttar Pradesh,2021-22,8,August,216.68,2244.43,23963.0,4.2814,28.58
+Uttar Pradesh,2021-22,12,December,202.55,2244.43,18587.0,2.7785,14.28
+Uttar Pradesh,2021-22,2,February,277.87,2244.43,19088.0,4.5586,15.76
+Uttar Pradesh,2021-22,1,January,190.88,2244.43,19840.0,2.5505,12.52
+Uttar Pradesh,2021-22,7,July,217.26,2244.43,24965.0,4.674,30.54
+Uttar Pradesh,2021-22,6,June,195.61,2244.43,24574.0,5.207,31.1
+Uttar Pradesh,2021-22,3,March,348.38,2244.43,20479.0,5.8512,25.43
+Uttar Pradesh,2021-22,5,May,259.5,2244.43,20604.0,5.6266,31.48
+Uttar Pradesh,2021-22,11,November,215.16,2244.43,16119.0,3.4651,17.5
+Uttar Pradesh,2021-22,10,October,276.35,2244.43,20174.0,4.6169,24.38
+Uttar Pradesh,2021-22,9,September,232.72,2244.43,22990.0,4.4993,27.78
+Uttar Pradesh,2022-23,4,April,332.97,2515.22,21146.0,6.8328,33.32
+Uttar Pradesh,2022-23,8,August,276.99,2515.22,25437.0,4.5715,29.78
+Uttar Pradesh,2022-23,12,December,285.47,2515.22,19970.0,3.191,14.35
+Uttar Pradesh,2022-23,2,February,354.58,2515.22,18602.0,5.01,19.25
+Uttar Pradesh,2022-23,1,January,248.38,2515.22,21342.0,2.557,13.84
+Uttar Pradesh,2022-23,7,July,293.09,2515.22,25951.0,5.1394,32.67
+Uttar Pradesh,2022-23,6,June,307.57,2515.22,25456.0,5.8406,36.2
+Uttar Pradesh,2022-23,3,March,373.45,2515.22,19572.0,5.0818,24.74
+Uttar Pradesh,2022-23,5,May,331.02,2515.22,25046.0,6.2621,34.32
+Uttar Pradesh,2022-23,11,November,291.58,2515.22,17387.0,3.701,18.55
+Uttar Pradesh,2022-23,10,October,305.79,2515.22,22631.0,4.1986,23.94
+Uttar Pradesh,2022-23,9,September,273.12,2515.22,27369.0,4.2972,28.14
+Uttar Pradesh,2023-24,4,April,376.83,2920.33,23473.0,6.1721,29.32
+Uttar Pradesh,2023-24,8,August,304.35,2920.33,27689.0,4.3294,28.8
+Uttar Pradesh,2023-24,12,December,255.67,2920.33,19874.0,2.6086,16.81
+Uttar Pradesh,2023-24,2,February,340.29,2920.33,20346.0,4.0915,18.0
+Uttar Pradesh,2023-24,1,January,205.22,2920.33,22703.0,1.9781,14.01
+Uttar Pradesh,2023-24,7,July,313.04,2920.33,28704.0,4.8557,30.61
+Uttar Pradesh,2023-24,6,June,357.4,2920.33,27611.0,5.9606,35.44
+Uttar Pradesh,2023-24,3,March,458.82,2920.33,21243.0,5.6518,24.22
+Uttar Pradesh,2023-24,5,May,414.58,2920.33,26386.0,6.839,32.43
+Uttar Pradesh,2023-24,11,November,267.04,2920.33,19033.0,3.0562,21.68
+Uttar Pradesh,2023-24,10,October,368.24,2920.33,24096.0,4.7964,25.42
+Uttar Pradesh,2023-24,9,September,309.84,2920.33,27389.0,4.56,28.0
+Uttar Pradesh,2024-25,4,April,466.01,3364.07,25462.0,6.3708,32.43
+Uttar Pradesh,2024-25,8,August,376.64,3364.07,29126.0,4.26,28.62
+Uttar Pradesh,2024-25,12,December,356.36,3364.07,20666.0,2.8337,15.66
+Uttar Pradesh,2024-25,2,February,447.37,3364.07,20456.0,4.7165,19.72
+Uttar Pradesh,2024-25,1,January,353.8,3364.07,22034.0,2.8471,15.59
+Uttar Pradesh,2024-25,7,July,368.01,3364.07,30298.0,4.3519,29.66
+Uttar Pradesh,2024-25,6,June,422.6,3364.07,30618.0,5.9038,37.56
+Uttar Pradesh,2024-25,3,March,564.83,3364.07,21869.0,6.1226,26.16
+Uttar Pradesh,2024-25,5,May,476.76,3364.07,29727.0,6.4476,35.52
+Uttar Pradesh,2024-25,11,November,351.86,3364.07,19929.0,3.2945,20.45
+Uttar Pradesh,2024-25,10,October,420.87,3364.07,26756.0,4.5694,25.49
+Uttar Pradesh,2024-25,9,September,360.95,3364.07,29347.0,4.2665,27.88
 Uttar Pradesh,2025-26,4,April,528.98,4123.14,26278.0,6.2136,30.78
-Uttar Pradesh,2025-26,8,August,375.31,4123.14,2510.0,4.1321,28.65
-Uttar Pradesh,2025-26,12,December,353.77,4123.14,2631.0,2.5466,14.22
-Uttar Pradesh,2025-26,7,July,394.96,4123.14,2673.0,4.547,30.32
-Uttar Pradesh,2025-26,6,June,431.29,4123.14,2910.0,5.2661,34.14
-Uttar Pradesh,2025-26,5,May,516.55,4123.14,2668.0,6.0331,34.29
-Uttar Pradesh,2025-26,11,November,423.6,4123.14,2297.0,3.5791,17.7
-Uttar Pradesh,2025-26,10,October,412.48,4123.14,2466.0,4.0171,23.95
-Uttar Pradesh,2025-26,9,September,421.21,4123.14,2677.0,4.4498,27.86
+Uttar Pradesh,2025-26,8,August,375.31,4123.14,30292.0,4.1321,28.65
+Uttar Pradesh,2025-26,12,December,353.77,4123.14,23070.0,2.5466,14.22
+Uttar Pradesh,2025-26,7,July,394.96,4123.14,30818.0,4.547,30.32
+Uttar Pradesh,2025-26,6,June,431.29,4123.14,31486.0,5.2661,34.14
+Uttar Pradesh,2025-26,5,May,516.55,4123.14,29873.0,6.0331,34.29
+Uttar Pradesh,2025-26,11,November,423.6,4123.14,19341.0,3.5791,17.7
+Uttar Pradesh,2025-26,10,October,412.48,4123.14,26269.0,4.0171,23.95
+Uttar Pradesh,2025-26,9,September,421.21,4123.14,30260.0,4.4498,27.86
 Uttarakhand,2015-16,4,April,0.65,49.67,1837.0,5.1672,20.37
 Uttarakhand,2015-16,8,August,0.34,49.67,1928.0,5.5181,22.76
 Uttarakhand,2015-16,12,December,0.34,49.67,2025.0,3.3324,11.57
@@ -4126,7 +4103,7 @@ Uttarakhand,2015-16,1,January,0.36,49.67,2034.0,3.3415,10.85
 Uttarakhand,2015-16,7,July,0.5,49.67,1948.0,5.2913,23.69
 Uttarakhand,2015-16,6,June,0.23,49.67,1986.0,5.4929,27.43
 Uttarakhand,2015-16,3,March,0.73,49.67,1817.0,4.4393,18.41
-Uttarakhand,2015-16,5,May,0.61,49.67,1965.0,6.4711,26.97
+Uttarakhand,2015-16,5,May,0.61,49.67,1925.0,6.4711,26.97
 Uttarakhand,2015-16,11,November,0.45,49.67,1805.0,3.9929,16.16
 Uttarakhand,2015-16,10,October,0.5,49.67,1865.0,4.8175,19.02
 Uttarakhand,2015-16,9,September,0.56,49.67,1948.0,5.7778,21.8
@@ -4136,6 +4113,7 @@ Uttarakhand,2016-17,12,December,2.5,242.03,1857.0,3.822,13.11
 Uttarakhand,2016-17,2,February,3.17,242.03,1973.0,3.9785,14.17
 Uttarakhand,2016-17,1,January,2.46,242.03,2037.0,2.453,10.26
 Uttarakhand,2016-17,7,July,2.71,242.03,1972.0,4.8156,24.18
+Uttarakhand,2016-17,6,June,2.6,242.03,2020.0,6.1334,27.16
 Uttarakhand,2016-17,3,March,4.0,242.03,1843.0,4.6973,16.76
 Uttarakhand,2016-17,5,May,0.6,242.03,2013.0,6.1747,26.59
 Uttarakhand,2016-17,11,November,2.7,242.03,1785.0,4.5238,16.1
@@ -4167,85 +4145,85 @@ Uttarakhand,2018-19,10,October,31.25,317.08,1943.0,4.7774,17.41
 Uttarakhand,2018-19,9,September,23.1,317.08,1996.0,4.7417,21.46
 Uttarakhand,2019-20,4,April,36.12,327.57,1922.0,5.8034,22.49
 Uttarakhand,2019-20,8,August,26.76,327.57,2077.0,4.7182,23.53
-Uttarakhand,2019-20,12,December,19.24,327.57,52234.0,3.0418,9.48
-Uttarakhand,2019-20,2,February,29.12,327.57,51107.0,3.8534,10.71
-Uttarakhand,2019-20,1,January,18.94,327.57,51338.0,2.2414,7.71
+Uttarakhand,2019-20,12,December,19.24,327.57,2233.0,3.0418,9.48
+Uttarakhand,2019-20,2,February,29.12,327.57,2233.0,3.8534,10.71
+Uttarakhand,2019-20,1,January,18.94,327.57,2208.0,2.2414,7.71
 Uttarakhand,2019-20,7,July,27.86,327.57,2158.0,4.681,25.03
 Uttarakhand,2019-20,6,June,36.9,327.57,2164.0,6.4766,28.62
-Uttarakhand,2019-20,3,March,36.24,327.57,46133.0,4.2569,14.25
+Uttarakhand,2019-20,3,March,36.24,327.57,1892.0,4.2569,14.25
 Uttarakhand,2019-20,5,May,26.51,327.57,2155.0,6.1236,26.17
-Uttarakhand,2019-20,11,November,25.24,327.57,44755.0,3.1313,15.41
+Uttarakhand,2019-20,11,November,25.24,327.57,1818.0,3.1313,15.41
 Uttarakhand,2019-20,10,October,29.38,327.57,1797.0,4.4935,18.08
 Uttarakhand,2019-20,9,September,29.2,327.57,2048.0,4.7789,22.07
-Uttarakhand,2020-21,4,April,36.63,380.13,41228.0,5.2236,19.88
-Uttarakhand,2020-21,8,August,25.63,380.13,64836.0,4.9198,23.31
-Uttarakhand,2020-21,12,December,25.63,380.13,56500.0,3.3041,12.22
-Uttarakhand,2020-21,2,February,24.63,380.13,57013.0,4.2151,13.82
-Uttarakhand,2020-21,1,January,17.1,380.13,57013.0,3.5251,11.26
-Uttarakhand,2020-21,7,July,29.74,380.13,68288.0,5.3129,24.26
-Uttarakhand,2020-21,6,June,34.03,380.13,65336.0,6.2258,25.58
-Uttarakhand,2020-21,3,March,24.63,380.13,53076.0,5.089,18.61
-Uttarakhand,2020-21,5,May,34.73,380.13,57116.0,5.9218,23.88
-Uttarakhand,2020-21,11,November,25.63,380.13,48652.0,3.5458,14.96
-Uttarakhand,2020-21,10,October,25.63,380.13,58213.0,5.6755,20.03
-Uttarakhand,2020-21,9,September,25.63,380.13,67891.0,5.5262,22.46
-Uttarakhand,2021-22,4,April,24.63,573.54,52202.0,5.5822,21.85
-Uttarakhand,2021-22,8,August,24.63,573.54,73305.0,5.1168,22.92
-Uttarakhand,2021-22,12,December,24.63,573.54,55696.0,2.939,9.96
-Uttarakhand,2021-22,2,February,27.65,573.54,56363.0,3.581,9.68
-Uttarakhand,2021-22,1,January,24.63,573.54,56363.0,2.7235,8.29
-Uttarakhand,2021-22,7,July,24.63,573.54,73305.0,5.0052,24.73
-Uttarakhand,2021-22,6,June,24.63,573.54,73116.0,5.6518,25.17
-Uttarakhand,2021-22,3,March,27.65,573.54,54940.0,5.5409,18.55
-Uttarakhand,2021-22,5,May,24.63,573.54,53035.0,5.3026,23.53
-Uttarakhand,2021-22,11,November,24.63,573.54,50344.0,4.0644,13.99
-Uttarakhand,2021-22,10,October,24.63,573.54,58641.0,4.447,18.92
-Uttarakhand,2021-22,9,September,24.63,573.54,63731.0,4.5514,21.9
-Uttarakhand,2022-23,4,April,27.65,575.53,63270.0,6.2534,24.44
-Uttarakhand,2022-23,8,August,27.65,575.53,74748.0,4.8029,23.55
-Uttarakhand,2022-23,12,December,27.65,575.53,59995.0,3.5729,12.03
-Uttarakhand,2022-23,2,February,27.65,575.53,59194.0,3.9288,14.21
-Uttarakhand,2022-23,1,January,27.65,575.53,63621.0,2.9844,10.18
-Uttarakhand,2022-23,7,July,27.65,575.53,74748.0,4.908,24.4
-Uttarakhand,2022-23,6,June,27.65,575.53,77337.0,6.3576,27.6
-Uttarakhand,2022-23,3,March,27.65,575.53,56200.0,4.1546,16.71
-Uttarakhand,2022-23,5,May,27.65,575.53,68399.0,5.3897,25.94
-Uttarakhand,2022-23,11,November,27.65,575.53,54006.0,3.7123,14.56
-Uttarakhand,2022-23,10,October,27.65,575.53,60710.0,4.0526,18.14
-Uttarakhand,2022-23,9,September,27.65,575.53,76474.0,4.3728,22.02
-Uttarakhand,2023-24,4,April,27.65,575.53,61740.0,4.9682,20.34
-Uttarakhand,2023-24,8,August,27.65,575.53,80980.0,4.9001,23.18
-Uttarakhand,2023-24,12,December,27.65,575.53,61380.0,3.5246,11.86
-Uttarakhand,2023-24,2,February,27.65,575.53,63481.0,3.5602,11.05
-Uttarakhand,2023-24,1,January,27.65,575.53,208.0,3.6223,9.58
-Uttarakhand,2023-24,7,July,27.65,575.53,77145.0,4.218,23.55
-Uttarakhand,2023-24,6,June,27.65,575.53,77341.0,5.2452,25.78
-Uttarakhand,2023-24,3,March,27.65,575.53,60002.0,4.2271,16.69
-Uttarakhand,2023-24,5,May,27.65,575.53,72625.0,4.9505,22.83
-Uttarakhand,2023-24,11,November,27.65,575.53,56366.0,3.7001,15.52
-Uttarakhand,2023-24,10,October,27.65,575.53,67382.0,4.3826,18.19
-Uttarakhand,2023-24,9,September,27.65,575.53,80680.0,5.0803,22.45
-Uttarakhand,2024-25,4,April,27.65,593.07,62884.0,4.7952,22.38
-Uttarakhand,2024-25,8,August,27.65,593.07,77380.0,4.5694,23.39
-Uttarakhand,2024-25,12,December,27.65,593.07,68491.0,3.1469,11.29
-Uttarakhand,2024-25,2,February,27.65,593.07,68573.0,3.4392,12.89
-Uttarakhand,2024-25,1,January,27.65,593.07,228.0,3.0646,11.74
-Uttarakhand,2024-25,7,July,27.65,593.07,87468.0,4.9397,24.48
-Uttarakhand,2024-25,6,June,27.65,593.07,91592.0,5.9789,29.31
-Uttarakhand,2024-25,3,March,27.65,593.07,65384.0,4.4011,17.21
-Uttarakhand,2024-25,5,May,27.65,593.07,86305.0,6.1066,27.36
-Uttarakhand,2024-25,11,November,27.65,593.07,61028.0,4.0277,15.45
-Uttarakhand,2024-25,10,October,27.65,593.07,73686.0,4.8665,19.84
-Uttarakhand,2024-25,9,September,27.65,593.07,80678.0,4.4537,22.68
+Uttarakhand,2020-21,4,April,36.63,380.13,1233.0,5.2236,19.88
+Uttarakhand,2020-21,8,August,25.63,380.13,1997.0,4.9198,23.31
+Uttarakhand,2020-21,12,December,25.63,380.13,2287.0,3.3041,12.22
+Uttarakhand,2020-21,2,February,24.63,380.13,2340.0,4.2151,13.82
+Uttarakhand,2020-21,1,January,17.1,380.13,2372.0,3.5251,11.26
+Uttarakhand,2020-21,7,July,29.74,380.13,2030.0,5.3129,24.26
+Uttarakhand,2020-21,6,June,34.03,380.13,1942.0,6.2258,25.58
+Uttarakhand,2020-21,3,March,24.63,380.13,2068.0,5.089,18.61
+Uttarakhand,2020-21,5,May,34.73,380.13,1797.0,5.9218,23.88
+Uttarakhand,2020-21,11,November,25.63,380.13,1988.0,3.5458,14.96
+Uttarakhand,2020-21,10,October,25.63,380.13,1917.0,5.6755,20.03
+Uttarakhand,2020-21,9,September,25.63,380.13,2076.0,5.5262,22.46
+Uttarakhand,2021-22,4,April,24.63,573.54,1917.0,5.5822,21.85
+Uttarakhand,2021-22,8,August,24.63,573.54,2269.0,5.1168,22.92
+Uttarakhand,2021-22,12,December,24.63,573.54,2318.0,2.939,9.96
+Uttarakhand,2021-22,2,February,27.65,573.54,2379.0,3.581,9.68
+Uttarakhand,2021-22,1,January,24.63,573.54,2468.0,2.7235,8.29
+Uttarakhand,2021-22,7,July,24.63,573.54,2269.0,5.0052,24.73
+Uttarakhand,2021-22,6,June,24.63,573.54,2189.0,5.6518,25.17
+Uttarakhand,2021-22,3,March,27.65,573.54,2162.0,5.5409,18.55
+Uttarakhand,2021-22,5,May,24.63,573.54,1798.0,5.3026,23.53
+Uttarakhand,2021-22,11,November,24.63,573.54,1967.0,4.0644,13.99
+Uttarakhand,2021-22,10,October,24.63,573.54,2066.0,4.447,18.92
+Uttarakhand,2021-22,9,September,24.63,573.54,2074.0,4.5514,21.9
+Uttarakhand,2022-23,4,April,27.65,575.53,2329.0,6.2534,24.44
+Uttarakhand,2022-23,8,August,27.65,575.53,2339.0,4.8029,23.55
+Uttarakhand,2022-23,12,December,27.65,575.53,2374.0,3.5729,12.03
+Uttarakhand,2022-23,2,February,27.65,575.53,2368.0,3.9288,14.21
+Uttarakhand,2022-23,1,January,27.65,575.53,2492.0,2.9844,10.18
+Uttarakhand,2022-23,7,July,27.65,575.53,2342.0,4.908,24.4
+Uttarakhand,2022-23,6,June,27.65,575.53,2594.0,6.3576,27.6
+Uttarakhand,2022-23,3,March,27.65,575.53,2185.0,4.1546,16.71
+Uttarakhand,2022-23,5,May,27.65,575.53,2354.0,5.3897,25.94
+Uttarakhand,2022-23,11,November,27.65,575.53,2141.0,3.7123,14.56
+Uttarakhand,2022-23,10,October,27.65,575.53,2092.0,4.0526,18.14
+Uttarakhand,2022-23,9,September,27.65,575.53,2313.0,4.3728,22.02
+Uttarakhand,2023-24,4,April,27.65,575.53,2228.0,4.9682,20.34
+Uttarakhand,2023-24,8,August,27.65,575.53,2303.0,4.9001,23.18
+Uttarakhand,2023-24,12,December,27.65,575.53,2417.0,3.5246,11.86
+Uttarakhand,2023-24,2,February,27.65,575.53,2523.0,3.5602,11.05
+Uttarakhand,2023-24,1,January,27.65,575.53,2635.0,3.6223,9.58
+Uttarakhand,2023-24,7,July,27.65,575.53,2298.0,4.218,23.55
+Uttarakhand,2023-24,6,June,27.65,575.53,2536.0,5.2452,25.78
+Uttarakhand,2023-24,3,March,27.65,575.53,2260.0,4.2271,16.69
+Uttarakhand,2023-24,5,May,27.65,575.53,2415.0,4.9505,22.83
+Uttarakhand,2023-24,11,November,27.65,575.53,2141.0,3.7001,15.52
+Uttarakhand,2023-24,10,October,27.65,575.53,2259.0,4.3826,18.19
+Uttarakhand,2023-24,9,September,27.65,575.53,2368.0,5.0803,22.45
+Uttarakhand,2024-25,4,April,27.65,593.07,2357.0,4.7952,22.38
+Uttarakhand,2024-25,8,August,27.65,593.07,2482.0,4.5694,23.39
+Uttarakhand,2024-25,12,December,27.65,593.07,2504.0,3.1469,11.29
+Uttarakhand,2024-25,2,February,27.65,593.07,2477.0,3.4392,12.89
+Uttarakhand,2024-25,1,January,27.65,593.07,2568.0,3.0646,11.74
+Uttarakhand,2024-25,7,July,27.65,593.07,2545.0,4.9397,24.48
+Uttarakhand,2024-25,6,June,27.65,593.07,2863.0,5.9789,29.31
+Uttarakhand,2024-25,3,March,27.65,593.07,2202.0,4.4011,17.21
+Uttarakhand,2024-25,5,May,27.65,593.07,2781.0,6.1066,27.36
+Uttarakhand,2024-25,11,November,27.65,593.07,2249.0,4.0277,15.45
+Uttarakhand,2024-25,10,October,27.65,593.07,2412.0,4.8665,19.84
+Uttarakhand,2024-25,9,September,27.65,593.07,2564.0,4.4537,22.68
 Uttarakhand,2025-26,4,April,27.65,837.89,2460.0,5.5714,22.8
-Uttarakhand,2025-26,8,August,27.65,837.89,80688.0,4.2634,22.93
-Uttarakhand,2025-26,12,December,27.65,837.89,71633.0,3.5412,11.5
-Uttarakhand,2025-26,7,July,27.65,837.89,81583.0,4.8053,23.92
-Uttarakhand,2025-26,6,June,27.65,837.89,91335.0,5.0654,25.66
-Uttarakhand,2025-26,5,May,27.65,837.89,82387.0,5.2678,24.55
-Uttarakhand,2025-26,11,November,27.65,837.89,63755.0,4.3068,14.43
-Uttarakhand,2025-26,10,October,27.65,837.89,74215.0,4.4184,18.84
-Uttarakhand,2025-26,9,September,27.65,837.89,81539.0,4.6829,22.19
+Uttarakhand,2025-26,8,August,27.65,837.89,2510.0,4.2634,22.93
+Uttarakhand,2025-26,12,December,27.65,837.89,2631.0,3.5412,11.5
+Uttarakhand,2025-26,7,July,27.65,837.89,2673.0,4.8053,23.92
+Uttarakhand,2025-26,6,June,27.65,837.89,2910.0,5.0654,25.66
+Uttarakhand,2025-26,5,May,27.65,837.89,2668.0,5.2678,24.55
+Uttarakhand,2025-26,11,November,27.65,837.89,2297.0,4.3068,14.43
+Uttarakhand,2025-26,10,October,27.65,837.89,2466.0,4.4184,18.84
+Uttarakhand,2025-26,9,September,27.65,837.89,2677.0,4.6829,22.19
 West Bengal,2015-16,4,April,0.59,19.23,7532.0,5.5428,29.79
 West Bengal,2015-16,8,August,0.52,19.23,7397.0,4.7035,28.33
 West Bengal,2015-16,12,December,0.41,19.23,6483.0,2.712,19.45
@@ -4254,11 +4232,10 @@ West Bengal,2015-16,1,January,0.46,19.23,6261.0,3.349,18.92
 West Bengal,2015-16,7,July,0.43,19.23,7621.0,3.8182,28.39
 West Bengal,2015-16,6,June,0.47,19.23,7873.0,4.693,30.46
 West Bengal,2015-16,3,March,0.62,19.23,7491.0,4.8946,28.16
-West Bengal,2015-16,5,May,0.69,19.23,7644.0,5.9563,31.97
+West Bengal,2015-16,5,May,0.69,19.23,7629.0,5.9563,31.97
 West Bengal,2015-16,11,November,0.5,19.23,6935.0,4.067,23.04
 West Bengal,2015-16,10,October,0.56,19.23,7798.0,4.722,26.49
 West Bengal,2015-16,9,September,0.53,19.23,7702.0,4.7801,28.08
-West Bengal,2016-17,4,April,0.61,38.69,7649.0,6.0338,33.9
 West Bengal,2016-17,8,August,0.5,38.69,7657.0,4.3726,28.23
 West Bengal,2016-17,12,December,1.55,38.69,6210.0,3.6504,17.49
 West Bengal,2016-17,2,February,1.52,38.69,7041.0,4.6195,22.38
@@ -4269,7 +4246,7 @@ West Bengal,2016-17,3,March,1.76,38.69,7864.0,5.3779,26.61
 West Bengal,2016-17,5,May,0.62,38.69,7665.0,5.6167,32.49
 West Bengal,2016-17,11,November,1.72,38.69,7416.0,4.0114,21.07
 West Bengal,2016-17,10,October,1.95,38.69,7931.0,4.7806,25.95
-West Bengal,2017-18,4,April,1.64,49.87,7820.0,5.8824,31.67
+West Bengal,2016-17,9,September,2.07,38.69,7709.0,4.4518,27.72
 West Bengal,2017-18,8,August,1.43,49.87,7787.0,4.1842,28.16
 West Bengal,2017-18,12,December,1.53,49.87,6048.0,3.5839,18.18
 West Bengal,2017-18,2,February,1.36,49.87,6882.0,4.6373,21.02
@@ -4281,7 +4258,6 @@ West Bengal,2017-18,5,May,1.9,49.87,7515.0,6.1291,32.63
 West Bengal,2017-18,11,November,1.71,49.87,6612.0,4.1429,21.38
 West Bengal,2017-18,10,October,1.55,49.87,7785.0,4.0512,26.43
 West Bengal,2017-18,9,September,1.6,49.87,8137.0,4.6493,27.96
-West Bengal,2018-19,4,April,3.18,88.5,8906.0,5.8954,29.59
 West Bengal,2018-19,8,August,3.79,88.5,8510.0,4.1844,28.47
 West Bengal,2018-19,12,December,2.65,88.5,6247.0,3.3902,17.23
 West Bengal,2018-19,2,February,5.35,88.5,7033.0,4.5672,22.32
@@ -4359,7 +4335,6 @@ West Bengal,2024-25,12,December,27.76,320.62,7197.0,3.3682,17.71
 West Bengal,2024-25,2,February,32.81,320.62,8270.0,4.2835,22.08
 West Bengal,2024-25,1,January,30.55,320.62,7789.0,3.5779,17.21
 West Bengal,2024-25,7,July,18.11,320.62,11457.0,4.3824,29.6
-West Bengal,2024-25,6,June,22.67,320.62,12187.0,5.0779,31.21
 West Bengal,2024-25,3,March,43.19,320.62,10675.0,5.429,27.11
 West Bengal,2024-25,5,May,24.01,320.62,12192.0,5.5469,32.33
 West Bengal,2024-25,11,November,29.22,320.62,8765.0,3.9026,22.37
